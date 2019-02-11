@@ -1,102 +1,15 @@
 ---
 layout: page
 title: About
-comments: true
+comments: false
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Rapid development of DNA sequencing technologies has made it possible for biomedical disciplines to rival the physical sciences in data production capability. Today’s sequencing instruments rival those fields in terms of data throughput. Yet biology is different from these disciplines in one fundamental aspect—the lack of computational and data analysis training in standard biomedical curricula.
 
-**License & Download**
+The main challenge with the explosion of biomedical datasets is not the data and the respective required storage space, nor the computational resources, but rather the general lack of trained and skilled researchers to manipulate and analyze these data. The need for such training cannot be overstated; while the majority (>95%) of researchers work or plan to work with large datasets, most (>65%) possess only minimal bioinformatics skills and are not comfortable with statistical analyses (Larcombe et al, 2017; Williams and Teal, 2017). This overwhelming need drives the demand, which, at present, greatly exceeds supply (Attwood et al, 2017). In a recent survey from EMBL-ABR, over 60% of biologists expressed the need for more training while only 5% called for additional computing power.
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+Different communities such as GOBLET, ELIXIR, EMBL, The Carpentries and Galaxy, are tackling this problem by creating and providing high quality, decentralized, accessible, and practical training in computational data analysis to biomedical researchers worldwide.
+The impact of these efforts is already evident, with many researchers now being able to analyze their own data. However, each of these communities are developing material covering one or two aspects of the full data analysis process in life science i.e. data management and metadata, bioinformatics and data analysis, or basic computing and scripting skills. Moreover the provided workshops are not always accessible nor inclusive.
 
-<a href="https://gum.co/affiliates-jekyll-template" target="_blank">Download - Affiliates Jekyll Theme</a>
+Given their cumulative experience and expertise in training for Life Sciences, the next step for these communities is to work together towards a full curriculum on the computational analysis of HTS data, starting from raw data and leading up to the production of publication ready visualizations of the analysis results. More importantly, these training activities should be scalable and accessible to anyone around the globe, particularly for people unable to attend face-to-face workshops due to social, technical or cultural limitations, leveraging new technologies to overcome this obstacle.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
-#### Features
-
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-    - Sharethis Integration
-    - Formspree.io Contact
-- Design Features:
-    - Bootstrap v4.0.0-alpha.6
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post left sidebar
-    - Post right sidebar
-    - Page
-    - Archive
-    
-#### How to Use
-
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Affiliates template in Jekyll:
-
-[Download](https://gum.co/affiliates-jekyll-template){:target="_blank"} or Fork *Affiliates for Jekyll*. 
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, Disqus username, Authors, Mailchimp, ShareThis code (https://www.sharethis.com/) etc.
-- Affiliates requires 2 plugins: 
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Locate the files and customize:
-    - header & footer in <code>default.html</code>. 
-    - homepage in <code>index.html</code>
-    - contact form in <code>contact.html</code> (https://formspree.io/)
-    - post sidebar in <code>includes/sidebar.html</code>
-    - sign up form in <code>includes/newsletter.html</code>
-- Start blogging by adding your .md files in <code>_posts</code>. You will see in examples in the download.
-- YAML front matter
-    - post featured - <code>featured:true</code>
-    - post featured image - <code>image: assets/images/mypic.jpg</code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
-    
-YAML Post Example:
-<pre class="highlight">
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Post Sidebar Right Example:
-<pre class="highlight">
----
-layout: post-sidebar-right
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Page Example
-<pre class="highlight">
----
-layout: page
-title: Affiliates Template for Jekyll
-comments: true
----
-</pre>
