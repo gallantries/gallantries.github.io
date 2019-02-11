@@ -5,7 +5,7 @@ meta_description: "Galaxy and Carpentries deliver Genomics Training"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl:
+baseurl: ""
 email: 'shiltemann@gmail.com'
 google_analytics: 'UA-134263619-1'
 disqus: 'demowebsite'
@@ -16,11 +16,11 @@ authors:
   saskia:
     name: Saskia Hiltemann
     display_name: Saskia Hiltemann
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    github: shiltemann
     email: shiltemann@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: https://shiltemann.github.io
+    twitter: https://twitter.com/shiltemann
+    description: "Bioinformatician, Galaxy trainer, Galaxy tool developer."
   john:
     name: John
     display_name: John
