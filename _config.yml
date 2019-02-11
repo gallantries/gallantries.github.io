@@ -1,1 +1,48 @@
-theme: jekyll-theme-cayman
+# Site
+name: Gallantries: Galaxy meets Carpentries
+description: Bridging Galaxy with the Carpentries for Genomics Training
+meta_description: "Galaxy and Carpentries deliver Genomics Training"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl:
+email: 'shiltemann@gmail.com'
+google_analytics: 'UA-134263619-1'
+disqus: 'demowebsite'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  saskia:
+    name: Saskia Hiltemann
+    display_name: Saskia Hiltemann
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: shiltemann@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
