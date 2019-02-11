@@ -10,12 +10,12 @@ post_class: post-template
 
 	<div class="row">
 
-		<!-- Post -->        
+		<!-- Post -->
         {% assign author = site.authors[page.author] %}
-        
+
 		<div class="col-md-8 col-lg-8">
-			<div class="mainheading">              
-                
+			<div class="mainheading">
+
                 <!-- Post Categories -->
                 <div class="after-post-tags">
                     <ul class="tags">
@@ -28,10 +28,10 @@ post_class: post-template
                     </ul>
                 </div>
                 <!-- End Categories -->
-                
+
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
+				<h1 class="posttitle">{{ page.title }}</h1>
+
 			</div>
 
 			<!-- Post Featured Image -->
@@ -47,15 +47,15 @@ post_class: post-template
             <!-- Post Date -->
             <p>
             <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
                 {% if page.last_modified_at %}
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
                 </small>
             </p>
-            
-			
-            
+
+
+
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks">
               {% if page.previous.url %}
@@ -70,35 +70,35 @@ post_class: post-template
               {% endif %}
             </div>
             <!-- End Prev/Next -->
-            
-            
+
+
              <!-- Author Box -->
-                {% if page.author %}				
+                {% if page.author %}
 				<div class="row post-top-meta">
 					<div class="col-md-2">
-						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+						<img class="author-thumb" src="https://avatars.githubusercontent.com/{{ author.github }}" alt="{{ author.display_name }}">
 					</div>
 					<div class="col-md-10">
 						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-						<span class="author-description">{{ author.description }}</span>						
+						<span class="author-description">{{ author.description }}</span>
 					</div>
-				</div>				
+				</div>
                 {% endif %}
-            
-            
+
+
             <!-- Begin Comments
             ================================================== -->
             <section>
-            <div id="comments">                          
-                {% include disqus.html %} 
+            <div id="comments">
+                {% include disqus.html %}
             </div>
             </section>
             <!--End Comments
             ================================================== -->
-			
+
 		</div>
 		<!-- End Post -->
-        
+
         <!-- Right Sidebar -->
         <div class="col-md-4 col-lg-4">
         <div class="sidebar-right">
