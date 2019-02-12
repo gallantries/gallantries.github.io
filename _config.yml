@@ -11,9 +11,10 @@ email: 'shiltemann@gmail.com'
 #disqus: 'demowebsite'
 
 # Authors
-authors:
+people:
   saskia:
     name: Saskia Hiltemann
+    username: saskia
     display_name: Saskia Hiltemann
     github: shiltemann
     email: shiltemann@gmail.com
@@ -22,6 +23,7 @@ authors:
     description: "Bioinformatician, Galaxy trainer, Galaxy tool developer."
   berenice:
     name: Bérénice Batut
+    username: berenice
     display_name: Bérénice Batut
     github: bebatut
     email:

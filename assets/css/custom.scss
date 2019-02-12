@@ -4,6 +4,70 @@
 ---
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-@import
-	"syntax"
-;
+@import 'syntax';
+
+
+.people {
+	display: grid;
+	grid-gap: 2em;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+
+
+    .card {
+    	background-color: #fafaf0;
+    	box-shadow: 0 2px 3px rgba(0,0,0,0.1),0 0 0 1px rgba(0,0,0,0.1);
+    	color: #323232;
+    	max-width: 100%;
+    	position: relative;
+    }
+
+    .card-content {
+    	background-color: transparent;
+    	padding: 1.5rem;
+    }
+
+    .media {
+    	align-items: flex-start;
+    	display: flex;
+    	text-align: left;
+    }
+
+    .image.is-64x64 {
+    	height: 64px;
+    	width: 64px;
+    }
+
+    .image img.is-rounded {
+    	border-radius: 290486px;
+    }
+
+    .media-left {
+    	margin-right: 1rem;
+    }
+
+    .media-left, .media-right {
+    	flex-basis: auto;
+    	flex-grow: 0;
+    	flex-shrink: 0;
+    }
+
+    .media-content {
+    	flex-basis: auto;
+    	flex-grow: 1;
+    	flex-shrink: 1;
+    	text-align: left;
+
+        a {
+            margin-right: 1rem;
+        }
+    }
+
+    .title.is-4 {
+    	font-size: 1.5rem;
+    }
+
+    .subtitle.is-6 {
+    	font-size: 1rem;
+    }
+
+}

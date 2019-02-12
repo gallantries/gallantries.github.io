@@ -13,3 +13,5 @@ The impact of these efforts is already evident, with many researchers now being 
 
 Given their cumulative experience and expertise in training for Life Sciences, the next step for these communities is to work together towards a full curriculum on the computational analysis of HTS data, starting from raw data and leading up to the production of publication ready visualizations of the analysis results. More importantly, these training activities should be scalable and accessible to anyone around the globe, particularly for people unable to attend face-to-face workshops due to social, technical or cultural limitations, leveraging new technologies to overcome this obstacle.
 
+
+
