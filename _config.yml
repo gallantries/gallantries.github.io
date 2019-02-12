@@ -18,22 +18,36 @@ authors:
     github: shiltemann
     email: shiltemann@gmail.com
     web: https://shiltemann.github.io
-    twitter: https://twitter.com/shiltemann
+    twitter: shiltemann
     description: "Bioinformatician, Galaxy trainer, Galaxy tool developer."
   berenice:
     name: Bérénice Batut
     display_name: Bérénice Batut
     github: bebatut
     email:
-    web: http://bebatur.fr
-    twitter: https://twitter.com/bebatut
-    description: ""
+    web: http://bebatut.fr
+    twitter: bebatut
+    description: "Galaxy and Carpentries Trainer, GTN Community Manager, Mozilla Open Leader"
   helena:
     name: Helena Rasche
     display_name: Helena Rasche
     github: erasche
     email: helena.rasche@gmail.com
     description: UseGalaxy.eu Administrator, Bioinformatician, Galaxy Trainer, Galaxy Tool Developer
+  fotis:
+    name: Fotis Psomopoulos
+    display_name: Fotis Psomopoulos
+    github: fpsom
+    twitter: fopsom
+    email:
+    description: "Trainer, Carpentries lesson maintainer"
+  mateusz:
+    name: Mateusz Kuzak
+    display_name: Mateusz Kuzak
+    github: mkuzak
+    twitter: matkuzak
+    email:
+    description: "DTL Scientific Community Manager, Carpentries Instructor Trainer, Mentor"
 
 # Plugins
 plugins:
