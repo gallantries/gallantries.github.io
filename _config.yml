@@ -1,55 +1,12 @@
 # Site
-name: "Gallantries: Galaxy meets Carpentries"
-description: Bridging Galaxy with the Carpentries for Genomics Training
-meta_description: "Galaxy and Carpentries deliver Genomics Training"
+title: "Gallantries"
+description: >
+  When Galaxy meets Carpentries to develop and deliver open training in life sciences
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-paginate: 12
-baseurl:
 email: 'shiltemann@gmail.com'
-#google_analytics: 'UA-134263619-1'
-#disqus: 'demowebsite'
+repository: galaxy-carpentries/gallantries
+gitter: galaxy-carpentries/community
 
-# Authors
-people:
-  saskia:
-    name: Saskia Hiltemann
-    username: saskia
-    display_name: Saskia Hiltemann
-    github: shiltemann
-    email: shiltemann@gmail.com
-    web: https://shiltemann.github.io
-    twitter: shiltemann
-    description: "Bioinformatician, Galaxy trainer, Galaxy tool developer."
-  berenice:
-    name: Bérénice Batut
-    username: berenice
-    display_name: Bérénice Batut
-    github: bebatut
-    email:
-    web: http://bebatut.fr
-    twitter: bebatut
-    description: "Galaxy and Carpentries Trainer, GTN Community Manager, Mozilla Open Leader"
-  helena:
-    name: Helena Rasche
-    display_name: Helena Rasche
-    github: erasche
-    email: helena.rasche@gmail.com
-    description: UseGalaxy.eu Administrator, Bioinformatician, Galaxy Trainer, Galaxy Tool Developer
-  fotis:
-    name: Fotis Psomopoulos
-    display_name: Fotis Psomopoulos
-    github: fpsom
-    twitter: fopsom
-    email:
-    description: "Trainer, Carpentries lesson maintainer"
-  mateusz:
-    name: Mateusz Kuzak
-    display_name: Mateusz Kuzak
-    github: mkuzak
-    twitter: matkuzak
-    email:
-    description: "DTL Scientific Community Manager, Carpentries Instructor Trainer, Mentor"
 
 # Plugins
 plugins:
@@ -63,7 +20,3 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-
-# Other
-markdown: kramdown
-highlighter: rouge

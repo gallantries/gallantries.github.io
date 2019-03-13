@@ -1,0 +1,41 @@
+# List of people
+#
+# valid tags: name, email, linkedin, twitter, gitter, orcid
+#
+# collection names should be equal to github username, if not, add github: false tag
+---
+
+shiltemann:
+    name: Saskia Hiltemann
+    email: shiltemann@gmail.com
+    web: https://shiltemann.github.io
+    twitter: shiltemann
+    description: >
+        Bioinformatician, Galaxy trainer, Galaxy tool developer
+
+bebatut:
+    name: Bérénice Batut
+    username: berenice
+    email: berenice.batut@gmail.com
+    web: http://bebatut.fr
+    twitter: bebatut
+    description: >
+        Galaxy and Carpentries Trainer, GTN Community Manager, Mozilla Open Leader
+
+erasche:
+    name: Helena Rasche
+    email: helena.rasche@gmail.com
+    description: >
+        UseGalaxy.eu Administrator, Bioinformatician, Galaxy Trainer, Galaxy Tool Developer
+
+fpsom:
+    name: Fotis Psomopoulos
+    twitter: fopsom
+    description: >
+      Trainer, Carpentries lesson maintainer
+
+mkuzak:
+    name: Mateusz Kuzak
+    twitter: matkuzak
+    description: >
+        DTL Scientific Community Manager, Carpentries Instructor Trainer, Mentor

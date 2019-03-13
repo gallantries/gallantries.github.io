@@ -14,7 +14,7 @@
 
 
     .card {
-    	background-color: #fafaf0;
+    	background-color: #ffffff;
     	box-shadow: 0 2px 3px rgba(0,0,0,0.1),0 0 0 1px rgba(0,0,0,0.1);
     	color: #323232;
     	max-width: 100%;
@@ -59,15 +59,19 @@
 
         a {
             margin-right: 1rem;
-        }
+		}
+		
+		margin-bottom: 1rem;
     }
 
     .title.is-4 {
-    	font-size: 1.5rem;
+		font-size: 1.5rem;
+		margin-bottom: 0.5rem;
     }
 
     .subtitle.is-6 {
-    	font-size: 1rem;
+		font-size: 1rem;
+		margin-bottom: 0;
     }
 
 }
