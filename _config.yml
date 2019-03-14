@@ -20,3 +20,10 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+
+collections:
+  posts:
+    permalink: /posts/:year/:month/:day/:title/
+  events:
+    permalink: /event/:path/
+    output: true

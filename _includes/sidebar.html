@@ -1,9 +1,27 @@
 <div class="sidebar">
     <div class="sidebar-section">
-        <h5><span>Events</span></h5>
-        <a href="#"/>Check back later</a>
+        <div>
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            {% assign events = site.events | sort:"starts" | reverse %}
+            <h5><span>Events</span></h5>
+            {% for event in events %}
+                <div>
+                    <p>
+                        <a href="{{ event.url | absolute_url }}">{{ event.title }}</a>
+                        <br/>
+                        <small>
+                            <time class="post-date" datetime="{{ event.starts | date:"%Y-%m-%d" }}">{{ event.starts | date_to_string }}</time>
+                            -
+                            <time class="post-date" datetime="{{ event.ends | date:"%Y-%m-%d" }}">{{ event.ends | date_to_string }}</time>
+                            <br/>
+                            {{ event.location.city }}, {{ event.location.country }}
+                        </small>
+                    </p>
+                </div>
+            {% endfor %}
+        </div>
 
-        {% if page.layout == 'post' %}
+        {% if page.layout == 'post' or page.layout == 'event' %}
         <div>
             <h5><span>All Stories</span></h5>
             {% for post in site.posts %}
