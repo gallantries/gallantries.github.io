@@ -85,3 +85,23 @@ In the sequel, we assume you use miniconda.
 
 7. Open the website in your favorite browser at:
    [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
+
+## Create a new blog post
+
+To create a new blog post:
+
+1. Create a file in the folder `_posts` with a file named following the patter `yyyy-mm-dd-name.md`
+2. Add some metadata on the top of the file
+
+    ```
+    ---
+    layout: post
+    title: <title of the post>
+    author: <github id of the author>
+    image: assets/images/yyyy-mm-dd-name.jpg
+    ---
+    ```
+
+4. Add content of the post in the file in Markdown
+3. Add images in `assets/images/`
+
