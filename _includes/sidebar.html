@@ -2,5 +2,21 @@
     <div class="sidebar-section">
         <h5><span>Events</span></h5>
         <a href="#"/>Check back later</a>
+
+        {% if page.layout == 'post' %}
+        <div>
+            <h5><span>All Stories</span></h5>
+            {% for post in site.posts %}
+                {% unless post.featured == true %}
+                    <div>
+                        <p><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></p>
+                        {% include post-metadata.html %}
+                        <br/>
+                    </div>
+                {% endunless %}
+            {% endfor %}
+        </div>
+        {% endif %}
+        
     </div>
 </div>

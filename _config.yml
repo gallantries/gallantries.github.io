@@ -3,10 +3,10 @@ title: "Gallantries"
 description: >
   When Galaxy meets Carpentries to develop and deliver open training in life sciences
 logo: 'assets/images/logo.png'
+paginate: 12
 email: 'shiltemann@gmail.com'
 repository: galaxy-carpentries/gallantries
 gitter: galaxy-carpentries/community
-
 
 # Plugins
 plugins:
