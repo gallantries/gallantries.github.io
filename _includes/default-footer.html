@@ -1,0 +1,58 @@
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="footer-widget textwidget">
+                    <h5 class="title">Get in touch</h5>
+                    <p>If you have a question, would like to get involved, or if you simply want to say hi</p>
+                    <p>
+                        <i class="fab fa-gitter"></i>
+                        Discuss with us on
+                            <a href="https://gitter.im/{{ site.gitter }}">Gitter</a>
+                        <br/>
+                        <i class="fas fa-at"></i>
+                        <a href="mailto:{{ site.email }}">
+                            {{ site.email|replace:'@','[at]' }}
+                        </a>
+                        <br />
+                        <i class="fab fa-github"></i>
+                        <a href="{{ site.github.repository_url }}">
+                            {{ site.github.owner_name }}
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                    <div class="footer-widget">
+                        <h5 class="title">Resources</h5>
+                        <ul>
+                            <li><a target="_blank" href="https://galaxyproject.org">The Galaxy Project</a></li>
+                            <li><a target="blank" href="https://carpentries.org/">The Carpentries</a></li>
+                            <li><a target="blank" href="https://training.galaxyproject.org">Galaxy Training Materials</a></li>
+                            <li><a target="blank" href="https://datacarpentry.org/lessons/#genomics-workshop">Carpentries genomics curriculum</a></li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="col-sm-4">
+                <div class="footer-widget textwidget">
+                    <p>
+                        If you want to report a problem or suggest an enhancement we'd love
+                        for you to
+                        <a href="{{ site.github.repository_url }}/issues/new">open an issue</a>
+                        on our GitHub repository because then we can get right on it.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p class="pull-left">
+                <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0</a> - Copyright © {{ site.time | date: "%Y" }} {{ site.title }}. 
+            </p>
+            <p class="pull-right">
+                <!-- Please, leave credit to author unless you own a commercial license: https://www.wowthemes.net/freebies-license/ -->
+                Adapted from <a target="_blank" href="https://www.wowthemes.net/free-jekyll-template-affiliates/">"Affiliates Theme"</a> - Design & Code by WowThemes.net
+            </p>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</footer>
