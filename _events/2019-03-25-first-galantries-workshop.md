@@ -133,7 +133,7 @@ The team will be also instructors and helpers there, in addition to local helper
 This event is made possible thanks to our supporting partners:
 
 - [de.NBI](https://www.denbi.de/)
-- [DTL](https://www.dtls.nl/)
+- [Dutch Techcenter for Life Sciences](https://www.dtls.nl/)
 - INAB|CERTH
 - EMC
 - [Mozilla foundation](https://foundation.mozilla.org/en/), via a [Mozilla Open Science Mini-Grants](https://foundation.mozilla.org/en/awards/)
