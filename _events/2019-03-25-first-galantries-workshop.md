@@ -102,7 +102,7 @@ The venue is close to the main station: 10 min walk. Otherwise, you can also use
 
 ### Accomodations
 
-Some suggestions for hotels (please check portals such as HRS, booking, etc.)
+Some suggestions for hotels (please check portals such as [HRS](https://www.hrs.com), [booking](https://www.booking.com/), etc.)
 
 Hotel                                         | Location           | Website
 --------------------------------------------- | ------------------ | ----------
