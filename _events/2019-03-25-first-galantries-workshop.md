@@ -87,7 +87,7 @@ This workshop will be offered in parallel in 2 locations (Rotterdam, NL and Frei
 
 ### Accomodations
 
-## In Freiburg
+## Freiburg
 
 {% assign loc = page.locations | where:"city", "Freiburg" | first %}
 {% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
