@@ -60,7 +60,7 @@ The workshop is free of charge and covers:
 
 No stipends for travel or accommodation are available.
 
-Desktop computers will be available. You can also bring your *own notebook* if you prefer . Eduroam is available, ask your institute for how to login.
+Desktop computers will be available. You can also bring your *own notebook* if you prefer . Eduroam is available, ask your institute how to connect.
 
 # Preparation
 
