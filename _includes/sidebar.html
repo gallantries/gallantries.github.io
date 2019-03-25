@@ -14,7 +14,11 @@
                             -
                             <time class="post-date" datetime="{{ event.ends | date:"%Y-%m-%d" }}">{{ event.ends | date_to_string }}</time>
                             <br/>
-                            {{ event.location.city }}, {{ event.location.country }}
+                            {% assign sep = '' %}
+                            {% for loc in event.locations %}
+                                {{ sep }}{{ loc.city }}, {{ loc.country }}
+                                {% assign sep = ' - ' %}
+                            {% endfor %}
                         </small>
                     </p>
                 </div>

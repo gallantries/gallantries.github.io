@@ -34,8 +34,11 @@ layout: default
             >
           </td>
           <td class="is-hidden-mobile">
-            {% if event.location.city %} {{ event.location.city }}, {% endif %}
-            {{ event.location.country }}
+            {% assign sep = '' %}
+            {% for loc in event.locations %}
+              {{ sep }}{{ loc.city }}
+              {% assign sep = ' - ' %}
+            {% endfor %}
           </td>
         </tr>
         {% endfor %}
