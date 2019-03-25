@@ -30,7 +30,7 @@ This workshop will cover:
 - Introduction to R
 - Manipulation and visualization of the RNA-seq data using R
 
-It will be delivered simultaneously at the [2 locations (Rotterdam, NL and Freiburg, DE)](#venues).
+It will be delivered simultaneously at two locations across Europe ([Rotterdam, NL and Freiburg, DE](#venues)).
 
 # Registration
 
