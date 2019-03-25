@@ -78,7 +78,7 @@ ensure everyone has a basic understanding of how Galaxy works.
 
 This workshop will be offered in parallel in 2 locations (Rotterdam, NL and Freiburg, DE).
 
-## In Rotterdam
+## Rotterdam
 
 {% assign loc = page.locations | where:"city", "Rotterdam" | first %}
 {% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
