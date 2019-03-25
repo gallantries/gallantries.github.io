@@ -64,7 +64,7 @@ Desktop computers will be available. You can also bring your *own notebook* if y
 
 # Preparation
 
-The workshop will be done on the [European Galaxy server](https://usegalaxy.eu) to perform the analysis. Please register there.
+The workshop will be performed on the [European Galaxy server](https://usegalaxy.eu) to perform the analysis. Please register there.
 
 You must go through two Galaxy interactive tours before beginning the training.
 These interactive tours guide you stepwise through the Galaxy user interface
