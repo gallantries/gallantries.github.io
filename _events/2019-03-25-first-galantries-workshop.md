@@ -25,7 +25,7 @@ The [Gallantries team]({% link team.md %}) is offering its first RNA-seq worksho
 
 This workshop will cover:
 - Galaxy introduction
-- Introduction to High-Throughput sequencing and quality control
+- Introduction to High-Throughput Sequencing and Quality Control
 - Reference-based RNA-seq data analysis
 - Introduction to R
 - Manipulation and visualization of the RNA-seq data using R
