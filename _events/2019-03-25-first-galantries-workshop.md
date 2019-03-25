@@ -6,8 +6,8 @@ ends: 2019-05-08
 locations:
 - 
     name: Erasmuc MC
-    street: 
-    postal: 
+    street: Wytemaweg 80
+    postal: 3015 CN
     city: Rotterdam
     country: The Netherlands
 - 
@@ -30,13 +30,13 @@ This workshop will cover:
 - Introduction to R
 - Manipulation and visualization of the RNA-seq data using R
 
-It will be parallely offered in 2 [locations (Rotterdam, NL and Freiburg, DE)](#venues).
+It will be offered in parallel in 2 [locations (Rotterdam, NL and Freiburg, DE)](#venues).
 
 # Registration
 
 To register, please fill in the [following form](https://forms.gle/K5SXtzg88iug1RgB9).
 
-Each location offer 15 places in total. First come, first serve.
+Each location offers 15 places in total. First come, first serve.
 
 # Program
 
