@@ -1,8 +1,8 @@
 ---
 layout: event
-title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy and R'
-starts: 2019-05-06
-ends: 2019-05-08
+title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy'
+starts: 2019-06-11
+ends: 2019-06-12
 locations:
 - 
     name: Erasmuc MC
@@ -21,14 +21,12 @@ locations:
         lon: 7.848305
 ---
 
-The [Gallantries team]({% link team.md %}) is offering its first RNA-seq workshop for beginners on May, 6-8th.
+The [Gallantries team]({% link team.md %}) is offering its first RNA-seq workshop for beginners on June, 11-12th.
 
 This workshop will cover:
 - Galaxy introduction
 - Introduction to High-Throughput Sequencing and Quality Control
 - Reference-based RNA-seq data analysis
-- Introduction to R
-- Manipulation and visualization of the RNA-seq data using R
 
 It will be delivered simultaneously at two locations across Europe ([Rotterdam, NL and Freiburg, DE](#venues)).
 
@@ -44,17 +42,16 @@ Every day the workshop will run from 9:00-17:00 (give or take, depending on ques
 
 Day | Topics
 --- | ---
-Monday  | Galaxy introduction, Introduction to High-Throughput sequencing and quality control
-Tuesday | Reference-based RNA-seq data analysis
+Tuesday  | Galaxy introduction, Introduction to High-Throughput sequencing and quality control
  | **Evening**: social dinner
-Wednesday | Introduction to R, Manipulation and visualization of the RNA-seq data using R
+Wednesday | Reference-based RNA-seq data analysis
 {:.table.table-striped}
 
 # Important notes
 
 The workshop is free of charge and covers:
 
-- 3 days of training
+- 2 days of training
 - Coffee and tea over the days
 - Lunch
 
@@ -82,10 +79,6 @@ This workshop will be offered in parallel in 2 locations (Rotterdam, NL and Frei
 
 {% assign loc = page.locations | where:"city", "Rotterdam" | first %}
 {% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
-
-### Travel
-
-### Accomodations
 
 ## Freiburg
 
