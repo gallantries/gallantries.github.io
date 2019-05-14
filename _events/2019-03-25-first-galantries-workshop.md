@@ -24,7 +24,7 @@ locations:
         lon: 7.848305
 ---
 
-The [Gallantries team]({% link team.md %}) is offering its first RNA-seq workshop for beginners on June, 11-12th.
+The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its first RNA-seq workshop for beginners on June, 11-12th.
 
 This workshop will cover:
 - Galaxy introduction
@@ -116,7 +116,7 @@ Note: Sometimes when visiting Freiburg you have to pay an additional accommodati
 
 # Organizers, instructors and helpers
 
-This event is organized by the [Gallantries team]({% link team.md %}):
+This event is organized by the [Gallantries team]({{ site.baseurl }}{% link team.md %}):
 
 - Saskia Hiltemann
 - Helena Rasche
