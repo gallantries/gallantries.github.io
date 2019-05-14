@@ -3,9 +3,10 @@ layout: event
 title: 'Gallantries kickoff: 1st Hackathon'
 starts: 2019-03-25
 ends: 2019-03-26
-location:
-  city: Utrecht
-  country: The Netherlands
+locations:
+-
+    city: Utrecht
+    country: The Netherlands
 ---
 
 Our first kickoff meeting of the Gallantries will happen in Utrecht in March. 

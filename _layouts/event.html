@@ -13,7 +13,13 @@ layout: default
                     <time class="post-date" datetime="{{ page.ends | date:"%Y-%m-%d" }}">{{ page.ends | date_to_string }}</time>
                 </span>
                 <br/>
-                <span class="post-date"><i class="fas fa-map-marker"></i> {{ page.location.city }}, {{ page.location.country }}</span>
+                <span class="post-date"><i class="fas fa-map-marker"></i>
+                    {% assign sep = '' %}
+                    {% for loc in page.locations %}
+                        {{ sep }}{{ loc.city }}, {{ loc.country }}
+                        {% assign sep = ' - ' %}
+                    {% endfor %}
+                </span>
             </small>
         </p>
 

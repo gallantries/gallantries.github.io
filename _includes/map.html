@@ -1,0 +1,65 @@
+{% if include.location != "online" %}
+  <div class="row row-map">
+		{% if include.showmap %}
+		<div class="col-md-3">
+		{% else %}
+		<div class="col-md-12">
+		{% endif %}
+				
+		{% if include.location.name %}
+		{{ include.location.name }}<br/>
+		{% endif %}
+		{% if include.location.street %}
+		{{ include.location.street }}<br/>
+		{% endif %}
+		{% if include.location.postal %}
+		{{ include.location.postal }},
+		{% endif %}
+		{% if include.location.city %}
+		{{ include.location.city }}<br/>
+		{% endif %}
+		{% if include.location.region %}
+		{{ include.location.region }}<br/>
+		{% endif %}
+		{% if include.location.country %}
+		{{ include.location.country }}
+		{% endif %}
+	</div>
+
+	{% if include.showmap and include.location.geo %}
+	<div class="col-md-9">
+			<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin=""/>
+			<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
+			<div id="mapid" style='height: 180px;'></div>
+			<script type="text/javascript">
+				var map = L.map('mapid').setView([
+					{{ include.location.geo.lat }},
+					{{ include.location.geo.lon }}
+				], {% if include.zoomlevel %}{{ include.zoomlevel }}{% else %}9{% endif %});
+
+				L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+					attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+				}).addTo(map);
+
+				var parts = [
+					"{{ include.location.name }}",
+					"{{ include.location.street }}",
+					"{{ include.location.city }}",
+					"{{ include.location.region }}",
+					"{{ include.location.country }}",
+				].filter(function(x){ return x !== "" });
+
+				L.marker([
+					{{ include.location.geo.lat }},
+					{{ include.location.geo.lon }}
+				]).addTo(map)
+				{% if include.hidepopup %}
+				{% else %}
+					.bindPopup(parts.join(",<br>"))
+				{% endif %}
+					.openPopup();
+			</script>
+    </div>
+	{% endif %}
+	</div>
+{% endif %}
