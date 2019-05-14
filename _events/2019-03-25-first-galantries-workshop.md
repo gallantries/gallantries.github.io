@@ -132,7 +132,7 @@ This event is made possible thanks to our supporting partners:
 
 - [de.NBI](https://www.denbi.de/)
 - [Dutch Techcenter for Life Sciences](https://www.dtls.nl/)
-- INAB|CERTH
+- [INAB|CERTH](http://inab.certh.gr)
 - [Erasmus Medical Center](https://www.erasmusmc.nl)
 - [Mozilla foundation](https://foundation.mozilla.org/en/), via a [Mozilla Open Science Mini-Grants](https://foundation.mozilla.org/en/awards/)
 
