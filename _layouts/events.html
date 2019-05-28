@@ -20,7 +20,7 @@ layout: default
         {% for event in events %}
         <tr>
           <td>
-            <h4><a href="{{ event.url }}">{{ event.title | escape }}</a></h4>
+            <h4><a href="{{ event.url | absolute_url }}">{{ event.title | escape }}</a></h4>
             <div>{{ event.excerpt }}</div>
           </td>
           <td class="is-hidden-mobile">
