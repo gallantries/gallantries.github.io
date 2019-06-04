@@ -43,11 +43,29 @@ Each location offers 15 places in total. First come, first serve.
 
 Every day the workshop will run from 9:00-17:00 (give or take, depending on questions at the end). If the times will change, it will be announced during the workshop.
 
-Day | Topics
---- | ---
-Tuesday  | Galaxy introduction, Introduction to High-Throughput sequencing and quality control
- | **Evening**: social dinner
-Wednesday | Reference-based RNA-seq data analysis
+
+**Tuesday**
+
+Time          | Topic                                                                                      | Speaker
+------------- | ------                                                                                     | -------
+9:00 - 9:30   | General introduction: introduction round, explaination of sticky notes and hybrid training | 1 person on each site
+9:30 - 10:00  | Introduction to Galaxy, slides                                                             | Mateusz
+10:00 - 12:30 | Galaxy 101, tutorial                                                                       | Helena
+13:30 - 15:30 | Quality control, slides, tutorial                                                          | Fotis
+15:30 - 17:00 | Mapping, slides, tutorial                                                                  | Saskia
+17:00 - 17:30 | Recap of the day                                                                           | 1 person on each site
+Evening       | Social Dinner                                                                              | All sites
+{:.table.table-striped}
+
+**Wednesday**
+
+Time          | Topic                                                    | Speaker
+------------- | ------                                                   | -------
+9:00 - 9:30   | Recap of the previous day                                | 1 person on each site
+9:30 - 10:00  | Introduction to RNA-Seq, slides                          | Mateusz or Saskia
+9:30 - 12:00  | Reference-based RNA-seq (Part I: QC + mapping), tutorial | Fotis
+13:30 - 16:30 | Reference-based RNA-seq (Part II), tutorial              | Bérénice
+17:00 - 17:30 | Recap of the workshop + feedbacks                        | 1 person on each site
 {:.table.table-striped}
 
 # Important notes
