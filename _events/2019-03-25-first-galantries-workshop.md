@@ -47,11 +47,11 @@ Every day the workshop will run from 9:00-17:00 (give or take, depending on ques
 **Tuesday**
 
 Time | Topic | Material | Speaker
- --- | --- | --- | --- 
+ --- | --- | --- | ---
 9:00 - 9:30 | General introduction: introduction round, explaination of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html) | 1 person on each site
-9:30 - 10:00 | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Mateusz
+9:30 - 10:00 | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Helena
 10:00 - 12:30 | Galaxy 101 | [tutorial](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html) | Helena
-13:30 - 15:30 | Quality control | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Fotis
+13:30 - 15:30 | Quality control | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Mateusz
 15:30 - 17:00 | Mapping | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | Saskia
 17:00 - 17:30 | Recap of the day | | 1 person on each site
 Evening | Social Dinner | | All sites
@@ -62,7 +62,7 @@ Evening | Social Dinner | | All sites
 Time | Topic | Material |  Speaker
 --- | --- | --- | ---
 9:00 - 9:30 | Recap of the previous day | | 1 person on each site
-9:30 - 10:00 | Introduction to RNA-Seq | [slides](https://training.galaxyproject.org/training-material/topics/transcriptomics/slides/introduction.html#1) | Mateusz or Saskia
+9:30 - 10:00 | Introduction to RNA-Seq | [slides](https://training.galaxyproject.org/training-material/topics/transcriptomics/slides/introduction.html#1) | Fotis
 10:00 - 12:30 | Reference-based RNA-seq, part I (QC + mapping) | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | Fotis
 13:30 - 16:30 | Reference-based RNA-seq, part II | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | Bérénice
 17:00 - 17:30 | Recap of the workshop + feedbacks | | 1 person on each site
@@ -79,6 +79,8 @@ The workshop is free of charge and covers:
 No stipends for travel or accommodation are available.
 
 Desktop computers will be available. You can also bring your *own notebook* if you prefer . Eduroam is available, ask your institute how to connect.
+
+A **social dinner** will be organised at each site on Tuesday 11 June. This dinner will be at your own cost, but we would love to have a chat with you after the workshop!
 
 # Preparation
 
@@ -101,7 +103,7 @@ This workshop will be offered in parallel in 2 locations (Rotterdam, NL and Frei
 {% assign loc = page.locations | where:"city", "Rotterdam" | first %}
 {% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
 
-The workhop will be held in room 1528 on the 15th floor of the Ee building. Computers are provided in this room. To enter the building you will need to pick up a visitors pass that will be waiting for you at the entrance.
+The workhop will be held in room 1528 on the 15th floor of the Ee building. Computers are provided in this room. To enter the building you will need to pick up a visitors pass that will be waiting for you at the reception (3rd floor).
 
 ## Freiburg
 
