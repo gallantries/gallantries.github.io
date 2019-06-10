@@ -82,6 +82,12 @@ Desktop computers will be available. You can also bring your *own notebook* if y
 
 A **social dinner** will be organised at each site on Tuesday 11 June. This dinner will be at your own cost, but we would love to have a chat with you after the workshop!
 
+# Workshop Format
+
+This will be a **hybrid training**. This means the instructors will teach in front of a camera, and this video feed is live-streamed to multiple locations around the world. Each location will have several other instructors and helpers on site to answer questions and who can take over teaching in case this is needed.
+
+We will use [this collaborative document](http://bit.ly/gallantries-chat) for asking and answering questions during the workshop. This document also contains links to all other materials you will need during the course.
+
 # Preparation
 
 The workshop will use the [European Galaxy server](https://usegalaxy.eu) to perform all data analysis. Please register there ahead of time to streamline the training.
