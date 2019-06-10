@@ -103,7 +103,7 @@ This workshop will be offered in parallel in 2 locations (Rotterdam, NL and Frei
 {% assign loc = page.locations | where:"city", "Rotterdam" | first %}
 {% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
 
-The workhop will be held in room 1528 on the 15th floor of the Ee building. Computers are provided in this room. To enter the building you will need to pick up a visitors pass that will be waiting for you at the reception (3rd floor).
+The workhop will be held in room 1528 on the 15th floor of the Ee building. Computers are provided in this room. To enter the building you will need to pick up a visitors pass that will be waiting for you at the reception of the Ee building (3rd floor).
 
 ## Freiburg
 
