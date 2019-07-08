@@ -30,9 +30,11 @@ erasche:
 
 fpsom:
     name: Fotis Psomopoulos
-    twitter: fopsom
+    email: fpsom@certh.gr
+    web: https://fpsom.github.io/
+    twitter: fpsom
     description: >
-      Trainer, Carpentries lesson maintainer
+        Research Assistant Professor, Carpentries Instructor Trainer, Carpentries lesson maintainer
 
 mkuzak:
     name: Mateusz Kuzak
