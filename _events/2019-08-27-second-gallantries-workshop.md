@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy'
+title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy and R'
 starts: 2019-10-07
 ends: 2019-06-09
 locations:
@@ -24,7 +24,7 @@ locations:
         lon: 4.4690001
 ---
 
-The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its secibd RNA-seq workshop for beginners on October 7-9th.
+The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its second RNA-seq workshop for beginners on October 7-9th.
 
 This workshop will cover:
 - Galaxy introduction
