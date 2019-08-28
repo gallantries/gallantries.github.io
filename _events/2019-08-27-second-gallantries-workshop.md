@@ -153,7 +153,7 @@ The team will be also instructors and helpers there, in addition to local helper
 This event is made possible thanks to our supporting partners:
 
 - [de.NBI](https://www.denbi.de/)
-- [Dutch Techcenter for Life Sciences](https://www.dtls.nl/)
+- [Netherlands eScience Center](https://www.esciencecenter.nl)
 - [Dutch Techcenter for Life Sciences](https://www.dtls.nl/)
 - [INAB CERTH](http://inab.certh.gr)
 - [Erasmus Medical Center](https://www.erasmusmc.nl)
