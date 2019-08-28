@@ -14,17 +14,17 @@ locations:
         lat: 51.9108731
         lon: 4.4690001
 -
-    name: "INAB|CERTH"
-    street: TODO
-    postal: TODO
+    name: INAB-CERTH
+    street: 6th km Charilaou - Thermis rd
+    postal: 57001
     city: Thessaloniki
     country: Greece
     geo:
-        lat: 51.9108731
-        lon: 4.4690001
+        lat: 40.567925
+        lon: 22.997542
 ---
 
-The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its secibd RNA-seq workshop for beginners on October 7-9th.
+The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its second RNA-seq workshop for beginners on October 7-9th.
 
 This workshop will cover:
 - Galaxy introduction
@@ -130,8 +130,10 @@ The workhop will be held in room 1528 on the 15th floor of the Ee building. Comp
 
 ## Thessaloniki
 
-{% assign loc = page.locations | where:"city", "Freiburg" | first %}
+{% assign loc = page.locations | where:"city", "Thessaloniki" | first %}
 {% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
+
+The workshop will take place at the Conference room on the 1st floor of the Institute of Applied Biosciences building. Computers will **not** be available in this room, so you need to bring your own laptop. WiFi access (including `eduroam`) will be available.
 
 
 # Organizers, instructors and helpers
@@ -151,6 +153,7 @@ The team will be also instructors and helpers there, in addition to local helper
 This event is made possible thanks to our supporting partners:
 
 - [de.NBI](https://www.denbi.de/)
+- [Dutch Techcenter for Life Sciences](https://www.dtls.nl/)
 - [Dutch Techcenter for Life Sciences](https://www.dtls.nl/)
 - [INAB CERTH](http://inab.certh.gr)
 - [Erasmus Medical Center](https://www.erasmusmc.nl)
