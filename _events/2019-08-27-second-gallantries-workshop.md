@@ -47,7 +47,7 @@ It will be delivered simultaneously at multiple locations across Europe ([Rotter
 
 # Registration
 
-Each location offers 15 places. To register, please fill in the [following form](https://forms.gle/K5SXtzg88iug1RgB9). First come, first serve. 
+Each location offers 15 places. To register, please fill in the [following form](https://forms.gle/qDJAx6s8QN9kqA9j6). First come, first serve. 
 
 # Program
 
