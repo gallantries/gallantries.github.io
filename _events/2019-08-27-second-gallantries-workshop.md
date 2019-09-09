@@ -22,6 +22,16 @@ locations:
     geo:
         lat: 40.567925
         lon: 22.997542
+-
+    name: Institute of Computer Science - Paabel Building  
+    street: Ülikooli 17
+    postal: 51005
+    city: Tartu
+    country: Estonia
+    geo:
+        lat: 58.3813585
+        lon: 26.7208579
+
 ---
 
 The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its second RNA-seq workshop for beginners on October 7-9th.
@@ -33,7 +43,7 @@ This workshop will cover:
 - Basics of R programming
 - Post-processing of RNA-seq data using R and Rstudio
 
-It will be delivered simultaneously at multiple locations across Europe ([Rotterdam, NL; Thessaloniki, GR; TODO](#venues)).
+It will be delivered simultaneously at multiple locations across Europe ([Rotterdam, NL; Thessaloniki, GR; Tartu, EE](#venues)).
 
 # Registration
 
@@ -119,7 +129,7 @@ ensure everyone has a basic understanding of how Galaxy works.
 
 # Venues
 
-This workshop will be offered in parallel in multiple locations (Rotterdam, NL; Thessaloniki, GR and TODO).
+This workshop will be offered in parallel in multiple locations (Rotterdam, NL; Thessaloniki, GR and Tartu, EE).
 
 ## Rotterdam
 
@@ -135,6 +145,12 @@ The workhop will be held in room 1528 on the 15th floor of the Ee building. Comp
 
 The workshop will take place at the Conference room on the 1st floor of the Institute of Applied Biosciences building. Computers will **not** be available in this room, so you need to bring your own laptop. WiFi access (including `eduroam`) will be available.
 
+## Tartu
+
+{% assign loc = page.locations | where:"city", "Tartu" | first %}
+{% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
+
+The workshop will be held in rooms 115-116 of the Paabel building.
 
 # Organizers, instructors and helpers
 
