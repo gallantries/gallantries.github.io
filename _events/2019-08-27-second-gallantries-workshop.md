@@ -2,7 +2,7 @@
 layout: event
 title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy and R'
 starts: 2019-10-07
-ends: 2019-06-09
+ends: 2019-10-09
 locations:
 -
     name: Erasmuc MC
