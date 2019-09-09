@@ -22,6 +22,16 @@ locations:
     geo:
         lat: 40.567925
         lon: 22.997542
+-
+    name: Institute of Computer Science - Paabel Building  
+    street: Ülikooli 17
+    postal: 51005
+    city: Tartu
+    country: Estonia
+    geo:
+        lat: 58.3813585
+        lon: 26.7208579
+
 ---
 
 The [Gallantries team]({{ site.baseurl }}{% link team.md %}) is offering its second RNA-seq workshop for beginners on October 7-9th.
@@ -33,55 +43,53 @@ This workshop will cover:
 - Basics of R programming
 - Post-processing of RNA-seq data using R and Rstudio
 
-It will be delivered simultaneously at multiple locations across Europe ([Rotterdam, NL; Thessaloniki, GR; TODO](#venues)).
+It will be delivered simultaneously at multiple locations across Europe ([Rotterdam, NL](#rotterdam); [Thessaloniki, GR](#thessaloniki); [Tartu, EE](#tartu)).
 
 # Registration
 
-To register, please fill in the [following form](https://forms.gle/K5SXtzg88iug1RgB9).
-
-Each location offers 15 places. First come, first serve.
+Each location offers 15 places. To register, please fill in the [following form](https://forms.gle/K5SXtzg88iug1RgB9). First come, first serve. 
 
 # Program
 
-Every day the workshop will run from 9:00-17:00 (give or take, depending on questions at the end). If the times will change, it will be announced during the workshop.
+Every day the workshop will run from **9:00 (Rotterdam) / 10:00 (Thessaloniki & Tartu)** to **17:30 (Rotterdam) / 18:30 (Thessaloniki & Tartu)** (give or take, depending on questions at the end). If the times will change, it will be announced during the workshop.
 
 
 **Monday October 7**
 
-Time | Topic | Material | Speaker
- --- | --- | --- | ---
-9:00 - 9:30 | General introduction: introduction round, explaination of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html) | 1 person on each site
-9:30 - 10:00 | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Helena
-10:00 - 12:30 | Galaxy 101 | [tutorial](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html) | Helena
-12:30 - 13:30 | Lunch | | Everybody
-13:30 - 15:30 | Quality control | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Saskia
-15:30 - 17:00 | Mapping | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | Saskia
-17:00 - 17:30 | Recap of the day | | 1 person on each site
+Time (Rott.) | Time (Thess. & Tartu) | Topic | Material | Speaker
+ --- | --- | --- | --- | ---
+9:00 - 9:30 | 10:00 - 10:30 | General introduction: introduction round, explanation of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html) | 1 person on each site
+9:30 - 10:00 | 10:30 - 11:00 | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Helena
+10:00 - 12:30 | 11:00 - 13:30 |Galaxy 101 | [tutorial](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html) | Helena
+12:30 - 13:30 | 13:30 - 14:30 | Lunch | | Everybody
+13:30 - 15:30 | 14:30 - 16:30 | Quality control | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Saskia
+15:30 - 17:00 | 16:30 - 18:00 | Mapping | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | Saskia
+17:00 - 17:30 | 18:00 - 18:30 | Recap of the day | | 1 person on each site
 {:.table.table-striped}
 
 **Tuesday October 8**
 
-Time | Topic | Material |  Speaker
---- | --- | --- | ---
-9:00 - 9:30 | Recap of the previous day | | 1 person on each site
-9:30 - 10:00 | Introduction to RNA-Seq | [slides](https://training.galaxyproject.org/training-material/topics/transcriptomics/slides/introduction.html#1) | Fotis
-10:00 - 12:30 | Reference-based RNA-seq, part I (QC + mapping) | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | Fotis & Bérénice
-12:30 - 13:30 | Lunch | | Everybody
-13:30 - 16:30 | Reference-based RNA-seq, part II | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | Bérénice
-17:00 - 17:30 | Recap of the workshop + feedbacks | | 1 person on each site
-Evening | Social Dinner | | All sites
+Time (Rott.) | Time (Thess. & Tartu) | Topic | Material |  Speaker
+--- | --- | --- | --- | ---
+9:00 - 9:30 | 10:00 - 10:30 | Recap of the previous day | | 1 person on each site
+9:30 - 10:00 | 10:30 - 11:00 | Introduction to RNA-Seq | [slides](https://training.galaxyproject.org/training-material/topics/transcriptomics/slides/introduction.html#1) | Fotis
+10:00 - 12:30 | 11:00 - 13:30 | Reference-based RNA-seq, part I (QC + mapping) | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | Fotis & Bérénice
+12:30 - 13:30 | 13:30 - 14:30 | Lunch | | Everybody
+13:30 - 17:00 | 14:30 - 18:00 | Reference-based RNA-seq, part II (Differentail expression analysis) | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | Bérénice
+17:00 - 17:30 | 18:00 - 18:30 | Recap of the workshop + feedbacks | | 1 person on each site
+Evening | | Social Dinner | | All sites
 {:.table.table-striped}
 
 
 **Wednesday October 9**
 
-Time | Topic | Material |  Speaker
---- | --- | --- | ---
-9:00 - 9:30 | Recap of the previous day | | 1 person on each site
-9:30 - 12:30 | Introduction to R programming| [tutorial](TODO) | Mateusz
-12:30 - 13:30 | Lunch | | Everybody
-13:30 - 16:30 | Post-processing RNA-seq data using R | [tutorial](TODO) | Fotis
-17:00 - 17:30 | Recap of the workshop + feedbacks | | 1 person on each site
+Time (Rott.) | Time (Thess. & Tartu) | Topic | Material |  Speaker
+--- | --- | --- | --- | ---
+9:00 - 9:30 | 10:00 - 10:30 | Recap of the previous day | | 1 person on each site
+9:30 - 12:30 | 10:30 - 13:30 | Introduction to R programming| [tutorial](TODO) | Mateusz
+12:30 - 13:30 | 13:30 - 14:30 | Lunch | | Everybody
+13:30 - 17:00 | 14:30 - 18:00 | Post-processing RNA-seq data using R | [tutorial](TODO) | Fotis
+17:00 - 17:30 | 17:00 - 17:30 | Recap of the workshop + feedbacks | | 1 person on each site
 {:.table.table-striped}
 
 
@@ -103,7 +111,7 @@ A **social dinner** will be organised at each site on Tuesday October 8th. This 
 
 This will be a **hybrid training**. This means the instructors will teach in front of a camera, and this video feed is live-streamed to multiple locations around the world. Each location will have several other instructors and helpers on site to answer questions and who can take over teaching in case this is needed.
 
-We will use [this collaborative document](http://bit.ly/gallantries-chat) for asking and answering questions during the workshop. This document also contains links to all other materials you will need during the course.
+We will use [a collaborative document](http://bit.ly/gallantries-chat-10-19) for asking and answering questions during the workshop. This document also contains links to all other materials you will need during the course.
 
 # Preparation
 
@@ -119,7 +127,7 @@ ensure everyone has a basic understanding of how Galaxy works.
 
 # Venues
 
-This workshop will be offered in parallel in multiple locations (Rotterdam, NL; Thessaloniki, GR and TODO).
+This workshop will be offered in parallel in multiple locations (Rotterdam, NL; Thessaloniki, GR and Tartu, EE).
 
 ## Rotterdam
 
@@ -135,6 +143,12 @@ The workhop will be held in room 1528 on the 15th floor of the Ee building. Comp
 
 The workshop will take place at the Conference room on the 1st floor of the Institute of Applied Biosciences building. Computers will **not** be available in this room, so you need to bring your own laptop. WiFi access (including `eduroam`) will be available.
 
+## Tartu
+
+{% assign loc = page.locations | where:"city", "Tartu" | first %}
+{% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
+
+The workshop will be held in rooms 115-116 of the Paabel building.
 
 # Organizers, instructors and helpers
 
