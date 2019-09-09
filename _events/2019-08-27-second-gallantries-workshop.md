@@ -111,7 +111,7 @@ A **social dinner** will be organised at each site on Tuesday October 8th. This 
 
 This will be a **hybrid training**. This means the instructors will teach in front of a camera, and this video feed is live-streamed to multiple locations around the world. Each location will have several other instructors and helpers on site to answer questions and who can take over teaching in case this is needed.
 
-We will use [this collaborative document](http://bit.ly/gallantries-chat) for asking and answering questions during the workshop. This document also contains links to all other materials you will need during the course.
+We will use [a collaborative document](http://bit.ly/gallantries-chat-10-19) for asking and answering questions during the workshop. This document also contains links to all other materials you will need during the course.
 
 # Preparation
 
