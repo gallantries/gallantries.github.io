@@ -47,7 +47,11 @@ It will be delivered simultaneously at multiple locations across Europe ([Rotter
 
 # Registration
 
-Each location offers 15 places. To register, please fill in the [following form](https://forms.gle/qDJAx6s8QN9kqA9j6). First come, first serve. 
+Each location offers 15 places. To register to attend in **Rotterdam or Thessaloniki**, please fill in the [following form](https://forms.gle/qDJAx6s8QN9kqA9j6). First come, first serve. 
+
+To attend in **Tartu**, please register in the [following form](https://forms.gle/MhPNFQVz1yTupLUx6).
+
+Registration closes at 23:59 on 19th of September. Selected participants will be notified by 25st of September.
 
 # Program
 
