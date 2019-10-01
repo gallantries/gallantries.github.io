@@ -93,7 +93,7 @@ Time (Rott.) | Time (Thess. & Tartu) | Topic | Material |  Speaker
 9:30 - 12:30 | 10:30 - 13:30 | Introduction to R programming| [tutorial](TODO) | Mateusz
 12:30 - 13:30 | 13:30 - 14:30 | Lunch | | Everybody
 13:30 - 17:00 | 14:30 - 18:00 | Post-processing RNA-seq data using R | [tutorial](TODO) | Fotis
-17:00 - 17:30 | 17:00 - 17:30 | Recap of the workshop + feedbacks | | 1 person on each site
+17:00 - 17:30 | 18:00 - 18:30 | Recap of the workshop + feedbacks | | 1 person on each site
 {:.table.table-striped}
 
 
