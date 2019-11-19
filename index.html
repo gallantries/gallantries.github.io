@@ -13,34 +13,15 @@ title: Home
 
 <div class="container">
     <div class="main-content">
-        {% if paginator.previous_page %}
-            {% if paginator.previous_page > 0 %}
-                <div id="jumptopageof"></div>
-            {% endif %}
-        {% endif %}
+        POP
 
-        <section class="recent-posts row">
-            <div class="col-sm-4">
-                {% include sidebar.html %}
-            </div>
+        User-friendly data analysis in Galaxy
+Downstream analysis & visualisation using Rstudio in Galaxy
+Hybrid trainings
+Pairing-up on-site 
+Helpers with remote 
+Instructors across 
+multiple sites
 
-            <div class="col-sm-8">
-                <div class="section-title">
-                    <h2><span>All Stories</span></h2>
-                </div>
-                <div class="masonrygrid row listrecent">
-                    {% for post in paginator.posts %}
-                        {% unless post.featured == true %}
-                            {% include postbox.html %}
-                        {% endunless %}
-                    {% endfor %}
-                </div>
-                <div class="bottompagination">
-                    <span class="navigation" role="navigation">
-                        {% include pagination.html %}
-                    </span>
-                </div>
-            </div>
-        </section>
     </div>
 </div>
