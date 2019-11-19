@@ -34,10 +34,10 @@
 
     {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
     <body class="{{ layout }}">
-        {% include default-header.html %}
+        {% include _includes/default-header.html %}
         <div class="site-content">
             {{ content }}
-            {% include default-footer.html %}
+            {% include _includes/default-footer.html %}
         </div>
         <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>

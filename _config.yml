@@ -1,7 +1,7 @@
 # Site
 title: "Gallantries"
 description: >
-  When Galaxy meets Carpentries to develop and deliver open training in life sciences
+  When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences
 logo: 'assets/images/gallantries-logo-with-word-inverted-large.svg'
 paginate: 12
 email: 'shiltemann@gmail.com'
@@ -27,3 +27,5 @@ collections:
   events:
     permalink: /event/:path/
     output: true
+
+includes_dir: .

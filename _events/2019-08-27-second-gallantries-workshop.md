@@ -136,21 +136,21 @@ This workshop will be offered in parallel in multiple locations (Rotterdam, NL; 
 ## Rotterdam
 
 {% assign loc = page.locations | where:"city", "Rotterdam" | first %}
-{% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
+{% include _includes/map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
 
 The workhop will be held in room 1528 on the 15th floor of the Ee building. Computers are provided in this room. To enter the building you will need to pick up a visitors pass that will be waiting for you at the reception of the Ee building (3rd floor).
 
 ## Thessaloniki
 
 {% assign loc = page.locations | where:"city", "Thessaloniki" | first %}
-{% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
+{% include _includes/map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
 
 The workshop will take place at the Conference room on the 1st floor of the Institute of Applied Biosciences building. Computers will **not** be available in this room, so you need to bring your own laptop. WiFi access (including `eduroam`) will be available.
 
 ## Tartu
 
 {% assign loc = page.locations | where:"city", "Tartu" | first %}
-{% include map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
+{% include _includes/map.html location=loc showmap=true zoomlevel=15 hidepopup=true %}
 
 The workshop will be held in rooms 115-116 of the Paabel building.
 
