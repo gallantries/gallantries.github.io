@@ -30,74 +30,101 @@ Max first contacted 4 **local hosts** (1 on each site) whose **Imani** in Greece
 
 Imani recruited 2 **local helpers** per day whose **Casey**. **Casey** has some previous experience with RNA-seq data analysis and Galaxy. Before the workshop, they went through the training material and tested it. They helps participants during the workshop when they are blocked or got different results than the instructors. They also gives direct feedback to the instructor about the pace, the possible local issues, etc.
 
-Max also recruited 4 **instructors** whose **Farah**. Farah is trained bioinformaticians and experienced instructors giving regularly training to scientists on HTS data analysis. They will teach the morning of the 2nd day (introduction and the frist steps of RNA-seq data analysis). Farah is located in Germany and teaches from a room at their institute in front of their computer. During this morning, they adapt their pace given the feedback they got from the local helpers, check the status of participants job on a dedicated page and also answer questions from participants written on chat.
+Max also recruited 4 **instructors** whose **Farah**. Farah is trained bioinformaticians and experienced instructors giving regularly training to scientists on HTS data analysis. They will teach the morning of the 2nd day (introduction and the frist steps of RNA-seq data analysis). Farah is located in Germany and teaches from a room at their institute in front of their computer. During this teaching morning, they adapt their pace given the feedback they got from the local helpers, check the status of participants job on a dedicated page and also answer questions from participants written on chat.
 
 **Alex** is a PhD student in molecular biology based in Greece. They would like to learn about RNA-seq data analysis to be able to analyze the data they generated. They heard about the workshop and join one site for the workshop close to their institute. As **participant**, Alex actively participates to the workshop by running their first RNA-seq data analysis given the instructor's instructions, asks for help to local helpers when stucks, raises their questions on the participant chat and gives feedback using sticky notes and dedicated feedback forms.
 
-# Curriculum for an event
+# Curriculum and schedule for an event
 
-Example of a schedule
+A typical Gallantries event covers the computational analysis of HTS data from the raw data to the development of publication ready visualizations of the analyzed results within **3 days** with hands-on training:
 
-# Organizing an event
+- The first day is usually an introduction to Galaxy, quality control and (if time allow it) mapping.
+- On the second day, the training covers HTS data analysis, e.g. reference based RNA-seq analysis from raw sequences to differential expression analysis.
+- The third day is dedicated to downstream analysis & visualisation of generated results with Rstudio in Galaxy, after an introduction to R.
 
-*These checklists have been adapted and extended from [Galaxy](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/organize-workshop/tutorial.html) and [The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html) workshop checklists (see the referen
+Every day the workshop usually run from **8:30-10:00** to **17:00-18:30** (give or take, depending on questions at the end). A typical schedule could be:
+
+Time | Topic | Material | Speaker
+ --- | --- | --- | ---
+**1st day** | |  |
+9:00 - 9:30 | General introduction: introduction round, explanation of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html) 
+9:30 - 10:00  | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Local hosts
+10:00 - 12:30 | Galaxy 101 | [tutorial](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html) | One instructor
+12:30 - 13:30 | Lunch | |
+13:30 - 15:30 | Quality control | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | One instructor
+15:30 - 17:00 | Mapping | [slides](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1), [tutorial](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | One instructor
+17:00 - 17:30 | Recap of the day | | Local hosts
+**2nd day** | |  |
+9:00 - 9:30 | Recap of the previous day | | Local hosts
+9:30 - 10:00 | Introduction to RNA-Seq | [slides](https://training.galaxyproject.org/training-material/topics/transcriptomics/slides/introduction.html#1) | One instructor
+10:00 - 12:30 | Reference-based RNA-seq, part I (QC + mapping) | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | One instructor
+12:30 - 13:30 | Lunch | |
+13:30 - 17:00 | Reference-based RNA-seq, part II (Differentail expression analysis) | [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html) | One instructor
+17:00 - 17:30 | Recap of the workshop + feedbacks | | Local hosts
+Evening | Social Dinner | | All sites
+**3rd day** | |  |
+9:00 - 9:30 | Recap of the previous day | | Local hosts
+9:30 - 10:30 | Introduction to RStudio in Galaxy | [tutorial](TODO) | One instructor
+10:30 - 12:30 | Introduction to R programming| [tutorial](TODO) | One instructor
+12:30 - 13:30 | Lunch | | 
+13:30 - 17:00 | Post-processing RNA-seq data using R | [tutorial](TODO) | One instructor
+17:00 - 17:30 | Recap of the workshop + feedbacks | | Local hosts
+{:.table.table-striped}
+
+**Breaks** (10-15 minutes, with ideally drinks and snacks) are recommanded every hour to help participants to stay focus and let instructors to rest a bit. Breaks are difficult to pre-schedule, but could be done while a tool is running or if there is any technical issues.
+
+Different time zones
+
+# Cost of an event
+
+With hybrid training model, the cost to organize and participate to workshop are minimized: the instructors do not need to travel to the venue and the event can be the closest as possible to participants (e.g. in their institute).
+
+We recommend to the local hosts to organize drinks and coffee for the breaks and if possible lunch. This will be the main costs of such event.
+
+To cover them, local hosts could ask for a small participation fee. This will also increase the number of registered participants showing up.
+
+# Checklists by timing
+
+To help organizing a Gallantries event, we created some checklists, by timing but also [by role](#checklists-by-role). Most of the items in these checklists are not specific to Gallantries events.
 
 ## Before the workshop
 
-Different viewpoints
-Instructor + helpers should meet ahead of time (local)
-testing technical infrastructure
-audio issues (full vs empty room), hearable at 75% volume (so room to go up if need be)
-tiaas
-a11y:
-    HoH issues (we've had people bring a listener/signer, ask if they need extra chair etc)
-    not so concerned with visual a11y, we're dependent on galaxy for that, we can improve GTM but if you can't use galaxy after, it is pointless
-    inclusivity (CoC)
-dietary requirements for lunch
-    Introduction (motivation, why hybrid, etc)
-        Note from Orgainser + contact
-        Introducer the hats with some characters for: Participant / Instructor / Helper / Presenters / Organiser
-        the information hierarchy (hybrid organiser talks to site organisers + instructors, insturctors to local helpers)
-
-### Global organizers
+**Global organizers**
 
 {% include handbook/organizer-before.md %}
 
-### Local hosts
+**Local hosts**
 
 {% include handbook/host-before.md %}
 
-### Local helpers
+**Local helpers**
 
 {% include handbook/helper-before.md %}
 
-### Instructors
+**Instructors**
 
 {% include handbook/instructor-before.md %}
 
 ## During the workshop
 
-First day slides with CoC (maybe adapt from GTM ones)
 Templates for chat
 How chat works
-Example detailed schedule
 emphasize communication between helpers
-start debrief doc on first day, put sticky notes there quickly
-drinks / coffee is important
+put sticky notes there quickly
 
-### Global organizers
+**Global organizers**
 
 {% include handbook/organizer-during.md %}
 
-### Local hosts
+**Local hosts**
 
 {% include handbook/host-during.md %}
 
-### Local helpers
+**Local helpers**
 
 {% include handbook/helper-during.md %}
 
-### Instructors
+**Instructors**
 
 {% include handbook/instructor-during.md %}
 
@@ -108,81 +135,77 @@ Debrief
     share experience back: feedback from sites (extract form from issue in github)
     form feedback from instructors + helpers
 
-### Global organizers
+**Global organizers**
 
 {% include handbook/organizer-after.md %}
 
-### Local hosts
+**Local hosts**
 
 {% include handbook/host-after.md %}
 
-### Local helpers
+**Local helpers**
 
 {% include handbook/helper-after.md %}
 
-### Instructors
+**Instructors**
 
 {% include handbook/instructor-after.md %}
 
-# Checklists for the different roles
+# Checklists by role
 
 ## Global organizers
 
-*These checklists have been adapted and extended from [Galaxy](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/organize-workshop/tutorial.html) and [The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html) workshop checklists (see the references)*
-
-### Before the workshop
+**Before the workshop**
 
 {% include handbook/organizer-before.md %}
 
-### During the workshop
+**During the workshop**
 
 {% include handbook/organizer-during.md %}
 
-### After the workshop
+**After the workshop**
 
 {% include handbook/organizer-after.md %}
 
 ## Local hosts
 
-### Before the workshop
+**Before the workshop**
 
 {% include handbook/host-before.md %}
 
-### During the workshop
+**During the workshop**
 
 {% include handbook/host-during.md %}
 
-### After the workshop
+**After the workshop**
 
 {% include handbook/host-after.md %}
 
 ## Local helpers
 
-### Before the workshop
+**Before the workshop**
 
 {% include handbook/helper-before.md %}
 
-### During the workshop
+**During the workshop**
 
 {% include handbook/helper-during.md %}
 
-### After the workshop
+**After the workshop**
 
 {% include handbook/helper-after.md %}
 
 ## Instructors
 
-*This checklist has been adapted and extended from [Galaxy](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/organize-workshop/tutorial.html) and [The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html) workshop checklists (see the references)*
-
-### Before the workshop
+**Before the workshop**
 
 {% include handbook/instructor-before.md %}
 
-### During the workshop
+**During the workshop**
 
 {% include handbook/instructor-during.md %}
 
-### After the workshop
+**After the workshop**
 
 {% include handbook/instructor-after.md %}
 
@@ -199,3 +222,9 @@ Debrief
 - general feedback of event for participants (e.g. the denbi one)
 
 # Conclusion
+
+Environmental impact
+
+# References
+
+The checklists has been adapted and extended from [Galaxy](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/organize-workshop/tutorial.html) and [The Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html) workshop checklists.
