@@ -1,2 +1,9 @@
-* Ensure that the room is set up with all necessary materials and equipment.
-* Arrange coffee/tea.
+- Ensure that the room is set up with all necessary materials and equipment.
+- Arrange drinks and snacks for each break
+- Be inclusive
+- Distribute 2 sticky notes per participants
+- Make the first presentation
+    - Remind the Code of Conduct when starting
+    - Indicate restroom location
+- Collect sticky notes (one for good thing., one for things to improve) at the end of each day
+- Print the certificates

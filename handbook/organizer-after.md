@@ -1,3 +1,5 @@
-* Setup call with the instructors to duscuss feedback.
-* Get feedback from instructors (What went wll, what needs taking look at?)
-  * This is a good opportunity to identify things that are missing from this list
+- Collect the participant feedback forms
+- Collect the sticky notes
+- Collect the host, helper, instructor feedback form
+- Setup a call with the instructors to discuss feedback.
+- Report the feedback and notes via the [Gallantries GitHub issue](ADD LINK)

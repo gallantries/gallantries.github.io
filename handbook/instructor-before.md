@@ -1,8 +1,7 @@
-* Decide on the order of the lessons and who will teach which modules.
-* Help the organizers set up the workshop website using the event template.
-* Create a collaborative/google docs
-  * Create a document to communicate with helpers, in order to get feeback from sites.
-  * Create a collaborative document to collect questions from participants and document answers.
-* Assist the host in recruiting helpers if possible.
-* Share emergency contact information with the host in case of last minute changes.
-* Review teaching the material.
+- Decide on the order of the lessons and who will teach which modules
+- Help the organizer set up the workshop webpage
+- Share emergency contact information with the organizer in case of last minute changes
+- Review the training material and suggest changes at max 2 days before
+- Make sure good quality wifi or wired internet connection in the room
+- Prepare microphone/headphones
+- Help organizer to create the recap slides for the end of each day (including learned file format, usual HTS data analysis workflow)

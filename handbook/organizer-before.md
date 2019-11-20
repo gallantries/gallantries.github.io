@@ -1,60 +1,63 @@
-* Choose a date
-* Identify the sites and make reservations of the chosen dates
-  * Make sure the workshop space is accessible to all individuals (see  [Recommendations](ADD LINK))
-    * Building and rooms are wheelchair accessible (ramps, elevators, etc.)
-    * Restrooms are accessible, list any gender-neutral toilet options
-    * The screen is large enough and bright enough to be read easily
-* Collect contact details 
-  * Emergency contact (emergency phone number, nearest hospital, pharmacy, police, on-site emergency contact)
-  * Contact information of the local hosts/organizers
-  * Contact information for instructors in case of last minute changes
-* Print materials
-  * Teaching and helpers notes
-  * Handouts
-  * Sign-in sheets
-* Name badges 
-  * Name badges for attendees (and helpers) are important for participants as well. At busy venues, it can help attendees to find each other and remember each others’ names.
-  * Have space for people to specify pronouns
-  * For the helpers, usually with a different color border so attendees can identify people who can help them with any issues they encounter.
-* If the local computers are used, make sure the required software is installed.
-* Identify/request instructors and helpers
-* Send a request form with following details
-  * Hosting organizations
-  * Sites and Local contacts
-  * Dates/Time Zones
-  * Suggest Instructors or ask for help in recruting.
-  * Name the helpers
-* Arrange a sound system in the classroom
-  * Remind instructors to arrange microphone/headphones
-* Make sure wifi or wired internet connection in the classroom and in the instructor's room is of sufficient speed.
-* Setup registration (Eventbrite/google form)
-  * The registration form should ask whether instructors, helpers, or learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not
-* Prepare for visiting instructors
-  * Make travel arrangements for them or communicate the reimbursement process
-  * Make accommodation arrangements for them or maybe point out some good choices using your local knowledge
-  * If you will give instructors a thank-you gift, find something that is inclusive regardless of their background (so wine/chocolate/food are bad choices). Hand written thank you card is a good choice.
-* Arrange required materials and equipment
-  * Sett up extension cords or power strips
-  * Sticky notes in two contrasting colors (see recommendations for more information how to select the colors)
-  * Name tags to help people get to know each other
-  * Extra pens and paper in case people want to take notes by hand
-  * Pens for blackboard, whiteboard or flipboard
-* Arrange for beverages, snacks, and meals. Remember about dietary requirements.
-  * Catering can be expensive. If you choose to have participants find their own lunch, then you should add nearby lunch location ideas to the workshop webpage.
-  * If your workshop is a multi-day workshop, you should include dinner options on the workshop webpage.
-  * Ensure that your catering service will label the food for contents/allergens (e.g. for vegetarian/vegan/allergens like gluten, etc.)
-* Test the projector or screen with different computers.
-* Contact instructors to set up a workshop webpage together.
-* Make a reservation for a social dinner, if any.
-* Prepare the participation certificates.
-* Confirm criteria for reimbursement for visitors if applicable (Per diem or save receipts. Are digital ticets acceptable?).
-* Identify places you can promote your event. [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub) or [Carpentries Discuss List](https://carpentries.topicbox.com/groups/discuss) are the primary places to do this. You should do this 3-6 month in advance of your event (if you can).
-* Contact participants to remind them of the workshop webpage where you have written location/directions, start/end times, and contact information
+- Contact and identify situable locations
 
-### *Hybrid training events*
+    We recommend no more than 2 different time zones as the days are full.
 
-* arrange a conference call(s) with instructors and helpers in order to:
-  * meet in advance of the workshop
-  * divide and document the responsibilities
-  * select lead helper per site
-  * share contact details
+- Identify and contact instructors
+
+    Some recommendation: an instructor should teach at maximum half day in a row. So at least 2 instructors are needed.
+
+- Choose a date in coordination with local hosts and instructors
+- Create a registration form, e.g. by copying [our template](https://docs.google.com/forms/d/1mWl34vyXyhO-M9rwrrF0I-Kb2clSW0QHOiFTauweWv8)
+
+    Such a registration form should include: participant details, email, affiliation, location for the workshop, accessibility requirements, motivation for participating, participation on social event, dietary requirements, agreement on privacy statement.
+
+- Setup a webpage to advertize the event
+
+    This page should include:
+    - general information about the event, its format
+    - registration details and deadline
+    - draft schedule
+    - what participants need to do before
+    - details about the venues, including travel details, accomodation and meal suggestions
+    - details about the instructors, helpers, hosts
+    - sponsors (if any)
+  
+    We created a [template of such a page](https://github.com/galaxy-carpentries/workshop-template) that can easily adapted.
+
+- Identify places you can promote your event. [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub) or [Carpentries Discuss List](https://carpentries.topicbox.com/groups/discuss) are the primary places to do this
+
+    You should do this 1-3 month in advance of your event (if you can).
+
+- Collect contact details of the local hosts and instructors in case of last minute changes
+
+- Arrange the schedule given the content, the instructor availability and the different time zones
+
+    Days are usually full-days. Starting times will depend on audience, if they travel and the different time zones, and should be chosen with the local hosts. 
+
+- Identify the tool for call, e.g. [Zoom](https://zoom.us/)
+
+- Arrange a conference call(s) with instructors and hosts in order to:
+    - Meet in advance of the workshop
+    - Divide and document the responsibilities
+    - Share contact details
+    - Test the technical infrastructure
+    - Test the local set ups
+
+    To avoid audio issues (full vs empty room), the test should be hearable at 75% volume (so room to go up if need be)
+
+- Request [TiaaS infrastructure](https://galaxyproject.eu/tiaas) if using usegalaxy.eu
+- Remind instructors to arrange microphone/headphones
+- Create name badges, with space for people to specify pronouns, and send them to local hosts
+  
+    Name badges for attendees (and helpers) are important for participants as well. At busy venues, it can help attendees to find each other and remember each others' names. For the helpers, usually with a different color border so attendees can identify people who can help them with any issues they encounter.
+
+- Prepare sign-in sheet for each location
+- Contact participants to remind them of the workshop webpage where you have written location/directions, start/end times, and contact information
+- Prepare the different slides:
+    - Starting slides, including instructor presentation, different locations, etc
+    - Wrap up slides for daily recap, including 5 minutes dedicated for filling the post-it feedback
+    - Wrap up slides for the end of the workshop, including 5 minutes dedicated for filling the general feedback, remind of gitter/help/etc
+- Create the collaborative document to collect questions from participants and document answers, e.g. by copying [our template](https://drive.google.com/open?id=1tN247JWpkpPl7FvEN9gsBcmVlZfRF_B0gnEWb5L3tMc)
+- Create the collaborative document for the communication between the instructors and helpers, in order to get direct feeback from sites, e.g. by copying [our template](https://docs.google.com/document/d/1X8V_frzVd5N87zaZ7PDCvtSZozaj8XnrYj9K6Ux9i_0/edit?usp=sharing)
+- Prepare the feedback form for participants, e.g. by copying [our template]()
+- Prepare the feedback form for hosts, helpers and instructors, e.g. by copying [our template]()
