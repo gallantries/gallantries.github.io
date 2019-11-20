@@ -1,11 +1,5 @@
 ---
-# Lets add a comment to make this file sass-y.
-# Change this file for any custom CSS.
 ---
-// Import partials from `sass_dir` (defaults to `_sass`)
-
-@import 'syntax';
-
 
 .people {
 	display: grid;
@@ -78,4 +72,49 @@
 
 .row-map {
 	margin-bottom: 15px;
+}
+
+nav[data-toggle='toc'] {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    .nav {
+		list-style: none;
+        li {
+            a {
+				box-shadow: none;
+				color: #767676 !important;
+                &:hover,
+                &:focus,
+                &:active{
+					color: #767676 !important;
+					border-left: 0px !important;
+                }
+			}
+			
+			.active {
+				color: #767676 !important;
+				border-left: 0px !important;
+            }
+        }
+    }
+
+	.nav-link.active {
+		color: #767676 !important;
+		border-left: 0px !important;
+    }
+}
+
+@media (max-width: 768px) {
+	nav[data-toggle="toc"] {
+	  margin-bottom: 42px;
+	  position: static;
+	}
+  
+	nav[data-toggle="toc"] .nav .active .nav {
+	  display: none;
+	}
+  }
+
+.col-sm-2 {
+    padding-left: 0px;
 }
