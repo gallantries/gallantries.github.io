@@ -13,15 +13,51 @@ title: Home
 
 <div class="container">
     <div class="main-content">
-        POP
+        {% if paginator.previous_page %}
+            {% if paginator.previous_page > 0 %}
+                <div id="jumptopageof"></div>
+            {% endif %}
+        {% endif %}
 
-        User-friendly data analysis in Galaxy
-Downstream analysis & visualisation using Rstudio in Galaxy
-Hybrid trainings
-Pairing-up on-site 
-Helpers with remote 
-Instructors across 
-multiple sites
+        <section class="recent-posts article-post row">
+            <div class="col-sm-4">
+                {% include _includes/sidebar.html %}
+            </div>
+
+            <div class="col-sm-8">
+                <p>
+                    The need and demand from early-stage researchers for training in management and analysis 
+                    of their High Throughput Sequencing (HTS) data is increasing. Given the gap in the education 
+                    currently offered by traditional providers, there is a distinct push to create and provide 
+                    high quality, decentralized, accessible, scalable and practical training in bioinformatics
+                </p>
+
+                <p>
+                    Gallantries aims to address this gap by preparing training material for the computational 
+                    analysis of HTS data, starting from the raw data and leading up to the development of 
+                    publication ready visualizations of the analyzed results:
+                    
+                    <ul>
+                        <li><b>User-friendly data analysis in Galaxy</b>, from the raw sequencing data to the 
+                            downstream count tables</li>
+                        <li><b>Downstream analysis & visualisation using Rstudio in Galaxy</b> with manipulation and 
+                            visualization of the results within R, including an introduction to R using RStudio</li>
+                    </ul>
+                        
+                    Beyond the curriculum, Gallantries aims to address the scalability of training delivery via 
+                    <b>hybrid training events</b>, i.e. pairing-up on-site helpers with remote instructors across 
+                    multiple sites simultaneously:
+                        
+                    <img src="assets/images/handbook/hybrid_training.png" alt="">
+
+                    With this model, we aim to bring training events to the trainers while reducing the
+                     environmental impact of instructor travels. 
+                </p>
+            </div>
+        </section>
+    </div>
+</div>
+        
 
     </div>
 </div>
