@@ -16,9 +16,11 @@ The Gallantries team aims to address this gap by preparing training material for
 1. **User-friendly data analysis in Galaxy**, from the raw sequencing data to the downstream count tables
 2. **Downstream analysis & visualisation using Rstudio in Galaxy** with manipulation and visualization of the results within R, including an introduction to R using RStudio
 
-Beyond the curriculum, Gallantries tema aims to address the scalability of training delivery via **hybrid training events**, i.e. pairing-up on-site helpers with remote instructors across multiple sites simultaneously:
+Beyond the curriculum, Gallantries team aims to address the scalability of training delivery via **hybrid training events**, i.e. pairing-up on-site helpers with remote instructors across multiple sites simultaneously:
 
 ![](assets/images/handbook/hybrid_training.png)
+
+With this model, we aim to bring training events to the trainers while reducing the environmental impact of instructor travels.
 
 # A typical Gallantries hybrid training event
 
@@ -211,19 +213,20 @@ Debrief
 
 # Templates
 
-- feedback forms
-- schedule (with 1 + 2 TZs, starting times depend on audience / if they travel.)
-- wrap up slides (daily + overall (remind of gitter/help/etc.))
-        5 minutes dedicated for filling the feedback + handing out certificates
-- chat documents
-- event on page (our way of phrasing etc)
-    maybe template repo but better idea: just add to our gallantries repo, we give you website/templates/slides/etc.
-- certificates
-- general feedback of event for participants (e.g. the denbi one)
+- [Event webpage](https://github.com/galaxy-carpentries/workshop-template)
+- [Registration form](https://docs.google.com/forms/d/1mWl34vyXyhO-M9rwrrF0I-Kb2clSW0QHOiFTauweWv8)
+- [Certificates](https://docs.google.com/document/d/1SxvGyST4o5vevosj9H7s3EFnaJwl3Q1up9xPUZRu3r4/edit?usp=sharing)
+- Starting slides
+- [Collaborative document to collect questions from participants and document answers](https://drive.google.com/open?id=1tN247JWpkpPl7FvEN9gsBcmVlZfRF_B0gnEWb5L3tMc)
+- [Instructors - Helpers Chat](https://docs.google.com/document/d/1X8V_frzVd5N87zaZ7PDCvtSZozaj8XnrYj9K6Ux9i_0/edit?usp=sharing)
+- Wrap up slides for daily recap
+- Wrap up slides for the end of the workshop
+- Feedback form for participants
+- Feedback form for helpers, hosts, instructors
 
 # Conclusion
 
-Environmental impact
+We hope this guide gave you an overview of a Gallantries event, helped you to manage the logistics of the event organization.
 
 # References
 
