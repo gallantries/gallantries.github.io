@@ -4,4 +4,4 @@
 - Review the training material and suggest changes at max 2 days before
 - Make sure good quality wifi or wired internet connection in the room
 - Prepare microphone/headphones
-- Help organizer to create the recap slides for the end of each day (including learned file format, usual HTS data analysis workflow)
+- Help organizer to create the recap slides for the end of each day (including newly learned file formats, usual HTS data analysis workflow)

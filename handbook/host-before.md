@@ -1,4 +1,4 @@
-- Identify a situable room (ideally a computer room)
+- Identify a suitable room (ideally a computer room)
   - Check for stable internet connection
   - Make sure the workshop space is accessible to all individuals
     - Check if the building, room and restrooms are wheelchair accessible (ramps, elevators, etc.)
@@ -15,7 +15,7 @@
 - Test the screen with different light intensity
 - Arrange required materials and equipment
   - Set up extension cords or power strips
-  - Get sticky notes in two contrasting colors
+  - Get sticky notes in two contrasting colors. Make sure the colors are distinguishable by color blind people.
   - Get extra pens and paper in case people want to take notes by hand
   - Get pens for blackboard, whiteboard or flipboard
 - Arrange for beverages, snacks, and meals
@@ -23,5 +23,5 @@
   - Ensure that your catering service will label the food for contents/allergens (e.g. for vegetarian/vegan/allergens like gluten, etc.)
   - Make a reservation for a social dinner, if any.
   
-  Catering can be expensive. If you choose to have participants find their own lunch, then you should add nearby lunch location ideas to the workshop webpage. If your workshop is a multi-day workshop, you should include dinner options on the workshop webpage.
+  Catering can be expensive. If you choose to have participants fund their own lunch, you should add nearby lunch location ideas to the workshop webpage. If your workshop is a multi-day workshop, you should include dinner options on the workshop webpage.
   

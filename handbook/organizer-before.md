@@ -4,7 +4,7 @@
 
 - Identify and contact instructors
 
-    Some recommendation: an instructor should teach at maximum half day in a row. So at least 2 instructors are needed.
+    Some recommendation: an instructor should teach at maximum half day in a row. So at least 2 instructors per day are needed.
 
 - Choose a date in coordination with local hosts and instructors
 - Create a registration form, e.g. by copying [our template](https://docs.google.com/forms/d/1mWl34vyXyhO-M9rwrrF0I-Kb2clSW0QHOiFTauweWv8)

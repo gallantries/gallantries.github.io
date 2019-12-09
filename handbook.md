@@ -5,26 +5,26 @@ title: Handbook to organize a Gallantries event
 
 We're thrilled you've choosen to run a Gallantries event!
 
-We hope this guide will help you navigate the logistics of the event organization. If anything is unclear or you have more questions, feel free to add comments in [GitHub]({{ site.github.repository_url }}/issues/new), or reach out to us at [{{ site.email|replace:'@','[at]' }}](mailto:{{ site.email }}) directly. We're here to help!
+We hope this guide will help you navigate the logistics of the event organization. If anything is unclear or you have more questions, feel free to add comments in [GitHub]({{ site.github.repository_url }}/issues/new), or reach out to us at [{{ site.email }}](mailto:{{ site.email }}) directly. We're here to help!
 
 # What is a Gallantries event?
 
-Several recent surveys highlight the need and demand from early-stage researchers for training in management and analysis of their High Throughput Sequencing (HTS) data. Given the gap in the education currently offered by traditional providers, there is a distinct push to create and provide high quality, decentralized, accessible, scalable and practical training in bioinformatics.
+Several recent surveys highlight the need and demand from early-stage researchers for training in management and analysis of their High Throughput Sequencing (HTS) data. Given the gap in the education currently offered by traditional providers, there is a distinct push to create and provide high quality, decentralized, accessible, scalable, and practical training in bioinformatics.
 
 The Gallantries team aims to address this gap by preparing training material for the computational analysis of HTS data, starting from the raw data and leading up to the development of publication ready visualizations of the analyzed results, using the Galaxy platform as the underlying infrastructure. This is a representative training scenario as it covers themes and practices common in the vast majority of data analysis pipelines in life sciences: 
 
 1. **User-friendly data analysis in Galaxy**, from the raw sequencing data to the downstream count tables
-2. **Downstream analysis & visualisation using Rstudio in Galaxy** with manipulation and visualization of the results within R, including an introduction to R using RStudio
+2. **Downstream analysis & visualisation in Rstudio** with manipulation and visualization of the results within R, including an introduction to R using RStudio
 
 Beyond the curriculum, Gallantries team aims to address the scalability of training delivery via **hybrid training events**, i.e. pairing-up on-site helpers with remote instructors across multiple sites simultaneously:
 
-![](assets/images/handbook/hybrid_training.png)
+![Hybrid training diagram, a single remote instructor broadcasts training to multiple sites](assets/images/handbook/hybrid_training.png)
 
-With this model, we aim to bring training events to the trainers while reducing the environmental impact of instructor travels.
+With this model, we aim to bring training events to the trainees while reducing the environmental impact of instructor travel.
 
 # A typical Gallantries hybrid training event
 
-*To illustrate a typical Gallantries event and the different roles (1 person can have several roles), we decided to share a story with personna*
+*To illustrate a typical Gallantries event and the different roles (1 person can have several roles), we have decided to share a story with several fictional characters*
 
 **Max** is a training coordinator of an international research consortium. They recently surveyed researchers in the consortium on their need in HTS data analysis. The results were overwhelming: over 60 scientists on several locations would like to learn how to analyze their own RNA-seq data. To fulfill this demand, Max decided to organize a Gallantries event: a 3-days workshop with 4 different locations simultaneously (Greece, Estonia, France and Spain). Max is the **global organizer** of this event, in charge to find the date, contact and coordinate with the local hosts, advertize the event, find the instructors, etc. After the event, Max will aggregate all feedback from participants, helpers and hosts and share them.
 
@@ -85,9 +85,9 @@ We recommend to the local hosts to organize drinks and coffee for the breaks and
 
 To cover them, local hosts could ask for a small participation fee. This will also increase the number of registered participants showing up.
 
-# Checklists by timing
+# Workshop Checklists
 
-To help organizing a Gallantries event, we created some checklists, by timing but also [by role](#checklists-by-role). Most of the items in these checklists are not specific to Gallantries events.
+To help you organize a Gallantries event, we have created some checklists, by timing but also [by role](#checklists-by-role). Most of the items in these checklists are not specific to Gallantries events.
 
 ## Before the workshop
 
@@ -226,7 +226,7 @@ Debrief
 
 # Conclusion
 
-We hope this guide gave you an overview of a Gallantries event, helped you to manage the logistics of the event organization.
+We hope this guide gave you an overview of how to organize a Gallantries event, and will help you manage the logistics of the event organization.
 
 # References
 
