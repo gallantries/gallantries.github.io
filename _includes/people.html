@@ -27,16 +27,16 @@
           </a>
           {% endif %}
         </p>
-        
+
         <p class="subtitle is-6">
           {% if user.email %}
           <i class="fas fa-at"></i>
           <a href="mailto:{{ user.email }}">
-            {{ user.email | replace:'@','[at]' }}
+            {{ user.email }}
           </a>
           {% endif %}
         </p>
-        
+
         <p class="subtitle is-6">
           {% if user.web %}
           <i class="fas fa-globe"></i>
@@ -45,7 +45,7 @@
           </a>
           {% endif %}
         </p>
-        
+
       </div>
     </div>
 
