@@ -22,6 +22,6 @@ Both will also provide the training infrastructure; i.e. hosting the material, i
 Supporting Partners
 - [de.NBI](https://www.denbi.de/) is supporting BB and HR through in-kind contribution. Moreover, all the computational resources of the European instance of Galaxy are provided by de.NBI. Any partner workshops in Germany will be funded and run by de.NBI staff.
 - [DTL](https://www.dtls.nl/) is supporting Mateusz Kuzak through in-kind contribution
-- [INAB|CERTH](http://inab.certh.gr) is supporting Fotis Psomopoulos through in-kind contribution.
+- [INAB CERTH](http://inab.certh.gr) is supporting Fotis Psomopoulos through in-kind contribution.
 - EMC is supporting SH through in-kind contribution.
 - [Mozilla foundation](https://foundation.mozilla.org/en/) is supporting via a [Mozilla Open Science Mini-Grants](https://foundation.mozilla.org/en/awards/)
