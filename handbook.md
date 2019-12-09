@@ -32,19 +32,19 @@ Max first contacted 4 **local hosts** (1 on each site) One of them is **Imani** 
 
 Imani recruited 2 **local helpers** for each day. One of the helpers, **Casey**,  has some previous experience with RNA-seq data analysis and Galaxy. Before the workshop, they went through the training material and tested it. They help participants during the workshop when they are stuck or get different results than the instructors. They also give direct feedback to the instructor about the pace, possible local issues etc.
 
-Max also recruited 4 **instructors** whose **Farah**. Farah is trained bioinformaticians and experienced instructors giving regularly training to scientists on HTS data analysis. They will teach the morning of the 2nd day (introduction and the frist steps of RNA-seq data analysis). Farah is located in Germany and teaches from a room at their institute in front of their computer. During this teaching morning, they adapt their pace given the feedback they got from the local helpers, check the status of participants job on a dedicated page and also answer questions from participants written on chat.
+Max also recruited 4 **instructors**, **Farah** among them. Farah is a trained bioinformatician and experienced instructor, giving regularly training to scientists on HTS data analysis. They will teach in the morning of the 2nd day (introduction and the first steps of RNA-seq data analysis). Farah is located in Germany and teaches from a room at their institute in front of their computer. During this teaching morning, they adapt their pace given the feedback they receive from the local helpers, check the status of participants job on a dedicated page and also answer questions from participants written on chat.
 
-**Alex** is a PhD student in molecular biology based in Greece. They would like to learn about RNA-seq data analysis to be able to analyze the data they generated. They heard about the workshop and join one site for the workshop close to their institute. As **participant**, Alex actively participates to the workshop by running their first RNA-seq data analysis given the instructor's instructions, asks for help to local helpers when stucks, raises their questions on the participant chat and gives feedback using sticky notes and dedicated feedback forms.
+**Alex** is a PhD student in molecular biology based in Greece. They would like to learn about RNA-seq data analysis to be able to analyze the data they generated. They heard about the workshop and join one site for the workshop close to their institute. As **participant**, Alex actively participates in the workshop by running their first RNA-seq data analysis given the instructor's instructions, asks for help from local helpers when stuck, raises their questions on the participant chat and gives feedback using sticky notes and dedicated feedback forms.
 
 # Curriculum and schedule for an event
 
-A typical Gallantries event covers the computational analysis of HTS data from the raw data to the development of publication ready visualizations of the analyzed results within **3 days** with hands-on training:
+A typical Gallantries event covers the computational analysis of HTS data from raw data to the development of publication ready visualizations of the analyzed results within **3 days** of hands-on training:
 
-- The first day is usually an introduction to Galaxy, quality control and (if time allow it) mapping.
+- The first day is usually an introduction to Galaxy, quality control and, if time allows, mapping.
 - On the second day, the training covers HTS data analysis, e.g. reference based RNA-seq analysis from raw sequences to differential expression analysis.
 - The third day is dedicated to downstream analysis & visualisation of generated results with Rstudio in Galaxy, after an introduction to R.
 
-Every day the workshop usually run from **8:30-10:00** to **17:00-18:30** (give or take, depending on questions at the end). A typical schedule could be:
+Every day the workshop usually run from **8:30-10:00** to **17:00-18:30** (give or take, depending on questions at the end). The suggested schedule is following
 
 Time | Topic | Material | Speaker
  --- | --- | --- | ---
@@ -73,17 +73,16 @@ Evening | Social Dinner | | All sites
 17:00 - 17:30 | Recap of the workshop + feedbacks | | Local hosts
 {:.table.table-striped}
 
-**Breaks** (10-15 minutes, with ideally drinks and snacks) are recommanded every hour to help participants to stay focus and let instructors to rest a bit. Breaks are difficult to pre-schedule, but could be done while a tool is running or if there is any technical issues.
+**Breaks** (10-15 minutes, with ideally drinks and snacks) are recommanded every hour to help participants to stay focus and let instructors to rest a bit. Breaks are difficult to pre-schedule, but could be done while a tool is running or if there are some technical issues.
 
-Different time zones
 
 # Cost of an event
 
-With hybrid training model, the cost to organize and participate to workshop are minimized: the instructors do not need to travel to the venue and the event can be the closest as possible to participants (e.g. in their institute).
+With the hybrid training model, the cost of organizing and participating in the workshop are minimized: the instructors do not need to travel to the venue and the event can be the closest as possible to participants (e.g. in their institute).
 
-We recommend to the local hosts to organize drinks and coffee for the breaks and if possible lunch. This will be the main costs of such event.
+We recommend that local hosts organize drinks and coffee for the breaks and, if possible, lunch. These will be the major costs of hosting such an event.
 
-To cover them, local hosts could ask for a small participation fee. This will also increase the number of registered participants showing up.
+To cover those costs, local hosts can ask for a small participation fee. This will also increase the number of registered participants showing up.
 
 # Workshop Checklists
 
