@@ -28,28 +28,30 @@ With this model, we aim to bring training events to the trainees while reducing 
 
 **Max** is a training coordinator of an international research consortium. They recently surveyed researchers in the consortium on their need in HTS data analysis. The results were overwhelming: over 60 scientists at the several locations would like to learn how to analyze their own RNA-seq data. To fulfill this demand, Max decided to organize a Gallantries event: a 3-days workshop with 4 different locations simultaneously (Greece, Estonia, France and Spain). Max is the **global organizer** of this event, in charge of finding the date, contact and coordinate with the local hosts, advertize the event, find the instructors, etc. After the event, Max will aggregate all feedback from participants, helpers and hosts and share them.
 
-Max first contacted 4 **local hosts** (1 on each site) One of them is **Imani** based in Greece. Imani is in charge of finding a suitable room (preferably with computers), check the local setup, recruit local helpers, advertize the event locally to participants, organize the local catering and social event. Imani will also make the introduction and wrap-up on each day, and collect feedback from participants.
+Max first contacted 4 **local hosts** (1 at each site):
 
-Imani recruited 2 **local helpers** for each day. One of the helpers, **Casey**,  has some previous experience with RNA-seq data analysis and Galaxy. Before the workshop, they went through the training material and tested it. They help participants during the workshop when they are stuck or get different results than the instructors. They also give direct feedback to the instructor about the pace, possible local issues etc.
+One of them is **Imani** who is based in Greece. Imani is in charge of finding a suitable room (preferably with computers), checking the local setup, recruiting local helpers, advertizing the event locally to participants, and organizing the local catering and social event. Imani will also give the introduction and wrap-up on each day, and collecting feedback from participants.
 
-Max also recruited 4 **instructors**, **Farah** among them. Farah is a trained bioinformatician and experienced instructor, giving regularly training to scientists on HTS data analysis. They will teach in the morning of the 2nd day (introduction and the first steps of RNA-seq data analysis). Farah is located in Germany and teaches from a room at their institute in front of their computer. During this teaching morning, they adapt their pace given the feedback they receive from the local helpers, check the status of participants job on a dedicated page and also answer questions from participants written on chat.
+Imani recruited 2 **local helpers** for each day. One of the helpers, **Casey**,  has some previous experience with RNA-seq data analysis and Galaxy. Before the workshop, they went through the training material and tested it. They will help participants during the workshop when they are stuck or get different results than the instructors. They will also give direct feedback to the instructor about the pace, any possible local issues etc.
 
-**Alex** is a PhD student in molecular biology based in Greece. They would like to learn about RNA-seq data analysis to be able to analyze the data they generated. They heard about the workshop and join one site for the workshop close to their institute. As **participant**, Alex actively participates in the workshop by running their first RNA-seq data analysis given the instructor's instructions, asks for help from local helpers when stuck, raises their questions on the participant chat and gives feedback using sticky notes and dedicated feedback forms.
+Max also recruited 4 **instructors**, **Farah** among them. Farah is a trained bioinformatician and experienced instructor, regularly giving training to scientists on HTS data analysis. They will teach in the morning of the 2nd day (introduction and the first steps of RNA-seq data analysis). Farah is located in Germany and teaches from a room at their institute in front of their computer. During their session, they will adapt their pace given the feedback they receive from the local helpers, check the status of participants job on a dedicated page, and will also answer questions from participants written on chat.
+
+**Alex** is a PhD student in molecular biology based in Greece. They would like to learn about RNA-seq data analysis to be able to analyze the data they generated. They heard about the workshop and join one site for the workshop close to their institute. As a **participant**, Alex will actively participate in the workshop by running their first RNA-seq data analysis given the instructor's instructions, ask for help from local helpers when stuck, will raise their questions on the participant chat, and will give feedback using sticky notes and the dedicated feedback form.
 
 # Curriculum and schedule for an event
 
-A typical Gallantries event covers the computational analysis of HTS data from raw data to the development of publication ready visualizations of the analyzed results within **3 days** of hands-on training:
+An example Gallantries event covers the computational analysis of HTS data from raw data to the development of publication ready visualizations of the analyzed results within **3 days** of hands-on training:
 
 - The first day is usually an introduction to Galaxy, quality control and, if time allows, mapping.
 - On the second day, the training covers HTS data analysis, e.g. reference based RNA-seq analysis from raw sequences to differential expression analysis.
 - The third day is dedicated to downstream analysis & visualisation of generated results with Rstudio in Galaxy, after an introduction to R.
 
-Every day the workshop usually run from **8:30-10:00** to **17:00-18:30** (give or take, depending on questions at the end). The suggested schedule is following
+Every day the workshop usually run from **8:30-10:00** to **17:00-18:30** (give or take, depending on questions at the end). Be sure to confer with your sites to determine reasonable start and end times that fit everyone's schedules. The suggested schedule is following
 
 Time | Topic | Material | Speaker
  --- | --- | --- | ---
 **1st day** | |  |
-9:00 - 9:30 | General introduction: introduction round, explanation of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html)
+9:00 - 9:30 | General introduction: round of introductions from participants, helpers and local hosts, explanation of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html)
 9:30 - 10:00  | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Local hosts
 10:00 - 12:30 | Galaxy 101 | [tutorial](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html) | One instructor
 12:30 - 13:30 | Lunch | |
