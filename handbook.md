@@ -11,7 +11,7 @@ We hope this guide will help you navigate the logistics of the event organizatio
 
 Several recent surveys highlight the need and demand from early-stage researchers for training in management and analysis of their High Throughput Sequencing (HTS) data. Given the gap in the education currently offered by traditional providers, there is a distinct push to create and provide high quality, decentralized, accessible, scalable, and practical training in bioinformatics.
 
-The Gallantries team aims to address this gap by preparing training material for the computational analysis of HTS data, starting from the raw data and leading up to the development of publication ready visualizations of the analyzed results, using the Galaxy platform as the underlying infrastructure. This is a representative training scenario as it covers themes and practices common in the vast majority of data analysis pipelines in life sciences: 
+The Gallantries team aims to address this gap by preparing training material for the computational analysis of HTS data, starting from the raw data and leading up to the development of publication ready visualizations of the analyzed results, using the Galaxy platform as the underlying infrastructure. This is a representative training scenario as it covers themes and practices common in the vast majority of data analysis pipelines in life sciences:
 
 1. **User-friendly data analysis in Galaxy**, from the raw sequencing data to the downstream count tables
 2. **Downstream analysis & visualisation in Rstudio** with manipulation and visualization of the results within R, including an introduction to R using RStudio
@@ -49,7 +49,7 @@ Every day the workshop usually run from **8:30-10:00** to **17:00-18:30** (give 
 Time | Topic | Material | Speaker
  --- | --- | --- | ---
 **1st day** | |  |
-9:00 - 9:30 | General introduction: introduction round, explanation of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html) 
+9:00 - 9:30 | General introduction: introduction round, explanation of sticky notes and hybrid training |[slides](https://training.galaxyproject.org/training-material/topics/instructors/tutorials/workshop-intro/slides.html)
 9:30 - 10:00  | Introduction to Galaxy | [slides](https://training.galaxyproject.org/training-material/topics/introduction/slides/introduction.html#1) | Local hosts
 10:00 - 12:30 | Galaxy 101 | [tutorial](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html) | One instructor
 12:30 - 13:30 | Lunch | |
@@ -68,7 +68,7 @@ Evening | Social Dinner | | All sites
 9:00 - 9:30 | Recap of the previous day | | Local hosts
 9:30 - 10:30 | Introduction to RStudio in Galaxy | [tutorial](TODO) | One instructor
 10:30 - 12:30 | Introduction to R programming| [tutorial](TODO) | One instructor
-12:30 - 13:30 | Lunch | | 
+12:30 - 13:30 | Lunch | |
 13:30 - 17:00 | Post-processing RNA-seq data using R | [tutorial](TODO) | One instructor
 17:00 - 17:30 | Recap of the workshop + feedbacks | | Local hosts
 {:.table.table-striped}
@@ -91,19 +91,19 @@ To help you organize a Gallantries event, we have created some checklists, by ti
 
 ## Before the workshop
 
-**Global organizers**
+### Global organizers
 
 {% include handbook/organizer-before.md %}
 
-**Local hosts**
+### Local hosts
 
 {% include handbook/host-before.md %}
 
-**Local helpers**
+### Local helpers
 
 {% include handbook/helper-before.md %}
 
-**Instructors**
+### Instructors
 
 {% include handbook/instructor-before.md %}
 
@@ -114,19 +114,19 @@ How chat works
 emphasize communication between helpers
 put sticky notes there quickly
 
-**Global organizers**
+### Global organizers
 
 {% include handbook/organizer-during.md %}
 
-**Local hosts**
+### Local hosts
 
 {% include handbook/host-during.md %}
 
-**Local helpers**
+### Local helpers
 
 {% include handbook/helper-during.md %}
 
-**Instructors**
+### Instructors
 
 {% include handbook/instructor-during.md %}
 
@@ -137,19 +137,19 @@ Debrief
     share experience back: feedback from sites (extract form from issue in github)
     form feedback from instructors + helpers
 
-**Global organizers**
+### Global organizers
 
 {% include handbook/organizer-after.md %}
 
-**Local hosts**
+### Local hosts
 
 {% include handbook/host-after.md %}
 
-**Local helpers**
+### Local helpers
 
 {% include handbook/helper-after.md %}
 
-**Instructors**
+### Instructors
 
 {% include handbook/instructor-after.md %}
 
@@ -157,57 +157,57 @@ Debrief
 
 ## Global organizers
 
-**Before the workshop**
+### Before the workshop
 
 {% include handbook/organizer-before.md %}
 
-**During the workshop**
+### During the workshop
 
 {% include handbook/organizer-during.md %}
 
-**After the workshop**
+### After the workshop
 
 {% include handbook/organizer-after.md %}
 
 ## Local hosts
 
-**Before the workshop**
+### Before the workshop
 
 {% include handbook/host-before.md %}
 
-**During the workshop**
+### During the workshop
 
 {% include handbook/host-during.md %}
 
-**After the workshop**
+### After the workshop
 
 {% include handbook/host-after.md %}
 
 ## Local helpers
 
-**Before the workshop**
+### Before the workshop
 
 {% include handbook/helper-before.md %}
 
-**During the workshop**
+### During the workshop
 
 {% include handbook/helper-during.md %}
 
-**After the workshop**
+### After the workshop
 
 {% include handbook/helper-after.md %}
 
 ## Instructors
 
-**Before the workshop**
+### Before the workshop
 
 {% include handbook/instructor-before.md %}
 
-**During the workshop**
+### During the workshop
 
 {% include handbook/instructor-during.md %}
 
-**After the workshop**
+### After the workshop
 
 {% include handbook/instructor-after.md %}
 
