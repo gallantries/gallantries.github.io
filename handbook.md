@@ -5,7 +5,7 @@ title: Handbook to organize a Gallantries event
 
 We're thrilled you've choosen to run a Gallantries event!
 
-We hope this guide will help you navigate the logistics of the event organization. If anything is unclear or you have more questions, feel free to add comments in [GitHub]({{ site.github.repository_url }}/issues/new), or reach out to us at [{{ site.email }}](mailto:{{ site.email }}) directly. We're here to help!
+We hope this guide will help you navigate the logistics of the event organization. If anything is unclear or you have more questions, feel free to add comments in [GitHub]({{ site.github.repository_url }}/issues/new), or reach out to us [on Gitter](https://gitter.im/galaxy-carpentries/community). We're here to help!
 
 # What is a Gallantries event?
 
