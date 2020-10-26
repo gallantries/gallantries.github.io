@@ -1,5 +1,5 @@
 ---
-layout: handbook
+layout: page-toc
 title: Handbook to organize a Gallantries event
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: What are we doing?
 ---
 
