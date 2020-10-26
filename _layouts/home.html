@@ -12,12 +12,6 @@ title: Home
 
 <div class="container">
 	<div class="main-content">
-		{% if paginator.previous_page %}
-			{% if paginator.previous_page > 0 %}
-				<div id="jumptopageof"></div>
-			{% endif %}
-		{% endif %}
-
 		<section class="recent-posts article-post row">
 			<div class="col-sm-12">
 				{{ content }}

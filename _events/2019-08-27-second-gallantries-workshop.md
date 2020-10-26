@@ -1,5 +1,6 @@
 ---
 layout: event
+old: true
 title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy and R'
 starts: 2019-10-07
 ends: 2019-10-09
@@ -23,7 +24,7 @@ locations:
         lat: 40.567925
         lon: 22.997542
 -
-    name: Institute of Computer Science - Paabel Building  
+    name: Institute of Computer Science - Paabel Building
     street: Ülikooli 17
     postal: 51005
     city: Tartu
@@ -47,7 +48,7 @@ It will be delivered simultaneously at multiple locations across Europe ([Rotter
 
 # Registration
 
-Each location offers 15 places. To register to attend in **Rotterdam or Thessaloniki**, please fill in the [following form](https://forms.gle/qDJAx6s8QN9kqA9j6). First come, first serve. 
+Each location offers 15 places. To register to attend in **Rotterdam or Thessaloniki**, please fill in the [following form](https://forms.gle/qDJAx6s8QN9kqA9j6). First come, first serve.
 
 To attend in **Tartu**, please register in the [following form](https://forms.gle/MhPNFQVz1yTupLUx6).
 

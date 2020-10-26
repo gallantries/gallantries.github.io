@@ -1,5 +1,6 @@
 ---
 layout: event
+old: true
 title: 'RNA-seq workshop for beginners: from sequences to visualization using Galaxy'
 starts: 2019-06-11
 ends: 2019-06-12
