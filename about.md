@@ -3,56 +3,88 @@ layout: page
 title: What are we doing?
 ---
 
-We are working with life sciences training communities to adapt and deliver
-existing training materials for High Throughput Sequencing (HTS) data analysis 
-skills needed in genomics research.
+# Project Background
 
-# The problem
+There is an ongoing explosion of scientific datasets being generated, brought on by recent technological advances in the area of genomic sequencing. As a result, the life sciences have become increasingly computational in nature, and bioinformatics has taken on a central role in research studies. However, basic computational skills and data stewardship are rarely taught in life science educational programmes (Attwood et al. 2019), resulting in a skills gap in many of the researchers tasked with analysing these big datasets. Acquiring a minimum level of computational skills helps researchers communicate and interact more effectively and improves critical thinking about research results (Tan et al, 2009; Welch et al, 2014).
 
-Rapid development of DNA sequencing technologies has made it possible for biomedical disciplines to rival the physical sciences in data production capability. Today's sequencing instruments rival those fields in terms of data throughput. Yet biology is different from these disciplines in one fundamental aspect—the lack of computational and data analysis training in standard biomedical curricula.
+## Needs of the Community
 
-The main challenge with the explosion of biomedical datasets is not the data and the respective required storage space, nor the computational resources, but rather the general lack of trained and skilled researchers to manipulate and analyze these data. The need for such training cannot be overstated; while the majority (>95%) of researchers work or plan to work with large datasets, most (>65%) possess only minimal bioinformatics skills and are not comfortable with statistical analyses (Larcombe et al, 2017; Williams and Teal, 2017). This overwhelming need drives the demand, which, at present, greatly exceeds supply (Attwood et al, 2017). In a recent survey from EMBL-ABR, over 60% of biologists expressed the need for more training while only 5% called for additional computing power.
+The main challenge with this explosion of scientific datasets is not the required storage space, nor the computational resources, but rather the general lack of trained researchers to manipulate and analyse these data. The need for such training cannot be overstated; while the majority of researchers (>95%) work or plan to work with large datasets, most (>65%) possess only minimal bioinformatics skills and are not comfortable with statistical analyses (Larcombe et al, 2017; Williams and Teal, 2017). This overwhelming need creates a demand for training, which, at present, greatly exceeds supply (Attwood et al, 2017). In a recent survey from the EMBL (European Molecular Biology Laboratory), over 60% of biologists expressed the need for more training while only 5% called for additional computing power.
 
-Different communities such as [GOBLET](https://www.mygoblet.org/), [ELIXIR](https://www.elixir-europe.org/), [EMBL](https://www.embl.org/), [The Carpentries](https://carpentries.org/) and [Galaxy](https://galaxyproject.org/), are tackling this problem by creating and providing high quality, decentralized, accessible, and practical training in computational data analysis to biomedical researchers worldwide.
-The impact of these efforts is already evident, with many researchers now being able to analyze their own data. However, each of these communities are developing material covering one or two aspects of the full data analysis process in life science i.e. data management and metadata, bioinformatics and data analysis, or basic computing and scripting skills. Moreover the provided workshops are not always accessible nor inclusive.
+## Aims
 
-Given their cumulative experience and expertise in training for Life Sciences, the next step for these communities is to work together towards a full curriculum on the computational analysis of HTS data, starting from raw data and leading up to the production of publication ready visualizations of the analysis results. More importantly, these training activities should be scalable and accessible to anyone around the globe, particularly for people unable to attend face-to-face workshops due to social, technical or cultural limitations, leveraging new technologies to overcome this obstacle.
+The Gallantries project aims to increase bioinformatics and core data analysis skills in the field of life sciences. In order to provide these skills as early as possible, this project focuses on Masters and PhD level students. Bioinformatics is a rapidly evolving field, and the tools and concepts taught in degree-length education programmes become outdated quickly. Therefore, we will create a modular curriculum, consisting of interrelated, but independent modules covering the latest developments in the field. These modules can be integrated into existing Master and PhD-programmes, either combined or individually. They will also be suitable for stand-alone use in workshops for researchers who have already obtained their PhD in different stages of their careers. This answers the high demand for supplemental education of later-career researchers (Via et al. 2019).
 
-# The solution
+## Project Objectives
 
-Gallantries aims to bridge the different training communities (EMBL, The Carpentries, Galaxy, ELIXIR, GOBLET) and fill the remaining gap in bioinformatics training. 
+To reach the project’s overall aim to increase bioinformatics and core data analysis skills in the field of life sciences, the Gallantries project has four project specific objectives:
 
-## Development of curriculum and training material
+- To develop a set of four training modules covering fundamental computational and data analysis skills and competencies based around real-world scientific data analysis applied through the field of genomics (IO1-IO4).
+- To deliver these training modules (IO1-IO4) in workshops and lessons via live-streaming sessions to multiple geographically distant satellite classrooms across Europe, applying a hybrid training methodology to ensure scalability and reusability.
+- To develop a train-the-trainer program and build a community of instructors to ensure sustainability (IO5).
+- To effectively engage stakeholders and disseminate project results to ensure uptake and sustainability.
 
-We create curriculum and training material on the computational analysis of HTS data
-1. Data analysis leading from the raw sequencing data to the downstream count tables, using Galaxy tools relying on both their wide use as well as the standardization they offer.
-2. Manipulation and visualization of the results using R as the data science programming language of choice, including an introduction to R using RStudio inside a Galaxy Interactive Environment (GIE).
+Transnational collaboration and coordination is critical to the success of this project, as it allows us to make optimal use of the combined expertise of the EU-wide community of instructors for the development of the curricula. This project builds upon two existing international training initiatives. We will leverage these communities for dissemination, peer review of lessons, and facilitating maintenance in the long term.
 
-The complete curriculum will be provided here, with complete bidirectional linking to both websites, and acts as a representation of the virtual bridge between the two communities.
+## Target Groups
 
-## Training delivering
+The target groups of the intellectual outputs are Master and PhD-students of the educational programmes of the partner and associated partner institutes, later-career researchers, and the teachers in these programmes. Furthermore, we will coordinate closely with the educational directors of the participating institutions in order to implement the Gallantries outputs into the Master and PhD-programmes directly involved. As the project progresses, we will use conference participation and other dissemination channels to expand the Gallantries communities.
 
-The produced training materials are delivered during three days workshops. Each workshop includes both a physical and a virtual aspect; it will comprise of multiple sites delivering the same content at the same time across multiple time zones and various locations, through online streaming. This is a very ambitious goal of the project, with significant importance to other communities and initiatives; as such we document all the organizational and practical steps required in making this "hybrid" workshops happen, and provide this information as a resource for adoption, reuse and further improvement.
+# Outputs
 
-## Bridging communities
+This project aims to provide a set of core skills and competencies essential to meet the data analysis needs in this “-omics” era (Tan 2009; Welsch 2019; Atwood 2019). The students will gain a) basic essential knowledge in the specific domains of computer science and statistics that intersect with modern biology, b) expertise in communicating and representing biological knowledge and processes in statistical and computing terms and concepts, c) ability to use bio-computational tools and techniques for the acquisition, interpretation, analysis, modelling, and visualisation of biological data, d) proficiency in the handling of biological data and information in databases for deriving biological insight and knowledge discovery, e) critical thinking and problem-solving skills in quantitative aspects of biology.
 
-Finally, going beyond the strict limits of preparing and delivering the training material, the ultimate goal of this project is to build a lasting community of training in Life Sciences. This is achieved by bridging the Galaxy Training Network and the Carpentries, thus bringing together the 15+ year training expertise of the Carpentries community with the sustainable computational infrastructure of Galaxy.
+## Novel training modules (IO1-4)
 
-To bridge these communities, collaboration fests are organized. Each one will entail focused development of the training materials in the form of a sprint, but more important it will foster collaboration between the, currently, disjointed communities.
+We will develop 4 novel training modules, each centred around a set of bioinformatics skills and competencies as outlined above. The modules will teach not only abstract analysis skills, but also the practical application of these skills to different scientific domains for which genomics is at the core.
 
-# Who are we?
+**Introduction to data analysis and -management, statistics, and coding.**
 
-We are a group of enthousiastic people about training and community: you can find more details about us in the [team]({% link team.md %})
+Aimed at novices, this module will teach basic skills in data handling and analysis, statistics, and coding. These skills will be applied to basic genomics analyses. Genomics is the study of genetic material (DNA, RNA, proteins) of organisms, and has a wide range of applications in various domains such as biomedical research, environmental studies and agriculture. While the analyses involved in these different domains may vary considerably, they share a common core of data and file formats, and analysis steps.
 
-We are instructors, mentors, and contributors within the Carpentries and Galaxy Training communities. We have extensive experience and a strong commitment to producing concise and evidenced based training, while also being mindful of providing inclusive training for all involved. 
+**Large-scale data analysis, and introduction to visualisation and data modelling.**
 
-We are key contributors of the Galaxy community, with clear insights on the current and future technical capabilities of the Galaxy infrastructure that is widely used particularly in training events around the globe.
+Research studies often involve analysis of hundreds to thousands of samples. This module will focus on scaling up analyses from a single sample to large cohorts. These skills will be applied to the biomedical domain. We will focus on microbiome analyses; the study of genetic characteristics of communities of microorganisms, and their involvement in human health and disease. Secondly, this module will cover scaling up analyses in terms of data complexity. This will be illustrated using cancer analyses; cancer is a disease of the genome, resulting in high-complexity data and interpretation.
 
-Within the ELIXIR network, our role as Training Coordinators allow us to directly support both Institutions and individual researchers in Life Sciences across Europe by providing training, as well as continuously identifying potential gaps in the training needs.
+**Data stewardship, federation, standardisation, integration, and collaboration**
 
-Finally, we all have a long standing commitment to the Open Science movement: Mozilla Open Leaders initiative, Open Science Training Handbook, etc.
+Going beyond a single research study, generated data must be made interoperable, so that results can be combined across studies. This involves standardisation of data formats, accessibility of data in federated databases, and collaboration. These competencies will be applied to the domain of genome annotation; the identification of genetic characteristics and their functions. This involves integrating data from multiple (often heterogeneous) data sources by large groups of scientists.
 
-# Our values
+**Data analysis for evidence and hypothesis generation and knowledge discovery.**
+
+Gaining novel scientific insights from these research analyses, requires visualisation, modelling, and statistical analysis. This module will focus on the skills required for knowledge acquisition from large-scale genetic studies. This will be applied to biodiversity; the interplay of different organisms within an entire ecosystem, based on the genomic characteristics of each of the different organisms.
+
+Together, these four modules cover genomics as it is applied to a wide range of life science domains; from biomedical applications to the exploration of the world around us (e.g. agriculture and ecology).
+
+**Train-the-Trainer (TtT) and mentoring programme (IO5) and Community Building.**
+
+In order to ensure the long-term sustainability of this project, we will develop a TtT programme and build a community of (new) instructors. Instructors will learn how to deliver the modules using the hybrid training approach. They will also learn how to update existing materials and create novel modules reflecting the changes in the rapidly evolving field of genomics data analysis and bioinformatics. The TtT-programme will consist of: a) a TtT module; a 2-3-day workshop aimed at instructors, b) a user-friendly central framework for lesson development and organisation, c) an instructor handbook consisting of a set of guidelines describing how to prepare for, deliver, and follow-up on such hybrid trainings, and d) a system of communication channels, online events, and mentorships for instructors, in order to foster a sense of community.
+
+
+# Innovation
+
+
+**Novel approach to curriculum**
+
+The partners will design and implement a training structure that combines the evidence-based teaching practices promoted by the Carpentries, with the technological and e-infrastructure offered by Galaxy. This training structure will offer the fundamental skills of data handling, data manipulation, and basic coding with the widely used coding languages R and Python. These fundamental skills will be taught in scientific domains (genome annotation, biodiversity and microbiome analysis), in order to directly showcase practical application of the new skills.
+
+**Novel approach to infrastructure**
+
+The partners will apply innovative approaches to e-infrastructure for training. A key issue in traditional training activities involving computational analysis, is the heterogeneity of the available computers, and software dependencies. The Gallantries will rely on the Galaxy platform, which removes all technical restrictions, as only a browser is required. Additionally, Galaxy already embeds frameworks often employed in coding training, e.g. RStudio and Jupyter. This enables adaptation of existing materials based on these frameworks, and gives the opportunity for this project to test and further adapt them in order to ensure scalability for use in hybrid workshops.
+
+**Novel approach to lesson delivery**
+
+The partners will refine the hybrid training delivery method previously piloted in the context of the Mozilla Science mini-grant. This method includes multiple satellite locations through online training delivery. It enhances the inclusiveness of higher education and reduces the overall carbon footprint by minimizing or fully eliminating travel. Finally, by having multiple satellite locations connected, a single workshop will have significantly higher impact, due to the larger audience.
+
+**Open science and education principles**
+
+The partners commit to the Open Science principles. Like the Carpentries and the GTN, all outputs will be openly licensed and available online for self-study. Additionally, all lessons will be developed collaboratively, inviting the wider scientific community to offer contributions, comments, and general thoughts to the process.
+
+**Scalability to other scientific disciplines**
+
+Given the Gallantries modular approach and infrastructure, the training can also be transferred to other scientific disciplines. The modules will cover highly transferable skills and competencies required within Life Sciences and Bioinformatics such as data management, but illustrated through application to specific domains.
+
+# Values
 
 We have high ethical standards, including:
 
@@ -64,24 +96,11 @@ We have high ethical standards, including:
 - **Respect**: Respect humans and all living systems
 - **Responsibility**: Recognize the complexity and dynamics of life science and research and our responsibility towards them
 
-# What do we need?
+# Get Involved
 
-**You!** In whatever way you can help.
-
-We need expertise in training, community building, education, communication, HTS data analysis. We'd love your feedback along the way, of course.
-
-## Get involved
-
-If you think you can help in any of the areas listed above (and we bet you can)
-or in any of the many areas that we haven't yet thought of (and here we're sure
-you can) then please check out [our contributors'
-guidelines]({{ site.github.repository_url }}/blob/master/CONTRIBUTING.md) and
-our [roadmap]({{ site.github.repository_url }}/blob/master/roadmap.md).
+You are very welcomed and invited to join the community: Come and chat with us on [Gitter](https://gitter.im/{{ site.gitter }})
 
 Please note that it's very important to us that we maintain a positive and
 supportive environment for everyone who wants to participate. When you join us
 we ask that you follow our [code of conduct]({{ site.github.repository_url
 }}/blob/master/CODE_OF_CONDUCT.md) in all interactions both on and offline.
-
-You are very welcomed and invited to join the community: Come and chat with us on [Gitter](https://gitter.im/{{ site.gitter }})
-

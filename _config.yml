@@ -1,25 +1,15 @@
 # Site
 title: "Gallantries"
 description: >
-  When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences
+  When Galaxy meets Carpentries to develop Scalable, Remote Bioinformatics Curricula
 logo: 'assets/images/gallantries-logo-with-word-inverted-large.svg'
 paginate: 12
-email: 'shiltemann@gmail.com'
 repository: galaxy-carpentries/gallantries
 gitter: galaxy-carpentries/community
 
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-archives
-
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
 
 collections:
   posts:

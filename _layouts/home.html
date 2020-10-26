@@ -1,0 +1,31 @@
+---
+layout: base
+title: Home
+---
+
+<section class="intro">
+	<div class="wrapintro">
+		<h1>{{ site.title }}</h1>
+		<h2 class="lead">{{ site.description }}</h2>
+	</div>
+</section>
+
+<div class="container">
+	<div class="main-content">
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page > 0 %}
+				<div id="jumptopageof"></div>
+			{% endif %}
+		{% endif %}
+
+		<section class="recent-posts article-post row">
+			<div class="col-sm-4">
+				{% include _includes/sidebar.html %}
+			</div>
+
+			<div class="col-sm-8">
+				{{ content }}
+			</div>
+		</section>
+	</div>
+</div>
