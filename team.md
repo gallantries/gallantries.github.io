@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Team
+title: Project Partners
 ---
 
 # Project Partners
@@ -45,4 +45,4 @@ The national university of Estonia, with groups of MSc and PhD students that are
 They have significant interest in environmental monitoring with later-career researchers.
 
 **VIB-UGhent (Ghent, BE)**
-VIB has a center for plant systems biology with PhD and later-career researchers all working to advance plant bioinformatics. They will be one of the remote sites and provide feedback on IO3 especially.
+VIB has a center for plant systems biology with PhD and later-career researchers all working to advance plant bioinformatics.

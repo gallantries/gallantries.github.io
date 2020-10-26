@@ -4,7 +4,7 @@ layout: default
 
 {% assign author = site.data['people'][page.author] %}
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-12">
         <div class="mainheading">
             <div class="after-post-tags">
                 <ul class="tags">
@@ -19,7 +19,7 @@ layout: default
         </div>
 
         {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-		
+
         <div class="article-post">
             {{content}}
             <div class="clearfix"></div>
@@ -46,7 +46,7 @@ layout: default
             </div>
             {% endif %}
         </div>
-            
+
         {% if page.author %}
         <div class="row post-top-meta">
             <div class="col-md-2">
@@ -59,10 +59,6 @@ layout: default
         </div>
         {% endif %}
 
-    </div>
-    
-    <div class="col-sm-4">
-        {% include sidebar.html %}
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 Template Name:Affiliates
 Copyright:WowThemes.net,https://www.wowthemes.net
 Version:1.0.0
-License: Attribution-NonCommercial 4.0 International 
+License: Attribution-NonCommercial 4.0 International
          Free for personal use. For commercial use, please read: https://www.wowthemes.net/freebies-license/
 */
 body {
@@ -90,7 +90,7 @@ section.recent-posts {
 }
 .layout-page .section-title h2:before {top:17px;}
 .article-post ol, .article-post ul { margin-bottom:1.5rem;}
-.article-post ol ol, .article-post ul ul {   
+.article-post ol ol, .article-post ul ul {
     list-style: disc;
     margin-bottom:0rem;
 }
@@ -116,7 +116,7 @@ section.recent-posts {
     color: #333;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 0.94em;        
+    font-size: 0.94em;
 	}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
     background: #6FD350;
@@ -125,7 +125,7 @@ section.recent-posts {
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
         padding-left: 1em;
     padding-right: 1em;
-    
+
 }
 .navbar-toggler {
     z-index:9999;
@@ -146,7 +146,7 @@ section.recent-posts {
         box-shadow:none;
         border:0;
     }
-@media (min-width:992px) {    
+@media (min-width:992px) {
     .mediumnavigation .dropdown-menu {
         border:0;
         box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
@@ -191,7 +191,7 @@ section.recent-posts {
 	line-height: 1.25;
 }
 .listfeaturedtag h2.card-title a,.listrecent h2.card-title a {
-	color: #111;    
+	color: #111;
     font-weight:500;
 }
 .listfeaturedtag h2.card-title a:hover,.listrecent h2.card-title a:hover {
@@ -533,7 +533,7 @@ ul.tags li a {
     border-radius: 3px;
     font-weight: 500;
     font-size: 0.93em;
-    text-transform: capitalize;    
+    text-transform: capitalize;
     box-shadow: 0 6px 10px 0 rgba(169, 169, 169, 0.1);
 }
 ul.tags li a:hover {
@@ -697,69 +697,6 @@ a.btn {color:#fff;}
     margin-top: 3rem;
     margin-bottom: 1.5rem;
 }
-.sidebar {max-width:340px;font-size: 15px;}
-.sidebar h5 {    margin-bottom: 1rem;   text-align:center; position:relative;font-weight: 700; }
-.sidebar h5 span {
-background-color: #fff;
-    position: relative;
-    z-index: 2;
-    display: inline-block;
-    padding: 0px 15px 0 15px;
-    text-align: center;
-    font-size: 14px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-.sidebar h5:before {
-    margin-bottom: 0;
-    position: absolute;
-    z-index: 1;
-    left: 0px;
-    top: 12px;
-    width: 100%;
-    height: 1px;
-    content: '';
-    background-color: #333333;
-}
-.sidebar ul {list-style:none;padding-left:0;}
-.sidebar ul li a {
-    color: #999;
-    border-bottom: 1px solid #f6f6f6;
-    display: block;
-    padding-bottom: 10px;
-    padding-top: 10px;
-}
-.sidebar-section {     margin-bottom: 2rem;
-    box-shadow: 0 0px 1px 0 rgba(0,0,0,0.1);
-    box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.14);
-    padding: 30px;}
-.sidebar #mc_embed_signup form {
-    padding: 0 !Important;
-}
-.sidebar #mc_embed_signup .button {
-    width: 100% !Important;
-    background: #675bff !Important;
-    height: auto;
-    padding: 6px 20px;
-    font-weight: 600;
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
-}
-.sidebar #mc_embed_signup h2 {
-    font-weight: 400;
-    font-size: 15px;
-    color: #999;
-    margin-bottom: 1rem;
-    line-height: 1.5;
-    text-align: center;
-}
-.sidebar #mc_embed_signup input {width:100%;}
-.sidebar #mc_embed_signup .mc-field-group {width:100% !Important;}
-#mc_embed_signup .mc-field-group input {text-indent: 5% !Important;}
-#mc_embed_signup {font-family:inherit !Important;}
-.sidebar-right .sidebar {max-width:inherit;}
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
-}
 .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
     font-weight: 500;
     margin-bottom: 1.5rem;
@@ -852,7 +789,7 @@ iframe {
     .sidebar {max-width:100%;}
     .copyright .pull-left, .copyright .pull-right {float:none;}
     .beforefooter {text-align:center;}
-    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }    
+    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
-    
+
 }
