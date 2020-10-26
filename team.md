@@ -24,3 +24,25 @@ INRAE is the French National Research Institute for Agriculture, Food and Enviro
 ## [Muséum national d’histoire naturelle](https://www.mnhn.fr/en)
 
 MNHN is one of the world’s major natural history institutions and contributes to the knowledge and conservation of biodiversity through research, higher education (Master and PhD studies), and conservation of reference collections, as well as providing expertise to the French and European government for environmental policies. Involvement of PNDB in several national training programmes and research projects, and internationally involved in several H2020 projects (EOSC-Pillar) and calls for proposal (BRIDGES and OpenMinds proposals) and initiatives like GO FAIR (coordinating BiodiFAIRse Implementation Network) provide ideal additional dissemination platforms for the outputs from this project.
+
+# Associate Partners
+
+The following Associate Partners are part of the Gallantries team which will actively be a part of module development and provide ongoing feedback on the modules during the entire project. Would **you** like to join as an associate partner? Then get in touch with us!
+
+**Avans Hogeschool (Breda, NL)**
+Avans University of Applied Sciences is one of the top universities of applied sciences within the Netherlands, and has a strong genomics and bioinformatics with bachelor and master programmes. They will be investigate the possibility of integrating these modules and submodules as part of their formal education program.
+
+**Vinča Nuclear Institute (Belgrade, RS)**
+A nuclear research institute that has expanded to include chemistry, physics, biology, and bioinformatics research. Associated with the University of Belgrade they will evaluate our curricula for suitability in their teaching programmes.
+
+**University of Debrecen (Debrecen, HU)**
+The oldest continually operating university in Hungary with a well-established medical program, and computing research infrastructure with a Top500 supercomputer. They will investigate and report on the possibility of integrating these modules and submodules as part of formal education within their medical program.
+
+**University of Tartu (Tartu, EE)**
+The national university of Estonia, with groups of MSc and PhD students that are interested in bioinformatics.
+
+**eDNA Center of Aarhus University (Silkeborg, DK)**
+They have significant interest in environmental monitoring with later-career researchers.
+
+**VIB-UGhent (Ghent, BE)**
+VIB has a center for plant systems biology with PhD and later-career researchers all working to advance plant bioinformatics. They will be one of the remote sites and provide feedback on IO3 especially.
