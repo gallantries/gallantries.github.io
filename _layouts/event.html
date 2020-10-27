@@ -2,43 +2,30 @@
 layout: default
 ---
 
-<div class="row article-post">
-    <div class="col-sm-12">
-        <p>
-            <small>
-                <span class="post-date">
-                    <i class="fas fa-calendar-alt"></i>
-                    <time class="post-date" datetime="{{ page.starts | date:"%Y-%m-%d" }}">{{ page.starts | date_to_string }}</time>
-                    -
-                    <time class="post-date" datetime="{{ page.ends | date:"%Y-%m-%d" }}">{{ page.ends | date_to_string }}</time>
-                </span>
-                <br/>
-                <span class="post-date"><i class="fas fa-map-marker"></i>
-                    {% assign sep = '' %}
-                    {% for loc in page.locations %}
-                        {{ sep }}{{ loc.city }}, {{ loc.country }}
-                        {% assign sep = ' - ' %}
-                    {% endfor %}
-                </span>
-            </small>
-        </p>
+<section>
+	<div class="article-post">
+		<h1>{{ page.title }}</h1>
 
-        <div>
-            {{content}}
-            <div class="clearfix"></div>
-        </div>
+		<div class="meta">
+			<div class="post-date">
+				<i class="fas fa-calendar-alt"></i>
+				<time class="post-date" datetime="{{ page.starts | date:"%Y-%m-%d" }}">{{ page.starts | date_to_string }}</time>
+				-
+				<time class="post-date" datetime="{{ page.ends | date:"%Y-%m-%d" }}">{{ page.ends | date_to_string }}</time>
+			</div>
+			<div class="post-date"><i class="fas fa-map-marker"></i>
+				{% assign sep = '' %}
+				{% for loc in page.locations %}
+					{{ sep }}{{ loc.city }}, {{ loc.country }}
+					{% assign sep = ' - ' %}
+				{% endfor %}
+			</div>
+		</div>
 
-        <div class="row PageNavigation mt-4 prevnextlinks">
-            {% if page.previous.url %}
-            <div class="col-md-6 rightborder pl-0">
-                <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
-            </div>
-            {% endif %}
-            {% if page.next.url %}
-            <div class="col-md-6 text-right pr-0">
-                <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
-            </div>
-            {% endif %}
-        </div>
-    </div>
-</div>
+		<div>
+			{{content}}
+		</div>
+
+		{% include _includes/navigation.html %}
+	</div>
+</section>

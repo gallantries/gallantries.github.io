@@ -3,6 +3,8 @@ layout: page
 title: Project Partners
 ---
 
+<iframe class="embed-responsive-item" src="https://www.google.com/maps/d/embed?mid=1sbQiMDfG4TX2-BPaFXX1UvG_LqDH7SUO" style="width: 500px; height: 400px; float: right"></iframe>
+
 # Project Partners
 
 ## [Erasmus Medical Center, Rotterdam, the Netherlands](https://erasmusmc.nl)

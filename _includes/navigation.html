@@ -1,0 +1,12 @@
+<div class="row postnav">
+	<div class="col-md-6">
+		{% if page.previous.url %}
+		<a href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
+		{% endif %}
+	</div>
+	<div class="col-md-6 text-right">
+		{% if page.next.url %}
+		<a href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+		{% endif %}
+	</div>
+</div>

@@ -5,6 +5,13 @@ layout: default
 <section>
 	<div class="article-post">
 		<h1>{{ page.title }}</h1>
+
+		<div class="meta">
+			<p class="text-muted">{{ page.date | date: "%b %-d, %Y" }}</p>
+		</div>
+
 		{{content}}
+
+		{% include _includes/navigation.html %}
 	</div>
 </section>
