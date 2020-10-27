@@ -1,7 +1,11 @@
 ---
 ---
 body {
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: "Raleway", "Helvetica Neue", sans-serif;
+}
+
+.bg-gxy {
+	background: #2b3143;
 }
 
 .row-map {
@@ -64,7 +68,6 @@ nav[data-toggle='toc'] {
 	color: #ccc;
 	margin-top: 50px;
     margin-bottom:0px;
-    background-color: #2b3143;
     padding: 30px;
 
 	a {
@@ -91,11 +94,11 @@ nav[data-toggle='toc'] {
 }
 
 .navbar {
-	box-shadow: 0 10px 40px 0px #eee;
+	box-shadow: 0 0 20px 0px #2b3143;
 	.navbar-nav {
 		.nav-link {
 			text-transform: uppercase;
-			color: #333;
+			color: white;
 			margin-left: 1rem;
 		}
 	}
@@ -128,6 +131,7 @@ img {
 
 h1, h2, h3, h4 {
 	padding-top: 0.6rem;
+	font-weight: 700;
 }
 
 .site-content {
