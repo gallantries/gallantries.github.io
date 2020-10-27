@@ -1,7 +1,7 @@
 # Welcome to Gallantries
 
 Find all the information about our community and projects at
-[https://gallantries.github.io/gallantries/](https://gallantries.github.io/gallantries/).
+[https://gallantries.github.io/gallantries/](https://gallantries.github.io/).
 
 [![Gitter](https://badges.gitter.im/galaxy-carpentries/community.svg)](https://gitter.im/galaxy-carpentries/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
