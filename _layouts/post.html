@@ -8,6 +8,7 @@ layout: default
 
 		<div class="meta">
 			<p class="text-muted">{{ page.date | date: "%b %-d, %Y" }}</p>
+			<div>{% for tag in page.tags %}<span class="badge badge-secondary">{{ tag }}</span>&nbsp;&nbsp;{% endfor %}</div>
 		</div>
 
 		{{content}}
