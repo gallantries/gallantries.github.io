@@ -16,3 +16,7 @@ out more.
 ## What are we doing?
 
 We are working with life sciences training communities to develop a modular bioinformatics curriculum with a focus on higher education integration
+
+## License
+
+CC-BY-SA 4.0
