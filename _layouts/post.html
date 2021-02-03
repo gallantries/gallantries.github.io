@@ -14,7 +14,13 @@ layout: default
 		<h1>{{ page.title }}</h1>
 
 		<div class="meta">
-			<p class="text-muted">{{ page.date | date: "%b %-d, %Y" }}</p>
+			{% if page.author %}
+			<div class="text-muted"><em>by</em>&nbsp;
+				<a href="https://training.galaxyproject.org/hall-of-fame/{{ page.author }}/">
+				<img src="https://avatars.githubusercontent.com/{{ page.author }}" alt="{{ site.data.people[page.author].name }}" style="height: 4em;">{{ site.data.people[page.author].name }}</a>
+			</div>
+			{% endif %}
+			<p class="text-muted">Published: {{ page.date | date: "%b %-d, %Y" }}</p>
 			<div>{% for tag in page.tags %}<span class="badge badge-secondary">{{ tag }}</span>&nbsp;&nbsp;{% endfor %}</div>
 		</div>
 
