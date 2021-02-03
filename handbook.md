@@ -1,6 +1,7 @@
 ---
 layout: page-toc
 title: Handbook to organize a Gallantries event
+toc: true
 ---
 
 We're thrilled you've choosen to run a Gallantries event!
