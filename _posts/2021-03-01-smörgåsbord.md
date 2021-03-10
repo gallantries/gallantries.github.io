@@ -10,39 +10,27 @@ The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global 
 
 # About the Event
 
-We had an unbelievable 1189 registrations
+We had an unbelievable 1189 registrations from 76 different countries around the world.
 
+We had been in the processing of planning a small, 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further and when we finally got around to planning it, we knew it would be online. A few of our collaborators got in touch saying they were interested in co-hosting this event and their communities were desperate for proteomics and mass spectometry training. So we said:
 
-# The Past
+> Sure! We'll open this up to everyone. What could go wrong
 
-<abbr title="Galaxy Admin Training">GAT</abbr> has been a yearly event offered by the Galaxyproject. The main goal of GAT is for beginning Galaxy admins to gain the skills they need to run reliable production infrastructure. Every iteration of the event has involved major overhauls every time it has been taught. In the past 2 years we have finally settled on a standardised and reusable curriculum with only minor changes necessary each year.
+With instructors and organisers from the CINECA and the Gallantries we developed a workable plan for an online, world-wide event. For this event we decided to go **fully asynchronous**. We would place *everything online* and students could follow along at their own pace, taking breaks whenever they liked. We identified this as a maximally productive solution: we can reach the widest audience with the very limited number of qualified instructors. We tested this at small scale and by the time it was our turn, the event had become huge. We knew that the methodology would work, we knew that the materials could be taught online and via self-study, thanks in part to the Gallantries work to ensure broadcast-friendliness.
 
-When the COVID-19 pandemic struck at the beginning of 2020, we had literally just finished giving the last GAT. Most of the instructors flew home from Barcelona and began quarantining. When <abbr title="BOSC & Galaxy Community Conference 2020">BCC2020</abbr> was moved online we knew we had to improve the situation for remote admin trainings. We developed new scalable, flexible instrumentation to monitor student progress and interact with them. We found that it worked acceptably, but BCC2020 called for synchronous interaction which proved extremely stressful for the instructors and students if they were in Africa, the Middle East, or Europe, and outside of the target timezones.
-
-When GAT2021 would be held online we decided it was time to completely rethink how we give training. With some of the instructors from the Gallantries we identified a workable plan for an world-wide GAT.
-
-# The Present
-
-## Methodology
-
-With a GAT pilot during the BCC2020 event, we taught a few of the lessons online and had some relevant experience:
-
-- Materials must be online
-- We need to be able to see student progress
-- Synchronicity does not scale
-
-For this event we decided to go **fully asynchronous**. We would place *everything online* and students could follow along at their own pace, taking breaks whenever they liked. We identified this as a maximally productive solution: we can reach the widest audience with the very limited number of qualified instructors.
+So as a community we recorded **25 hours of video**, corrected the captions for it, and posted it online, free to the world.
 
 ## Logistics & Communications
 
-The workshop was well publicised across Twitter, the Galaxyproject websites, within ELIXIR and EOSC-Life, recruiting a large number of participants.
+The workshop was well publicised across Twitter, CINECA, ELIXIR< the Galaxyproject websites, recruiting a large number of participants.
 
 <figure>
-  <img src="/assets/images/gat-country.png"
+  <img src="/assets/images/smorg-country.png"
   alt="heatmap with world map showing registrations">
   <figcaption>We had registrations from across the world.</figcaption>
 </figure>
 
+<!--
 Our students were quite varied:
 
 <figure>
@@ -50,28 +38,25 @@ Our students were quite varied:
   alt="pie chart, it's ugly and hard to read.">
   <figcaption>Most of our students were Researchers/Staff (48.1%), followed by Post-docs (19.2%)</figcaption>
 </figure>
+-->
 
 All participants received a [pre-event email with basic instructions.](https://github.com/galaxyproject/admin-training/blob/2021-online/communications/pre-training-email.md) The were directed to join the Slack we setup as the communication platform during the event.
 
 <figure>
-  <img src="/assets/images/gat-slack.png"
-  alt="screenshot of slack channels. There's one per topic (e.g. 01-ansible, 02-galaxy), an some other assorted channels: instructors (private), coordinators (private), ask-an-organiser, random, and general.">
-  <figcaption>We setup Slack channels for each topic, as well as some private channels for instructors.</figcaption>
+  <img src="/assets/images/smorg-slack.png"
+  alt="screenshot of slack channels. There's one per topic (e.g. 1-1_galaxy_intro), an some other assorted channels: instructors (private), coordinators (private), and a number of social channels.">
+  <figcaption>We setup Slack channels for each topic, some private channels for instructors, and a number of social channels for participants to engage in social activities.</figcaption>
 </figure>
 
-We additionally had a <abbr title="Frequently Asked Questions">FAQ</abbr> document which we had used heavily in the past. The students would collect questions in the FAQ and we would answer them. After the event we would take every question asked in the FAQ and integrate it into the training material in some way.
-
-However we found that to be ineffective in this specific context, as these materials have gone through numerous rounds of improvements. The students had few questions because everything was so functional, and when they did have questions, it was specific to their mistake, not something general covered by a FAQ.
-
-We will try it again during the Smörgåsbord event where we expect it to be more effective.
+We additionally had <abbr title="Frequently Asked Questions">FAQ</abbr> documents per channel, something we've used heavily in the past. The students would collect questions in the FAQ and we would answer them. After the event we would take every question asked in the FAQ and integrate it into the training material in some way.
 
 ### Videos
 
-The main, massive change with this event was the asynchronous nature. We created videos for as many topics as we could in advance (thank you EOSC-Life for funding this!) and then placed all of these on YouTube for our students. We identified subtitles early on as a key need for this event given the world-wide nature and number of non-native English speakers that would attend. Many of our instructors also have strong accents and we wanted the videos to be maximally accessible to our students. This is something we cannot achieve in real life that we can do *better* in an asynchronous event.
+The main, massive change with this event was the asynchronous nature. We created videos for as many topics as we could in advance and then placed all of these on YouTube for our students. Subtitles were a hard requirement for the videos, given the world-wide nature and number of non-native English speakers that would attend this event. Many of our instructors also have strong accents and we wanted the videos to be maximally accessible to our students. This is something we cannot achieve in real life that we can do *better* in an asynchronous event.
 
 #### Video Production
 
-Our instructors largely used Zoom for recording themselves doing the trainings which was quite effective. Zoom produces very small output files (~100 Mb for an hour of video) which significantly simplified sharing these and collecting them for upload. Once uploaded to YouTube, automatic captions were generated over the course of 8-24 hours.
+Our instructors largely used Zoom for recording themselves doing the trainings which was quite effective. Zoom produces very small output files (~100 Mb for an hour of video) which significantly simplified sharing these and collecting them for upload. Once uploaded to YouTube, automatic captions were generated over the course of 8-24 hours. For 3 of the videos, the language was mis-detected as an incorrect language, and thus produced nonsense transcriptions. E.g. one Spanish native speaker, speaking English, was detected as German and the subtitles were the closest German words to what he spoke in English. Likewise, a Dutch speaker, speaking English, was detected as Dutch. Some of these were manually transcribed at great time cost before we discovered that AWS provides a transcription service wherein we could manually set the spoken language. This produced subtitles of a similar quality to YouTube's, different mistakes but same overall level of corrections required.
 
 These captions were copied to a public Google Document where we invited members of the community to volunteer to caption videos in exchange for recognition on the video.
 
@@ -83,90 +68,35 @@ These captions were copied to a public Google Document where we invited members 
 
 YouTube has a nice feature where the entire contents of the video's captions can be edited, and they will take care of syncing the audio to the correct location for you. Thus we could edit the captions separate from their timings and this was very easy for volunteers to listen to a video and correct spellings and sentence ends.
 
-Subtitles | Plays      | Watch time (hours)
---------- | -----      | ------------------
-Total     | 1579       | 248.3096
-off       | 987  (62%) | 148.573 (59%)
-en        | 591  (37%) | 100.6836  (40%)
+Subtitles | Plays         | Watch time (hours)
+--------- | -----         | ------------------
+Total     | 7182          | 1549.7
+off       | 4,178 (58.2%) | 837.2 (54.0%)
+en        | 2,999 (41.8%) | 710.5 (45.9%)
 {: .table.table-striped}
 
-By watch time **40% of our users watched with subtitles**. In the preparation to this event we saw pushback on captioning, casting it as a waste of time. These numbers definitely show the important of captioning for our content.
-
-
-#### YouTube
-
-We had alternative video hosting platforms but considered that some students would have unreliable internet and YouTube has a significant <abbr title="point of presence">POP</abbr> facilities across the world that we could leverage for free. An added bonus was that YouTube provided a large number of statistics for us.
-
-<figure>
-  <img src="/assets/images/gat-video-day1.png"
-  alt="screenshot of youtube statistics showing a large peak not just on the first day but continuing on to subsequent days.">
-  <figcaption>Here we see the view counts for the videos intended to be watched on the first day of the event. It is clear that a number of students either continued the content for Monday on their Tuesday, or started late. Normally something odd, it is something wonderful that is only possible in asynchronous training, trainees can start whenever suits them.</figcaption>
-</figure>
+By watch time **45% of our users watched with subtitles**.
 
 ### Schedule
 
-We presented the students with a reduced schedule which we thought could be accomplished within the allotted time. We planned that the students should spend around 5 hours a day working on the material, intending this to be very flexible for them and fit with their schedules and lives. Here is a portion of the schedule:
-
-> **Start** today by introducing yourself in the [#general](#) channel in Slack! Tell us where you're from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)
->
-> | **Topic**                        | **Video**                                       | **Slides / Materials**            | **Slack Channel**            |
-> | ---------------------------      | ----------------------------------------------- | --------------------------------- | ---------------------------- |
-> | Welcome and introduction         | [Video](https://youtu.be/R-__JqlLCdM)           |                                   | [#general](#)                |
-> | Intro to Ansible                 | [Video](https://youtu.be/KFpbfmN0OTE)           | [Slides](#)                       | [#01-ansible](#)             |
-> | Ansible                          | [Video](https://youtu.be/2KdT0sYKUeE)           | [Tutorial](#)                     | [#01-ansible](#)             |
-> | Galaxy Ansible Introduction      | [Video](https://youtu.be/JN-C5UbHthY)           | [Slides](#)                       | [#02-ansible-galaxy](#)      |
-> | Galaxy Installation with Ansible | [Video](https://youtu.be/il83uApg7Hc)[1]        | [Tutorial](#)                     | [#02-ansible-galaxy](#)      |
-> | *Touch Base Telco* (See Slack)   |                                                 |                                   |                              |
-> {: .table.table-striped}
-> [see the full schedule](https://github.com/galaxyproject/admin-training/tree/2021-online#monday)
-
-Something the instructors noted in previous online events was that our bosses did not treat us as "busy", as they would if we were physically in a location. A few of our students echoed this in their feedback. As a result we aimed for 5 hours of content, if you were reading the training material and working through it as you read.
+Each day presented with flexible schedule / ice breaker / tutorials / wrap-up/socialisation
 
 ### Slack
 
 The ice breakers turned out to be quite effective for getting students to interact and say hi. It let them share something and others comment on it, fostering discussion in what is otherwise a very isolating experience.
 
-We intended to regularly poll students with a Slack message, but this turned out to not be necessary. The students were very active every day, and many voluntarily checked in with issues or just comments on the materials. This is probably going to be a more useful thing to do in the future Smörgåsbord event.
-
-Lastly, we had chosen Slack as the platform due to the built-in ability for 1:1 video calls but these were unused as we could login to the student machines ourselves, and our students were technically savvy enough to share screenshots.
+Lastly, we had chosen Slack as the platform due to the built-in ability for 1:1 video calls but these were mostly unused, participant questions could be solved without them.
 
 ### Helpers
 
-The logistics of organising helpers across such a wide arrange of timezones was not a simple task! We started by breaking the world into three regions, <abbr title="asia / pacific">APAC</abbr> (or <abbr title="Asia / Pacific / Oceania">APO</abbr> in our documents), <abbr title="Europe, Middle East, Africa">EMEA</abbr>, and the Americas. We recruited helpers from each of these regions, and had them report their availability during the week. But with this information we still didn't have a good idea about potential gaps in coverage, so [Helena Rasche](https://github.com/hexylena) of the Gallantries developed a novel, open source visualisation, marrying a [timezone map of the world with a heat map](https://github.com/hexylena/timezone-heatmap)
-
-<figure>
-  <img src="/assets/images/gat-tzhm.png"
-  alt="A completely inaccessible table, I'm sorry. It's a giant table, on the left is a list of timezones, instructors, participants (with those numbers coloured according to the % of max). Each row in this table is a set of hours listed going across with local nighttimes in light grey, and work hours coloured according to the ratio of instructors to students at that point in time. It lets you see which times have few instructors, and which people will be awake when. The mouse hovers over one cell which lists which instructors are registered then.">
-  <figcaption>We developed a time zone heat map to figure out which time periods would have significant numbers of students and not enough instructors to see if we could recruit more instructors for a specific timezone. The interactive version <a href="https://hexylena.github.io/timezone-heatmap/?data=gat.json&live=false">is available here.</a></figcaption>
-</figure>
-
-This was published and is free for anyone to use to visualise their own global events.
+The logistics of organising helpers across such a wide arrange of timezones was not a simple task! We started by breaking the world into three regions, <abbr title="asia / pacific">APAC</abbr> (or <abbr title="Asia / Pacific / Oceania">APO</abbr> in our documents), <abbr title="Europe, Middle East, Africa">EMEA</abbr>, and the Americas. We recruited helpers from each of these regions, and had them report their availability during the week.
 
 ## Participants
 
-We monitored the progress of participants over the course of the week using a script which checked which tasks the students had completed on the VM allocated to them.
+We asked students to register in TIaaS, the Training Infastructure as a Service system that is available on UseGalaxy.eu and UseGalaxy.org.au which allowed us to track a subset of them during the week.
 
-<figure>
-  <img src="/assets/images/gat-monitor.png"
-  alt="Image of a terminal with several hostnames at left and M for monday with various checkmarks or crosses next to them. The chart continues with Tuesday, Wednesday, Thursday but no one has progressed this far.">
-  <figcaption>We had a terminal script which instructors could run to monitor student progress completing individual tasks. It let us have a feeling of if everyone was following along or stopping at one specific part that might indicate issues that we should discuss. This sort of visibility into remote learners is incredibly important for running online events without instructors feeling completely detached.</figcaption>
-</figure>
+TODO: graphs
 
-This gave us the ability to track progress without directly bothering or asking students, and gave us valuable data on their accomplishments.
-
-<figure>
-  <img src="/assets/images/gat-attendance.png"
-  alt="bar chart titled 'Number Completing tasks by Day of Course (as of ~22 CET)'. The graph shows an increase from 58% to 67% from day 1 to day 5.">
-  <figcaption>These numbers roughly match expectations, students joined the course when they could and by having the freedom to start when they liked we could enable people to attend when they otherwise might not have been able to.</figcaption>
-</figure>
-
-Judging by the following graph, we may have overestimated the amount of content students could accomplish with the competing demands of their jobs (versus how bosses respond to someone being physically on a workshop trip.)
-
-<figure>
-  <img src="/assets/images/gat-progress.png"
-  alt="bar chart titled 'Number Completing Tasks vs. Scheduled Material Day'. This shows a strong decrease from 67% for the day 1 material to 8% for day 5.">
-  <figcaption>Here we see a stronger trend, that students began the material but progress further into the course dropped off significantly. The low progress of day 5 is expected, it was a <abbr title="Choose Your Own Adventure">CYOA</abbr> day and our monitoring did not check for the huge array of tutorials that could be followed then.</figcaption>
-</figure>
 
 ## Feedback
 
