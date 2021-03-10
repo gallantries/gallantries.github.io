@@ -10,7 +10,7 @@ The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global 
 
 # About the Event
 
-We had an unbelievable 1189 registrations from 76 different countries around the world.
+We had an unbelievable 1189 registrations from 76 different countries around the world. 583 of these joined Slack which we used to communicate during the event, surpassing our expectations.
 
 We had been in the processing of planning a small, 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further and when we finally got around to planning it, we knew it would be online. A few of our collaborators got in touch saying they were interested in co-hosting this event and their communities were desperate for proteomics and mass spectometry training. So we said:
 
@@ -80,6 +80,12 @@ By watch time **45% of our users watched with subtitles**.
 ### Schedule
 
 Each day presented with flexible schedule / ice breaker / tutorials / wrap-up/socialisation
+
+<figure>
+  <img src="/assets/images/smorg-schedule.png"
+  alt="Screenshot of the schedule with numerous sections. TODO">
+  <figcaption>TODO</figcaption>
+</figure>
 
 ### Slack
 
