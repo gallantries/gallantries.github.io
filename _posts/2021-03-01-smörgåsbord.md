@@ -6,17 +6,19 @@ tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
 ---
 
-The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/). We discussed our plans a bit in our previous post about the [Admin Training]({% link _posts/2021-02-01-gat.md %}) which we were using as a testing ground for our methodology. We scaled that up in Smörgåsbord and it was absolutely incedible!
+The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/). We discussed our plans a bit in our previous post about the [Admin Training]({% link _posts/2021-02-01-gat.md %}) which we were using as a testing ground for our methodology. We scaled that up in Smörgåsbord and it was absolutely incredible!
 
-# 1189 Registrants, 76 Countries
+## Exponential Growth
 
 We had an unbelievable 1189 registrations from 76 different countries around the world. 583 of these joined Slack which we used to communicate during the event, surpassing our expectations.
+
+![Growth in cumulative registrations over time](/assets/images/smorg-reg.png)
 
 We had been in the processing of planning a small, 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further and when we finally got around to planning it, we knew it would be online. A few of our collaborators got in touch saying they were interested in co-hosting this event and their communities were desperate for proteomics and mass spectometry training. So we said: "Sure! We'll open this up to everyone. *What could go wrong?*"
 
 With instructors and organisers from the CINECA and the Gallantries we developed a workable plan for an online, world-wide event. For this event we decided to go **fully asynchronous**. We would place *everything online* and students could follow along at their own pace, taking breaks whenever they liked. We identified this as a maximally productive solution: we can reach the widest audience with the very limited number of qualified instructors. We tested this at small scale and by the time it was our turn, the event had become huge. We knew that the methodology would work, we knew that the materials could be taught online and via self-study, thanks in part to the Gallantries work to ensure broadcast-friendliness.
 
-So our community got together and organised the "GTN Smörgåsbord: A Global Galaxy Event"
+So our community got together and organised the Smörgåsbord.
 
 ## Participants
 
@@ -36,7 +38,7 @@ Following a gender balance that largely reflects that of the human population wh
 </figure>
 
 <!--
-We additionally created <abbr title="Frequently Asked Questions">FAQ</abbr> documents per channel, something we've used heavily in the past. Before the event, instructors pre-poulated the FAQ with common questions they expected. During the event, students would ask questions in Slack; if the instructors found them to be common issues they would document them in the FAQ for other students. This improved the cross-timezone impact of our event and decreased instructor burden. By documenting questions for students in other timezones, they could still benefit from an easy source of answers even in the absence of the instructor or their temporary unavailability.
+We additionally created <abbr title="Frequently Asked Questions">FAQ</abbr> documents per channel, something we've used heavily in the past. Before the event, instructors pre-populated the FAQ with common questions they expected. During the event, students would ask questions in Slack; if the instructors found them to be common issues they would document them in the FAQ for other students. This improved the cross-timezone impact of our event and decreased instructor burden. By documenting questions for students in other timezones, they could still benefit from an easy source of answers even in the absence of the instructor or their temporary unavailability.
 
 We are currently working to improve the GTN framework for frequently asked questions in order to re-integrate all of these superb tutorial FAQ documents back into the training material where they'll be visible and accessible to students of other events.
 -->
@@ -61,7 +63,7 @@ For our **25 hours of video**, by watch time, **45% of our users watched with su
 
 ## Slack
 
-Activity on Slack during the event was quite high. As seen in the following graph, students largely worked on the tutorials assigned for that day. RNA-Seq sees questions asked on day 2, Day 3's scRNA only sees questions on day 3, etc. We did not expect everyone would keep to the schedule so closely. The only exception is the Day 1 content where many students started late and were cathing up on the tutorials.
+Activity on Slack during the event was quite high. As seen in the following graph, students largely worked on the tutorials assigned for that day. RNA-Seq sees questions asked on day 2, Day 3's scRNA only sees questions on day 3, etc. We did not expect everyone would keep to the schedule so closely. The only exception is the Day 1 content where many students started late and were catching up on the tutorials.
 
 ![Bar chart of slack messages sent, many are social every day, others split into day 1/2/3/4/5](/assets/images/messages-during.png)
 
@@ -71,7 +73,7 @@ We did daily icebreakers during the event:
 2. Share with us how your 5-year-old self would have finished this sentence: 'When I grow up, I want to be ...' (and what you are actually doing now that you're grown up)
 3. Share with us your favorite dish (food or drink) bonus points for recipes! ;)
 4. Please let us know what you favorite thing about the course is so far.
-5. Share one of your favorite books, tv shows, movies or games that you would recommend to others.
+5. Share one of your favorite books, TV shows, movies or games that you would recommend to others.
 
 These were absolutely fantastic for student engagement during the event. It let them share something and others comment on it, fostering discussion in what could otherwise a very isolating experience working along in your home or office.
 
@@ -84,19 +86,19 @@ These were absolutely fantastic for student engagement during the event. It let 
 
 And amazingly the event being officially over did not discourage participants! People were so excited for this event they continued to register after the event had begun, and continued chatting the next weeks, supported by our volunteers.
 
-![Identical to the previous slack message barchart, but it extends until March 8th.](/assets/images/messages-all.png)
+![Identical to the previous slack message bar chart, but it extends until March 8th.](/assets/images/messages-all.png)
 
 ## Helpers
 
 The logistics of organising helpers across such a wide arrange of timezones was not a simple task! We started by breaking the world into three regions, <abbr title="asia / pacific">APAC</abbr> (or <abbr title="Asia / Pacific / Oceania">APO</abbr> in our documents), <abbr title="Europe, Middle East, Africa">EMEA</abbr>, and the Americas. We recruited helpers from each of these regions.
 
-![Heatmap of the world with helpers spread across. Most helpers resided in the US, followed by Europe. India, South Africa, and Brazil are also represented](/assets/images/smorg-helpers.png)
+![Heat map of the world with helpers spread across. Most helpers resided in the US, followed by Europe. India, South Africa, and Brazil are also represented](/assets/images/smorg-helpers.png)
 
-## Participants
+<!--## Participants-->
 
-We asked students to register in TIaaS, the Training Infastructure as a Service system that is available on UseGalaxy.eu and UseGalaxy.org.au which allowed us to track a subset of them during the week.
+<!--We asked students to register in <abbr title="Training Infastructure as a Service">TIaaS</abbr>, the system that is available on UseGalaxy.eu and UseGalaxy.org.au which allowed us to track a subset of them during the week.-->
 
-TODO: graphs
+<!--TODO: graphs-->
 
 
 ## Feedback
