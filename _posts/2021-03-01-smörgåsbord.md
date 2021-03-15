@@ -6,51 +6,50 @@ tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
 ---
 
-The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/). We discussed our plans a bit in our previous post about the [Admin Training]({% link "2021-02-01-gat.md" }) which we were using as a testing ground for our methodology. We scaled that up in Smörgåsbord and it was absolutely incedible!
+The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/). We discussed our plans a bit in our previous post about the [Admin Training]({% link _posts/2021-02-01-gat.md %}) which we were using as a testing ground for our methodology. We scaled that up in Smörgåsbord and it was absolutely incedible!
 
-# About the Event
+# 1189 Registrants, 76 Countries
 
 We had an unbelievable 1189 registrations from 76 different countries around the world. 583 of these joined Slack which we used to communicate during the event, surpassing our expectations.
 
-We had been in the processing of planning a small, 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further and when we finally got around to planning it, we knew it would be online. A few of our collaborators got in touch saying they were interested in co-hosting this event and their communities were desperate for proteomics and mass spectometry training. So we said:
-
-> Sure! We'll open this up to everyone. *What could go wrong*
+We had been in the processing of planning a small, 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further and when we finally got around to planning it, we knew it would be online. A few of our collaborators got in touch saying they were interested in co-hosting this event and their communities were desperate for proteomics and mass spectometry training. So we said: "Sure! We'll open this up to everyone. *What could go wrong?*"
 
 With instructors and organisers from the CINECA and the Gallantries we developed a workable plan for an online, world-wide event. For this event we decided to go **fully asynchronous**. We would place *everything online* and students could follow along at their own pace, taking breaks whenever they liked. We identified this as a maximally productive solution: we can reach the widest audience with the very limited number of qualified instructors. We tested this at small scale and by the time it was our turn, the event had become huge. We knew that the methodology would work, we knew that the materials could be taught online and via self-study, thanks in part to the Gallantries work to ensure broadcast-friendliness.
 
-So as a community we recorded **25 hours of video**, corrected the captions for it, and posted it online, free to the world.
+So our community got together and organised the "GTN Smörgåsbord: A Global Galaxy Event"
 
 ## Participants
+
+We had students from across the world
 
 <figure>
   <img src="/assets/images/smorg-country.png"
   alt="heatmap with world map showing registrations">
-  <figcaption>We had registrations from across the world.</figcaption>
+</figure>
+
+Following a gender balance that largely reflects that of the human population which was excellent to see:
+
+<figure>
+  <img src="/assets/images/smorg-gender.png"
+  alt="Gender balance pie chart, 50% women; 47,7% men; 1,8% rather not say; 0,3% NB">
+  <figcaption>Of our students, 50% identified as women, 47.7% men, 1.8% rather not say, and 0.3% identify as non-binary</figcaption>
 </figure>
 
 <!--
-Our students were quite varied:
-
-<figure>
-  <img src="/assets/images/gat-career-stage.png"
-  alt="pie chart, it's ugly and hard to read.">
-  <figcaption>Most of our students were Researchers/Staff (48.1%), followed by Post-docs (19.2%)</figcaption>
-</figure>
--->
-
-<figure>
-  <img src="/assets/images/smorg-slack.png"
-  alt="screenshot of slack channels. There's one per topic (e.g. 1-1_galaxy_intro), an some other assorted channels: instructors (private), coordinators (private), and a number of social channels.">
-  <figcaption>We setup Slack channels for each topic, some private channels for instructors, and a number of social channels for participants to engage in activities.</figcaption>
-</figure>
-
 We additionally created <abbr title="Frequently Asked Questions">FAQ</abbr> documents per channel, something we've used heavily in the past. Before the event, instructors pre-poulated the FAQ with common questions they expected. During the event, students would ask questions in Slack; if the instructors found them to be common issues they would document them in the FAQ for other students. This improved the cross-timezone impact of our event and decreased instructor burden. By documenting questions for students in other timezones, they could still benefit from an easy source of answers even in the absence of the instructor or their temporary unavailability.
 
 We are currently working to improve the GTN framework for frequently asked questions in order to re-integrate all of these superb tutorial FAQ documents back into the training material where they'll be visible and accessible to students of other events.
+-->
 
 ## Videos
 
 The main, massive change with this event was the asynchronous nature. We created videos for as many topics as we could in advance and then placed all of these on YouTube for our students. Subtitles were a hard requirement for the videos, given the world-wide nature and number of non-native English speakers that would attend this event, both as instructors and students. Many of our instructors, for instance, have strong accents and we needed to ensure the videos were completely accessible to our students. This is something we *cannot* achieve in real life that we can do *better* in an asynchronous event.
+
+<figure>
+  <img src="/assets/images/smorg-youtube.png"
+  alt="Screenshot of the youtube playlists. Why do sighted users like these screenshots? They're not informative.">
+  <figcaption>As a community we recorded <b>25 hours of video</b>, corrected the captions for it, and posted it online, free to the world, forever.</figcaption>
+</figure>
 
 Subtitles | Plays         | Watch time (hours)
 --------- | -----         | ------------------
@@ -58,13 +57,13 @@ off       | 4,178 (58.2%) | 837.2 (54.0%)
 English   | 2,999 (41.8%) | 710.5 (45.9%)
 {: .table.table-striped}
 
-By watch time **45% of our users watched with subtitles**.
+For our **25 hours of video**, by watch time, **45% of our users watched with subtitles**.
 
 ## Slack
 
-Activity on Slack during the event was quite high:
+Activity on Slack during the event was quite high. As seen in the following graph, students largely worked on the tutorials assigned for that day. RNA-Seq sees questions asked on day 2, Day 3's scRNA only sees questions on day 3, etc. We did not expect everyone would keep to the schedule so closely. The only exception is the Day 1 content where many students started late and were cathing up on the tutorials.
 
-![Bar chart of slack messages sent, many are social every day, others split into day 1/2/3/4/5](/assets/images/smorg-slack-during.png)
+![Bar chart of slack messages sent, many are social every day, others split into day 1/2/3/4/5](/assets/images/messages-during.png)
 
 We did daily icebreakers during the event:
 
@@ -76,12 +75,16 @@ We did daily icebreakers during the event:
 
 These were absolutely fantastic for student engagement during the event. It let them share something and others comment on it, fostering discussion in what could otherwise a very isolating experience working along in your home or office.
 
-TODO: IMAGE
+<figure>
+  <img src="/assets/images/smorg-chat.png"
+  alt="Many overlapping screenshots showing the contents of various slack messages">
+  <figcaption>Everyone loved meeting each other, finding new colleagues in their part of the world, or from their home country, and chatting. It gave an incredible feeling of community during the week with so much diversity, it was amazing to see.</figcaption>
+</figure>
 
 
 And amazingly the event being officially over did not discourage participants! People were so excited for this event they continued to register after the event had begun, and continued chatting the next weeks, supported by our volunteers.
 
-![Identical to the previous slack message barchart, but it extends until March 8th.](/assets/images/smorg-slack-after.png)
+![Identical to the previous slack message barchart, but it extends until March 8th.](/assets/images/messages-all.png)
 
 ## Helpers
 
@@ -145,13 +148,13 @@ Too much content for 1 week                     | 11
 Specific tutorial                               | 4
 Too much/little detail in video                 | 4
 Waiting for Galaxy                              | 2
-Tool issues                                     | 2
-Lack of videos in CYOA                          | 2
-Needing to use different servers                | 1
-Lack of publicisation of course                 | 1
-Size of videos for those with limited bandwidth | 1
-Lack of in-person social aspect                 | 1
 {: .table.table-striped}
+<!--Tool issues                                     | 2-->
+<!--Lack of videos in CYOA                          | 2-->
+<!--Needing to use different servers                | 1-->
+<!--Lack of publicisation of course                 | 1-->
+<!--Size of videos for those with limited bandwidth | 1-->
+<!--Lack of in-person social aspect                 | 1-->
 
 Many people reported similar experiences regarding the volume of the content. It is an unfortunate reality that bosses and colleagues often see online events differently to in-person training:
 
@@ -170,7 +173,7 @@ There are a few responses from attendees we especially want to highlight. Captio
 > [..]
 > Hats off to you! I really profit from the subtitles, can even follow videos without sound that way.
 
-This enabled not only d/Deaf/<abbr title="hard of hearing">HoH</abbr> participants to attend, but also those who might have struggled with the accents of our instructors, or the rate at which they spoke. Another 8 registrants specifically requested recordings (something they might have missed in the course advertising) but yet another fantastic benefit of asynchronous events like ours is that all materials remain online and participants can follow them at their own pace, reviewing them as needed.
+This enabled not only <abbr title="The 'uppercase D' Deaf is used to describe people who identify as culturally Deaf, while the lowercase d deaf simply refers to the physical condition of having hearing loss">d/Deaf</abbr>/<abbr title="Hard-of-hearing is a widely-accepted term to describe mild to moderate hearing loss">HoH</abbr> participants to attend, but also those who might have struggled with the accents of our instructors, or the rate at which they spoke. Another 8 registrants specifically requested recordings (something they might have missed in the course advertising) but yet another fantastic benefit of asynchronous events like ours is that all materials remain online and participants can follow them at their own pace, reviewing them as needed.
 
 # Thank You
 
