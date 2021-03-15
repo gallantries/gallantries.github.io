@@ -20,9 +20,7 @@ With instructors and organisers from the CINECA and the Gallantries we developed
 
 So as a community we recorded **25 hours of video**, corrected the captions for it, and posted it online, free to the world.
 
-## Logistics & Communications
-
-The workshop was well publicised across Twitter, CINECA, ELIXIR, and the Galaxyproject websites, recruiting a large number of participants.
+## Participants
 
 <figure>
   <img src="/assets/images/smorg-country.png"
@@ -64,6 +62,10 @@ By watch time **45% of our users watched with subtitles**.
 
 ## Slack
 
+Activity on Slack during the event was quite high:
+
+![Bar chart of slack messages sent, many are social every day, others split into day 1/2/3/4/5](/assets/images/smorg-slack-during.png)
+
 We did daily icebreakers during the event:
 
 1. Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)
@@ -76,6 +78,10 @@ These were absolutely fantastic for student engagement during the event. It let 
 
 TODO: IMAGE
 
+
+And amazingly the event being officially over did not discourage participants! People were so excited for this event they continued to register after the event had begun, and continued chatting the next weeks, supported by our volunteers.
+
+![Identical to the previous slack message barchart, but it extends until March 8th.](/assets/images/smorg-slack-after.png)
 
 ## Helpers
 
