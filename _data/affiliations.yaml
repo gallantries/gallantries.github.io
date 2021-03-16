@@ -72,11 +72,16 @@ inrae:
   name: INRAE
   link: "https://www.inrae.fr/"
   logo: inrae.svg
+  
+ iocb:
+   name: Institute of Organic Chemistry and Biochemistry, Prague
+   link: "https://www.uochb.cz/en"
 
 johnshopkins:
   name: Johns Hopkins University
   link: "https://www.jhu.edu/"
   logo: hopkins.png
+  
 melbourneuni:
   name: University of Melbourne
   link: "https://www.unimelb.edu.au/"
