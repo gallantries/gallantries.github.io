@@ -6,23 +6,28 @@ tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
 ---
 
-The Gallantries has finished our first event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/). We discussed our plans a bit in our previous post about the [Admin Training]({% link _posts/2021-02-01-gat.md %}) which we were using as a testing ground for our methodology. We scaled that up in Smörgåsbord and it was absolutely incredible!
+The Gallantries has just run the largest-ever Galaxy training event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/). We discussed our plans a bit in our previous post about the [Admin Training]({% link _posts/2021-02-01-gat.md %}) which we were using as a testing ground for our methodology. We scaled that approach up for Smörgåsbord and it was absolutely incredible!
 
 ## Exponential Growth
 
-We had an unbelievable 1189 registrations from 76 different countries around the world. 583 of these joined Slack which we used to communicate during the event, surpassing our expectations.
+We had an unbelievable 1189 registrations from 76 different countries around the world. 583 of these joined Slack (chat platform) which we used to communicate during the event, surpassing our expectations.
 
 ![Growth in cumulative registrations over time](/assets/images/smorg-reg.png)
 
-We had been in the processing of planning a small, 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further and when we finally got around to planning it, we knew it would be online. A few of our collaborators got in touch saying they were interested in co-hosting this event and their communities were desperate for proteomics and mass spectometry training. So we said: "Sure! We'll open this up to everyone. *What could go wrong?*"
+We had originally been planning a small 20 person workshop in ErasmusMC when the COVID-19 pandemic struck. The workshop kept getting pushed back further and further, until it became clear that the pandemic would prevent in-person events for quite some time to come, so we decided to move the course online. Some Australian Galaxy community members got in touch saying they were interested in co-hosting this event, and that their communities were desperate for Galaxy training, in particular proteomics and mass spectometry training. So we said: "Sure! We'll open this up to everyone!", and before we knew it we were planning a global, 24/7 event covering all time zones.
 
-With instructors and organisers from the CINECA and the Gallantries we developed a workable plan for an online, world-wide event. For this event we decided to go **fully asynchronous**. We would place *everything online* and students could follow along at their own pace, taking breaks whenever they liked. We identified this as a maximally productive solution: we can reach the widest audience with the very limited number of qualified instructors. We tested this at small scale and by the time it was our turn, the event had become huge. We knew that the methodology would work, we knew that the materials could be taught online and via self-study, thanks in part to the Gallantries work to ensure broadcast-friendliness.
+With instructors and organisers from the [CINECA project](https://cineca-project.eu) and the [Gallantries](https://gallantries.github.io), we developed a workable plan for an online, world-wide event. For this event we decided to go **fully asynchronous**. This meant having all training materials onlnine, including pre-recorded videos, slides, hands-on manuals, and of course the Galaxy servers to run the tutorials on.
 
-So our community got together and organised the Smörgåsbord.
+This format meant participants could follow along **at their own pace**, and on their own time schedule, allowing it to be combined with other activities such as work and child-care responsibilities. The program also reflected this flexibility, with most days consisting of stand-alone modules, that could be skipped if participants were not so interested in that particular topic, and followed on any day of the traning week if needed. With **all the materials being publicly available online**, participants also knew they would be able to continue with the course after the event if needed, relieving some time pressure.
+
+Due to the existing focus on supporting self-study in all our [GTN training materials](https://training.galaxyproject.org), and the focus of the Gallantries project on creating broadcast-friendly materials, this switch to this virtual asynchronous format was relatively painless.
+
+So our community got together and organised the Smörgåsbord!
+
 
 ## Participants
 
-We had students from across the world
+We had registrations from around the world
 
 <figure>
   <img src="/assets/images/smorg-country.png"
@@ -45,7 +50,7 @@ We are currently working to improve the GTN framework for frequently asked quest
 
 ## Videos
 
-The main, massive change with this event was the asynchronous nature. We created videos for as many topics as we could in advance and then placed all of these on YouTube for our students. Subtitles were a hard requirement for the videos, given the world-wide nature and number of non-native English speakers that would attend this event, both as instructors and students. Many of our instructors, for instance, have strong accents and we needed to ensure the videos were completely accessible to our students. This is something we *cannot* achieve in real life that we can do *better* in an asynchronous event.
+The main innovation with this event was the asynchronous nature. We pre-recorded all training sessions and made them available on YouTube for our students. This enabled us to provide subtitles for the videos, which was extremely valuable for the accessibility of the event, given the world-wide nature and number of non-native English speakers that would participate in this event, both as instructors and students.
 
 <figure>
   <img src="/assets/images/smorg-youtube.png"
@@ -63,11 +68,11 @@ For our **25 hours of video**, by watch time, **45% of our users watched with su
 
 ## Slack
 
-Activity on Slack during the event was quite high. As seen in the following graph, students largely worked on the tutorials assigned for that day. RNA-Seq sees questions asked on day 2, Day 3's scRNA only sees questions on day 3, etc. We did not expect everyone would keep to the schedule so closely. The only exception is the Day 1 content where many students started late and were catching up on the tutorials.
+Activity on Slack during the event was quite high. As seen in the following graph, students largely worked on the tutorials assigned for that day. The RNA-Seq module sees questions asked primarily on day 2 when it was scheduled, day 3's scRNA only primarialy saw questions on day 3, etc. We did not expect everyone would keep to the schedule so closely. The only exception is the Day 1 content where many students started late and were catching up on the tutorials.
 
 ![Bar chart of slack messages sent, many are social every day, others split into day 1/2/3/4/5](/assets/images/messages-during.png)
 
-We did daily icebreakers during the event:
+In order to encourage engagement in Slack, we posted daily icebreakers during the event:
 
 1. Introduce yourself, tell us where you're joining from, and one thing about your surroundings (e.g. it's snowing outside, there's a squirrel on my porch, my cat is on my keyboard)
 2. Share with us how your 5-year-old self would have finished this sentence: 'When I grow up, I want to be ...' (and what you are actually doing now that you're grown up)
@@ -88,11 +93,15 @@ And amazingly the event being officially over did not discourage participants! P
 
 ![Identical to the previous slack message bar chart, but it extends until March 8th.](/assets/images/messages-all.png)
 
-## Helpers
+## Instructors
 
-The logistics of organising helpers across such a wide arrange of timezones was not a simple task! We started by breaking the world into three regions, <abbr title="asia / pacific">APAC</abbr> (or <abbr title="Asia / Pacific / Oceania">APO</abbr> in our documents), <abbr title="Europe, Middle East, Africa">EMEA</abbr>, and the Americas. We recruited helpers from each of these regions.
+The logistics of organising instructors across such a wide arrange of timezones was not a simple task. We identified over 60 instructors covering all time zones.
 
 ![Heat map of the world with helpers spread across. Most helpers resided in the US, followed by Europe. India, South Africa, and Brazil are also represented](/assets/images/smorg-helpers.png)
+
+
+The asynchronous format did not only allow participants to manage their time better, but also instructors. With over 60 instructors -all volunteers from the global Galaxy community- available on Slack throughout the week to answer questions, instructors were also able to combine support for this event with other responsibilities while still retaning continuous coveage of instructors.
+
 
 <!--## Participants-->
 
@@ -103,7 +112,7 @@ The logistics of organising helpers across such a wide arrange of timezones was 
 
 ## Feedback
 
-The feedback from students was largely very positive. Most students found the training extremely useful to them.
+The feedback from students was very positive. Most students found the training extremely useful to them.
 
 ![bar chart titled "How useful was the training". 79 responses. 79,7% gave a 5; 17,7% gave a 4.](/assets/images/smorg-f-useful.png)
 
@@ -177,17 +186,28 @@ There are a few responses from attendees we especially want to highlight. Captio
 
 This enabled not only <abbr title="The 'uppercase D' Deaf is used to describe people who identify as culturally Deaf, while the lowercase d deaf simply refers to the physical condition of having hearing loss">d/Deaf</abbr>/<abbr title="Hard-of-hearing is a widely-accepted term to describe mild to moderate hearing loss">HoH</abbr> participants to attend, but also those who might have struggled with the accents of our instructors, or the rate at which they spoke. Another 8 registrants specifically requested recordings (something they might have missed in the course advertising) but yet another fantastic benefit of asynchronous events like ours is that all materials remain online and participants can follow them at their own pace, reviewing them as needed.
 
+## Infrastructure
+
+This course was made possibly through the support of the 3 largest Galaxy servers, [Galaxy Main](https://usegalaxy.org) in the US, [Galaxy Europe](https://usegalaxy.eu), and [Galaxy Australia](https://usegalaxy.org.au). The teams behind each of those Galaxy servers invested a lot of time and effort to ensure all necessary tools were available and running smoothly, and that sufficient resources were available to handle such a large number of participants at the same time. By using 3 Galaxy servers in geographically distinct locations, the computational load was spread out over mulltiple sites, and participants could use the server nearest them for the best experience. This also meant we had fallback options in case one of the servers experienced any downtime (which they did not).
+
+
 # Thank You
 
-We'd like to say thank you to all of our instructors and sponsors!
+We'd like to say thank you to all of our speaker, instructors, sysadmins and sponsors!
 
 ## Instructors
 
-A huge thank you to the instructors who produced videos, as well as the huge number of folks who helped edit and correct captions
+A huge thank you to the instructors who produced videos, as well as the huge number of folks who helped edit and correct captions and answered questions online during the week. We could not have done this without you!
 
-## Sponsors
+{% include _includes/hof.html %}
 
-We are grateful to the US Galaxy Team for providing resources on UseGalaxy.org. Likewise, a significant portion of our infrastructure was graciously provided by Galaxy Australia
+## Acknowledgements
+
+We are grateful to the US Galaxy Team for providing resources on UseGalaxy.org. Likewise, a significant portion of our infrastructure was graciously provided by Galaxy Australia and Galaxy Europe.
+
+{% include _includes/institutions.html %}
+
+
 
 [![Australian BioCommons](/assets/logos/biocommons.png)](https://www.biocommons.org.au/galaxy-australia)
 

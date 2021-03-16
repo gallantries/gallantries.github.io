@@ -1,0 +1,237 @@
+abretaud:
+    name: Anthony Bretaudeau
+    affiliation: inrae
+
+afgane:
+    name: Enis Afgan
+    affiliation: johnshopkins
+
+aheikema:
+    name: Astrid Heikema
+    affiliation: erasmusmc
+    photo: astrid.jpeg
+
+andrewr:
+    name: Andrew Rajczewski
+    affiliation: minnesotauni
+    photo: andrew_r.jpg
+
+annasyme:
+    name: Anna Syme
+    affiliation: melbourneuni
+
+annefou:
+    name: Anne Fouilloux
+    affiliation: eoscnordic
+
+assuntad23:
+    name: Assunta DeSanto
+    affiliation: pennstate
+
+awspolly:
+    name: These slides are narrated by AWS Polly.
+    photo: polly.png
+
+beatrizserrano:
+    name: Beatriz Serrano-Solano
+    affiliation: freiburguni
+
+bebatut:
+    name: Bérénice Batut
+    affiliation: freiburguni
+
+bgruening:
+    name: Björn Grüning
+    affiliation: freiburguni
+
+blankenberg:
+    name: Daniel Blankenberg
+    affiliation: clevelandclinic
+
+colineroyaux:
+    name: Coline Royaux
+    affiliation: cnrs
+
+combesf:
+    name: Florence Combes
+    affiliation: ifb
+
+dannon:
+    name: Dannon Baker
+    affiliation: johnshopkins
+
+davebx:
+    name: Dave Bouvier
+    affiliation: pennstate
+
+dieterbulach:
+    name: Dieter Bulach
+    photo: dieter.png
+    affiliation: melbourneuni
+
+delphine-l:
+    name: Delphine Lariviere
+    affiliation: pennstate
+
+emmaleith:
+    name: Emma Leith
+    affiliation: minnesotauni
+
+ennovytje:
+    name: Yvonne Hiltemann
+    affiliation: barharbourinn
+
+foellmelanie:
+    name: Melanie Föll
+    affiliation: freiburg-uniklinik-surgpathol
+
+fpsom:
+    name: Fotis E. Psomopoulos
+    affiliation: inab-certh
+
+gallardoalba:
+    name: Cristóbal Gallardo
+    affiliation: freiburguni
+
+gmauro:
+    name: Gianmauro Cuccuru
+    affiliation: freiburguni
+
+galaxycommunity:
+    name: The Global Galaxy Community
+    photo: community.png
+
+heylf:
+    name: Florian Heyl
+    affiliation: freiburguni
+
+hexylena:
+    name: Helena Rasche
+    affiliation: avans
+
+hrhotz:
+    name: Hans-Rudolf Hotz
+    affiliation: fmi
+
+jennaj:
+    name: Jennifer Hillman-Jackson
+    affiliation: pennstate
+
+jj-umn:
+    name: James Johnson
+    affiliation: minnesotauni
+
+khanteymoori:
+    name: Alireza Khanteymoori
+    affiliation: freiburguni
+
+kxk302:
+    name: Kaivan Kamali
+    affiliation: pennstate
+
+kmurat1:
+    name: Katarzyna Kamieniecka
+    affiliation: bradforduni
+
+kpoterlowicz:
+    name: Krzysztof Poterlowicz
+    affiliation: bradforduni
+
+ksuderman:
+    name: Keith Suderman
+    affiliation: johnshopkins
+
+lldelisle:
+    name: Lucille Delisle
+    affiliation: epfl
+
+MarenStillger:
+    name: Maren Stillger
+    affiliation: freiburg-uniklinik-surgpathol
+
+martenson:
+    name: Martin Čech
+    affiliation: pennstate
+
+miaomiaozhou88:
+    name: Miaomiao Zhou
+    affiliation: avans
+
+mtekman:
+    name: Mehmet Tekman
+    affiliation: freiburguni
+
+mvdbeek:
+    name: Marius van den Beek
+    affiliation: pennstate
+
+nagoue:
+    name: Nadia Goué
+    affiliation: ifb
+
+natefoo:
+    name: Nate Coraor
+    affiliation: pennstate
+
+nekrut:
+    name: Anton Nekrutenko
+    affiliation: pennstate
+
+nomadscientist:
+    name: Wendi Bacon
+    affiliation: ebi
+
+pratikdjagtap:
+    name: Pratik Jagtap
+    affiliation: minnesotauni
+
+pvanheus:
+    name: Peter van Heusden
+    affiliation: sanbi
+
+shiltemann:
+    name: Saskia Hiltemann
+    affiliation: erasmusmc
+
+simonbray:
+    name: Simon Bray
+    affiliation: freiburguni
+
+s3by01:
+    name: Sébastien Fouilloux
+
+subinamehta:
+    name: Subina Mehta
+    affiliation: minnesotauni
+
+slugger70:
+    name: Simon Gladman
+    affiliation: melbourneuni
+
+timothygriffin:
+    name: Timothy J. Griffin
+    affiliation: minnesotauni
+
+tklingstrom:
+    name: Tomas Klingström
+    affiliation: slu
+
+tnabtaf:
+    name: Dave Clements
+    affiliation: johnshopkins
+
+willemdek11:
+    name: Willem de Koning
+    affiliation: erasmusmc
+
+yvanlebras:
+    name: Yvan Le Bras
+    affiliation: mnhn
+
+yvesvdb:
+    name: Yves Vandenbrouck
+    affiliation: ifb
+
+ic4f:
+    name: Sergey Golitsynskiy
+    affiliation: johnshopkins
