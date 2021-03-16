@@ -1,0 +1,9 @@
+<div class="row" style='padding: 2em; content-width: 90%'>
+ <div>
+ {% for image in site.static_files %}
+  {% if image.path contains 'images/logos' %}
+   <img src="{{ site.baseurl }}{{ image.path }}" alt="logo" style="height:5em; margin: 1em;"/>
+  {% endif %}
+ {% endfor %}
+ </div>
+</div>

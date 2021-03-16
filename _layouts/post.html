@@ -15,10 +15,17 @@ layout: default
 
 		<div class="meta">
 			{% if page.author %}
-			<div class="text-muted"><em>by</em>&nbsp;
-				<a href="https://training.galaxyproject.org/hall-of-fame/{{ page.author }}/">
-				<img src="https://avatars.githubusercontent.com/{{ page.author }}" alt="{{ site.data.people[page.author].name }}" style="height: 4em;">{{ site.data.people[page.author].name }}</a>
-			</div>
+				<div class="text-muted"><em>by</em>&nbsp;
+				{% if page.author.first %}
+					{% for author in page.author %}
+						<a href="https://training.galaxyproject.org/hall-of-fame/{{ author }}/">
+						<img src="https://avatars.githubusercontent.com/{{ author }}" alt="{{ site.data.people[author].name }}" style="height: 4em;">{{ site.data.people[author].name }}</a>
+					{% endfor %}
+				{% else %}
+						<a href="https://training.galaxyproject.org/hall-of-fame/{{ page.author }}/">
+						<img src="https://avatars.githubusercontent.com/{{ page.author }}" alt="{{ site.data.people[page.author].name }}" style="height: 4em;">{{ site.data.people[page.author].name }}</a>
+				{% endif %}
+				</div>
 			{% endif %}
 			<p class="text-muted">Published: {{ page.date | date: "%b %-d, %Y" }}</p>
 			<div>{% for tag in page.tags %}<span class="badge badge-secondary">{{ tag }}</span>&nbsp;&nbsp;{% endfor %}</div>

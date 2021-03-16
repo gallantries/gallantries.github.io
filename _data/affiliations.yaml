@@ -1,0 +1,109 @@
+avans:
+  name: Avans Hogeschool
+  link: "https://avans.nl"
+  logo: avans.jpeg
+
+barharbourinn:
+  name: Harbour Cottage Inn
+  link: "https://harbourcottageinn.com/"
+  logo: harbourcottage.jpg
+
+bradforduni:
+  name: University of Bradford
+  link: "https://www.bradford.ac.uk/"
+  logo: bradforduni.jpg
+
+clevelandclinic:
+  name: Cleveland Clinic
+  link: "https://my.clevelandclinic.org/"
+  logo: clevelandclinic.jpg
+
+cnrs:
+  name: "Le Centre national de la recherche Scientifique"
+  link: "https://www.cnrs.fr/"
+  logo: cnrs.svg
+
+ebi:
+  name: EMBL-EBI
+  link: "https://www.ebi.ac.uk/"
+  logo: embl-ebi.png
+
+eoscnordic:
+  name: EOSC-Nordic
+  link: "https://www.eosc-nordic.eu/"
+  logo: eosc_nordic.png
+
+epfl:
+  name: Swiss Federal Institute of Technology Lausanne
+  link: "https://www.epfl.ch/en/"
+  logo: epfl.jpg
+
+erasmusmc:
+  name: Erasmus Medical Center
+  link: "https://erasmusmc.nl"
+  logo: 03_erasmusmc.png
+
+fmi:
+  name: Friedrich Miescher Institute
+  link: "https://www.fmi.ch/"
+  logo: fmi.png
+
+freiburguni:
+  name: Albert-Ludwigs-Universität Freiburg
+  link: "https://uni-freiburg.de/"
+  logo: 04_unifreiburg.png
+
+freiburg-uniklinik-surgpathol:
+  name:  Institute of Surgical Pathology - Universitätsklinikum Freiburg
+  link: "https://www.uniklinik-freiburg.de/pathologie-en.html"
+  logo: 06_uniklikik.png
+
+inab-certh:
+  name: INAB|CERTH
+  link: "https://www.inab.certh.gr/"
+  logo: 05_inab.jpg
+
+ifb:
+  name: French Institute of Bioinformatics
+  link: "https://www.france-bioinformatique.fr"
+  logo: ifb.jpg
+
+inrae:
+  name: INRAE
+  link: "https://www.inrae.fr/"
+  logo: inrae.svg
+
+johnshopkins:
+  name: Johns Hopkins University
+  link: "https://www.jhu.edu/"
+  logo: hopkins.png
+melbourneuni:
+  name: University of Melbourne
+  link: "https://www.unimelb.edu.au/"
+  logo: unimelbourne.jpg
+
+minnesotauni:
+  name: University of Minnesota
+  link: "https://twin-cities.umn.edu/"
+  logo: minnesotauni.png
+
+mnhn:
+  name: "Muséum National d’Histoire Naturelle "
+  link: "https://www.mnhn.fr/en"
+  logo: mnhn.jpg
+
+pennstate:
+  name: Penn State University
+  link: "https://www.psu.edu/"
+  logo: pennstate.png
+
+sanbi:
+  name: SANBI/UWC
+  link: "https://www.sanbi.org/"
+  logo: sanbi.png
+  mouseover: "South African National Bioinformatics Institute, South African MRC Bioinformatics Unit, University of the Western Cape, Bellville, 7535, South Africa"
+
+slu:
+  name: Swedish University of Agricultural Sciences
+  link: "https://www.slu.se"
+  logo: slu.png
