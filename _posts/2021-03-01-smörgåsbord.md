@@ -207,10 +207,3 @@ We are grateful to the US Galaxy Team for providing resources on UseGalaxy.org. 
 
 {% include _includes/institutions.html %}
 
-
-
-[![Australian BioCommons](/assets/logos/biocommons.png)](https://www.biocommons.org.au/galaxy-australia)
-
-European compute resources were provided by Bioinformatics, University of Freiburg (Germany) funded by the Collaborative Research Centre 992 Medical Epigenetics (DFG grant SFB 992/1 2012) and the German Federal Ministry of Education and Research BMBF grant 031 A538A de.NBI-RBC.
-
-[![de.NBI Logo](/assets/logos/denbi.png)](https://cloud.denbi.de/)
