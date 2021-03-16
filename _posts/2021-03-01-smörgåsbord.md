@@ -80,13 +80,17 @@ In order to encourage engagement in Slack, we posted daily icebreakers during th
 4. Please let us know what you favorite thing about the course is so far.
 5. Share one of your favorite books, TV shows, movies or games that you would recommend to others.
 
-These were absolutely fantastic for student engagement during the event. It let them share something and others comment on it, fostering discussion in what could otherwise a very isolating experience working along in your home or office.
+These were absolutely fantastic for student engagement during the event. It let them share something and others comment on it, fostering discussion in what could otherwise a very isolating experience working along in your home or office. Overall this created a very positive environment with lots of interaction among participants and between participants and instructors.
 
 <figure>
   <img src="/assets/images/smorg-chat.png"
   alt="Many overlapping screenshots showing the contents of various slack messages">
   <figcaption>Everyone loved meeting each other, finding new colleagues in their part of the world, or from their home country, and chatting. It gave an incredible feeling of community during the week with so much diversity, it was amazing to see.</figcaption>
 </figure>
+
+and the many emoji reactions reflected this feeling of positivity in Slack:
+
+![wordcloud of the emoji used in Slack]({{site.baseurl}}/assets/images/smorgasbord/emoji-cloud.jpeg)
 
 
 And amazingly the event being officially over did not discourage participants! People were so excited for this event they continued to register after the event had begun, and continued chatting the next weeks, supported by our volunteers.
