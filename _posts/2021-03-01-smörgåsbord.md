@@ -224,7 +224,7 @@ A huge thank you to the instructors who produced videos, as well as the huge num
 
 ## Acknowledgements
 
-We are grateful to the US Galaxy Team for providing resources on UseGalaxy.org. Likewise, a significant portion of our infrastructure was graciously provided by Galaxy Australia and Galaxy Europe.
+We are grateful to the US Galaxy Team for providing resources on UseGalaxy.org. Likewise, a significant portion of our infrastructure was graciously provided by Galaxy Australia and Galaxy Europe. And of course thanks to all our speakers and instructors from institutes around the world for their time and effort to help make this event a success!
 
 {% include _includes/institutions.html %}
 
