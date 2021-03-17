@@ -51,7 +51,7 @@ We are currently working to improve the GTN framework for frequently asked quest
 
 ## Course Website
 
-All the content for the course was collected on the course webpage, which served as the main entry point for participatns. Here all the information needed to follow the course was collected. Participants could view the program, find links to the videos, slides, training manuals, Slack channels, FAQ documents and all other relevant information for each of the sessions.
+All the content for the course was collected on the [course webpage](https://shiltemann.github.io/global-galaxy-course/workshop), which served as the main entry point for participatns. Here all the information needed to follow the course was collected. Participants could view the program, find links to the videos, slides, training manuals, Slack channels, FAQ documents and all other relevant information for each of the sessions.
 
 <figure>
   <img src="/assets/images/smorgasbord/program_both.png"
@@ -61,7 +61,7 @@ All the content for the course was collected on the course webpage, which served
 
 This webpage was completely public, and has remained online ever since the event. This means that participants can continue working through the materials after the course, and anybody can use the materials for self-study, even if they did not participate in the event.
 
-This course webpage was created using jekyll and we will turn this into a template repository for easy re-use by other instructors planning similar online Galaxy event.
+This course webpage was created using [Jekyll](https://jekyllrb.com/), with source code publicly [available on GitHub](https://github.com/shiltemann/global-galaxy-course). We are planning to create a [template repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) based on this work to allow for the easy re-use by other instructors planning similar online Galaxy events.
 
 
 ## Videos
