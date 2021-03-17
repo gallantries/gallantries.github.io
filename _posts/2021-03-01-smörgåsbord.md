@@ -51,7 +51,7 @@ We are currently working to improve the GTN framework for frequently asked quest
 
 ## Course Website
 
-All the content for the course was collected on the [course webpage](https://shiltemann.github.io/global-galaxy-course/workshop), which served as the main entry point for participatns. Here all the information needed to follow the course was collected. Participants could view the program, find links to the videos, slides, training manuals, Slack channels, FAQ documents and all other relevant information for each of the sessions.
+All the content for the course was collected on the [course webpage](https://shiltemann.github.io/global-galaxy-course/workshop), which served as the main entry point for participants. Here all the information needed to follow the course was presented. Participants could view the program, find links to the videos, slides, training manuals, Slack channels, FAQ documents and all other relevant information for each of the sessions.
 
 <figure>
   <img src="/assets/images/smorgasbord/program_both.png"
@@ -59,7 +59,7 @@ All the content for the course was collected on the [course webpage](https://shi
   <figcaption>Screenshot of the course webpage. It showed the week's program (left), and each session could be expanded to reveal more information about the session (description, speaker, etc), as well as all information required to follow it (right). This included links to the video, written training materials (slides and hands-on manuals on the GTN website), FAQ documents, Slack channel, and any other useful links. It also lists the Galaxy servers the tutorial could be run on.".</figcaption>
 </figure>
 
-This webpage was completely public, and has remained online ever since the event. This means that participants can continue working through the materials after the course, and anybody can use the materials for self-study, even if they did not participate in the event.
+This webpage was completely public, and has remained online ever since the event. This means that participants can continue working through the materials after the course, and anybody can now use the materials for self-study, even if they did not participate in the original event.
 
 This course webpage was created using [Jekyll](https://jekyllrb.com/), with source code publicly [available on GitHub](https://github.com/shiltemann/global-galaxy-course). We are planning to create a [template repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) based on this work to allow for the easy re-use by other instructors planning similar online Galaxy events.
 
@@ -211,6 +211,9 @@ This enabled not only <abbr title="The 'uppercase D' Deaf is used to describe pe
 
 This course was made possibly through the support of the 3 largest Galaxy servers, [Galaxy Main](https://usegalaxy.org) in the US, [Galaxy Europe](https://usegalaxy.eu), and [Galaxy Australia](https://usegalaxy.org.au). The teams behind each of those Galaxy servers invested a lot of time and effort to ensure all necessary tools were available and running smoothly, and that sufficient resources were available to handle such a large number of participants at the same time. By using 3 Galaxy servers in geographically distinct locations, the computational load was spread out over multiple sites, and participants could use the server nearest them for the best experience. This also meant we had fallback options in case one of the servers experienced any downtime (which they did not).
 
+## The First of Many?
+
+With the ovewhelmingly positive feedback from both paticipants and instructors, we hope to make this a recurring (likely annual) event. While in-person event will become possible again after the pandemic ends, many of the advantages of this online asynchronous format remain, and provide accessible training to a large number of participants from around the world who may face barriers to attending in-person events.
 
 # Thank You
 
