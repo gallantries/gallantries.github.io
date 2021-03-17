@@ -4,6 +4,7 @@ title: "GTN Smörgåsbord: A Global Galaxy Course"
 toc: true
 tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
+cover: /assets/images/messages-during.png
 ---
 
 The Gallantries has just run the largest-ever Galaxy training event: ["the GTN Smörgåsbord: A Global Galaxy Course"](https://shiltemann.github.io/global-galaxy-course/), co-organized with the [CINECA project](https://cineca-project.eu) and the [Galaxy Training Network](https://training.galaxyproject.org). We discussed our plans a bit in our previous post about the [Admin Training]({% link _posts/2021-02-01-gat.md %}) which we were using as a testing ground for our methodology. We scaled that approach up for Smörgåsbord and it was absolutely incredible!

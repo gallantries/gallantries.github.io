@@ -2,6 +2,7 @@
 title: "Gallantries"
 description: >
   When Galaxy meets Carpentries to develop Scalable, Modular, Eco-friendly, COVID-ready Bioinformatics Curricula
+url: "https://gallantries.github.io"
 logo: 'assets/images/gallantries-logo-with-word-large.svg'
 repository: galaxy-carpentries/gallantries
 gitter: galaxy-carpentries/community
