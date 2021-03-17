@@ -48,9 +48,25 @@ We additionally created <abbr title="Frequently Asked Questions">FAQ</abbr> docu
 We are currently working to improve the GTN framework for frequently asked questions in order to re-integrate all of these superb tutorial FAQ documents back into the training material where they'll be visible and accessible to students of other events.
 -->
 
+
+## Course Website
+
+All the content for the course was collected on the course webpage, which served as the main entry point for participatns. Here all the information needed to follow the course was collected. Participants could view the program, find links to the videos, slides, training manuals, Slack channels, FAQ documents and all other relevant information for each of the sessions.
+
+<figure>
+  <img src="/assets/images/smorgasbord/program_both.png"
+  alt="Screenshot of the course webpage. It showed the week's program, and each session could be expanded to reveal more information about the session (description, speaker, etc), as well as all information required to follow it. This included links to the video, written training materials (slides and hands-on manuals on the GTN website), FAQ documents, Slack channel, and any other useful links. It also lists the Galaxy servers the tutorial could be run on.">
+  <figcaption>Screenshot of the course webpage. It showed the week's program (left), and each session could be expanded to reveal more information about the session (description, speaker, etc), as well as all information required to follow it (right). This included links to the video, written training materials (slides and hands-on manuals on the GTN website), FAQ documents, Slack channel, and any other useful links. It also lists the Galaxy servers the tutorial could be run on.".</figcaption>
+</figure>
+
+This webpage was completely public, and has remained online ever since the event. This means that participants can continue working through the materials after the course, and anybody can use the materials for self-study, even if they did not participate in the event.
+
+This course webpage was created using jekyll and we will turn this into a template repository for easy re-use by other instructors planning similar online Galaxy event.
+
+
 ## Videos
 
-The main innovation with this event was the asynchronous nature. We pre-recorded all training sessions and made them available on YouTube for our students. This enabled us to provide subtitles for the videos, which was extremely valuable for the accessibility of the event, given the world-wide nature and number of non-native English speakers that would participate in this event, both as instructors and students.
+The main innovation with this event was the asynchronous nature. We pre-recorded all training sessions and made them [available on YouTube](https://www.youtube.com/channel/UCwoMMZPbz1L9AZzvIvrvqYA/playlists?view=50&sort=dd&shelf_id=4) for our students. This enabled us to provide subtitles for the videos, which was extremely valuable for the accessibility of the event, given the world-wide nature and number of non-native English speakers that would participate in this event, both as instructors and students.
 
 <figure>
   <img src="/assets/images/smorg-youtube.png"
@@ -65,6 +81,7 @@ English   | 2,999 (41.8%) | 710.5 (45.9%)
 {: .table.table-striped}
 
 For our **25 hours of video**, by watch time, **45% of our users watched with subtitles**.
+
 
 ## Slack
 
