@@ -105,7 +105,7 @@ These were absolutely fantastic for student engagement during the event. It let 
   <figcaption>Everyone loved meeting each other, finding new colleagues in their part of the world, or from their home country, and chatting. It gave an incredible feeling of community during the week with so much diversity, it was amazing to see.</figcaption>
 </figure>
 
-and the wordcloud generated from the many emoji reactions used in Slack over the week reflected this feeling of positivity:
+The wordcloud we generated from the many emoji reactions used in Slack over the week reflected this feeling of positivity:
 
 ![wordcloud of the emoji used in Slack]({{site.baseurl}}/assets/images/smorgasbord/emoji-cloud.jpeg)
 
