@@ -14,7 +14,17 @@ Use on dark background | Use on light background
 ![](assets/images/gallantries-logo-with-word-large.svg) | ![](assets/images/gallantries-logo-with-word-inverted-large.svg)
 [SVG Logo](assets/images/gallantries-logo-with-word-large.svg) | [SVG Logo](assets/images/gallantries-logo-with-word-inverted-large.svg)
 
-# Current Blurb
+# Erasmus+ Logo Requirements
+
+> Beneficiaries of European Union (EU) funding are obliged to display the EU flag and to acknowledge the support received under the relevant EU programmes in all communication and promotional material.
+>
+> The European Union emblem (flag) must be used and the name of the European Union displayed in full. The name of the Erasmus+ programme can appear with the flag. The preferred option is to write "Co-funded by" or "With the support of", then "the Erasmus+ programme of the European Union" next to the EU flag.
+
+[![](assets/images/logosbeneficaireserasmusright_en.jpg)](assets/images/logosbeneficaireserasmusright_en.jpg)
+
+This project (2020-1-NL01-KA203-064717) is funded with the support of the Erasmus+ programme of the European Union.
+
+# Current Blurb (160 words)
 
 The Gallantries project is a collaboration between five European universities, members of Software Carpentry, and members of the Galaxy Project. The project aims to increase bioinformatics and core data analysis skills in the field of life sciences across Europe. In collaboration with higher education institutions we will be developing novel bioinformatics learning modules which can be used alone or combined together to easily build courses with reusable, regularly updated lessons. Several institutions are exploring giving ECTS for completion of these modules.
 
