@@ -20,23 +20,28 @@ The Gallantries project is a collaboration between five European universities, m
 
 A pilot effort in 2019 developed Hybrid Training; students in classrooms watched a single instructor broadcast a lesson and on-site helpers assisted them. This significantly improved the scalability and decreased the environmental impact of having the best instructors travel around Europe to teach. With the SARS-CoV-2 pandemic in 2020 we have moved to fully online lessons further decreasing environmental impact of teaching and bringing the best instructors to students, while simultaneously making lessons more accessible for all learners.
 
-# Carpentries Blurb
+
+# Founding Project Blurbs
+
+## Carpentries
 
 The Carpentries initiative aims at teaching basic computational competencies (coding, data management) to scientists through the use of live-coding and adherence to a set of best-practice pedagogical guidelines.
 
-# Galaxy Blurb 1
+## Galaxy (25 words)
 
 The [Galaxy data analysis platform](https://galaxyproject.org) is a free, online, user-friendly data analysis platform, that makes complex data analyses—otherwise only accessible to trained bioinformaticians—accessible to all scientists.
 
-# Galaxy Blurb 2
+## Galaxy (90 words)
 
 Galaxy is an open, web-based platform for accessible, reproducible, and transparent computational research. *Accessible*: programming experience is not required to easily upload data, run complex tools and workflows, and visualize results. *Reproducible*: Galaxy captures information so that you don't have to; any user can repeat and understand a complete computational analysis, from tool parameters to the dependency tree. *Transparent*: Users share and publish their histories, workflows, and visualisations via the web. *Community centered*: Our inclusive and diverse users (developers, educators, researchers, clinicians, etc.) are empowered to share their findings.
 
-# GTN Blurb
+## GTN (40 words)
 
 In collaboration with [GOBLET](https://www.mygoblet.org/) and the [ELIXIR Training Platform](https://www.elixir-europe.org/platforms/training), the [Galaxy Training Network (GTN)](https://galaxyproject.org/teach/gtn/) developed an infrastructure to deliver open, peer-reviewed and FAIR training material with [>190 tutorials developed by >170 contributors,](https://training.galaxyproject.org/stats) available at [training.galaxyproject.org](https://training.galaxyproject.org), for scientists, developers, and system administrators.
 
-# Pre-grant blurbs
+# Historical Blurbs
+
+## Pre-grant blurbs
 
 Last year we piloted a novel paradigm for distributed training, where some of the most experienced Galaxy trainers in High Throughput Sequencing data analysis were able to provide training on that topic, which was simultaneously broadcasted across Europe. Interested groups simply announced a workshop, ordered some coffee and booked a computer room, and then joined the live stream, while having the opportunity to directly interact with the trainer for questions, clarifications and general feedback. The overall training, webserver administration, compute resources, training material and all other aspects of the event was handled by our team for all involved sites.
 
