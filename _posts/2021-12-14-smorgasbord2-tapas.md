@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTN Smörgåsbord 2: Tapas Edition @ 14-18 March"
+title: "GTN Smörgåsbord 2: Tapas Edition [14-18 March]"
 toc: true
 tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
