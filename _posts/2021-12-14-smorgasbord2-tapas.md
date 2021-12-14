@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "GTN Smörgåsbord 2: Tapas Edition"
+title: "GTN Smörgåsbord 2: Tapas Edition @ 14-18 March"
 toc: true
 tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
-cover: /assets/images/smorgasbord/emoji-cloud.jpeg
+cover: /assets/images/smorgasbord2/banner-500.png
 ---
 
 Following the overwhelming success of the GTN Smörgåsbord, where we hosted the largest-ever Galaxy training event, we're happy to announce Smörgåsbord 2! A second event with *even more Galaxy Training*
@@ -19,8 +19,6 @@ Following the overwhelming success of the GTN Smörgåsbord, where we hosted the
      src="/assets/images/smorgasbord2/banner.png"
 	 width=920 height=644
      alt="Black text on a yellow background. Title card for Smörgåsbord 2 announcing that it will be 14-18 march in very large text, and the highlights of the course like Single Cell, Proteomics, SARS-CoV-2 and galaxy admin training. A bitly link is included which redirects to this page. There is a watterman butterfly map projection of the earth indicating it is a global event as well as an EU flag and GTN logo of supporters. @gxytraining and @Gallantries_EU's twitter handles are linked.">
-
-<img src=""
 
 We expect to cover all of the same tracks as previous, with the addition of several new modules:
 
@@ -39,7 +37,7 @@ As before, it will be a global 5-day [Galaxy](https://galaxyproject.org/) Traini
 </a>
 
 **When**
-:  March 14-18, 2021 (all time zones)
+:  March 14-18, 2022 (all time zones)
 
 **Who**
 :  Open for everybody
