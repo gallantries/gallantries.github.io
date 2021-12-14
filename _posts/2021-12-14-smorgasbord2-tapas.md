@@ -37,7 +37,8 @@ As before, it will be a global 5-day [Galaxy](https://galaxyproject.org/) Traini
 </a>
 
 **When**
-:  March 14-18, 2022 (all time zones). <br> Add to your calendar: <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NG1tMjU5OGNrOWxqMG1la25mNGZ1ZTJrb2kgbG9oazY3YTlxZXJkbmY4NjZkbGo1cHY3MWtAZw&amp;tmsrc=lohk67a9qerdnf866dlj5pv71k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+:  March 14-18, 2022 (all time zones). <br><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220314%2F20210319&details=https%3A%2F%2Fgallantries.github.io%2Fposts%2F2021%2F12%2F14%2Fsmorgasbord2-tapas%2F%3Futm_source%3Dcalendar-link%26utm_medium%3Dcalendar%26utm_campaign%3Dsmorgasbord2&location=Online&text=GTN%20Sm%C3%B6rg%C3%A5sbord%202%3A%20Tapas%20Edition" class="btn btn-info" alt="Add to Google Calendar">Add to Google Calendar</a>&nbsp;<a href="https://outlook.live.com/calendar/0/deeplink/compose?body=https%3A%2F%2Fgallantries.github.io%2Fposts%2F2021%2F12%2F14%2Fsmorgasbord2-tapas%2F%3Futm_source%3Dcalendar-link%26utm_medium%3Dcalendar%26utm_campaign%3Dsmorgasbord2&enddt=2022-03-19&location=Online&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-03-14&subject=GTN%20Sm%C3%B6rg%C3%A5sbord%202%3A%20Tapas%20Edition" class="btn btn-info">Add to Outlook</a>&nbsp;<a href="https://outlook.office.com/calendar/0/deeplink/compose/?body=https%3a%2f%2fgallantries.github.io%2fposts%2f2021%2f12%2f14%2fsmorgasbord2-tapas%2f%3futm_source%3dcalendar-link%26utm_medium%3dcalendar%26utm_campaign%3dsmorgasbord2&enddt=2022-03-19&allday=true&location=Online&path=%2fcalendar%2faction%2fcompose&rru=addevent&startdt=2022-03-14&subject=GTN+Sm%C3%B6rg%C3%A5sbord+2%3a+Tapas+Edition" class="btn btn-info">Add to Office 365</a>
+
 
 **Who**
 :  Open for everybody
