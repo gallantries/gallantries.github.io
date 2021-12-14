@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "GTN Smörgåsbord 2: Tapas Edition [14-18 March]"
+title: "GTN Smörgåsbord 2: 14-18 March"
 toc: true
 tags: [teaching, training, pandemic, remote-teaching, videos]
 author: [shiltemann, hexylena]
 cover: /assets/images/smorgasbord2/banner-500.png
 ---
 
-Following the overwhelming success of the GTN Smörgåsbord, where we hosted the largest-ever Galaxy training event, we're happy to announce Smörgåsbord 2! A second event with *even more Galaxy Training*
+Following the [overwhelming success of the GTN Smörgåsbord]({% link _posts/2021-03-01-smörgåsbord.md %}), where we hosted the largest-ever Galaxy training event, we're happy to announce Smörgåsbord 2! A second event with *even more Galaxy Training*
 
 <a class="btn btn-primary" href="https://forms.gle/ncFNjKXYHi7AbwnP8">
 	Register Now for the Course!
