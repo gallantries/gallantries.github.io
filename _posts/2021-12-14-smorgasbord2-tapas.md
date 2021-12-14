@@ -37,7 +37,7 @@ As before, it will be a global 5-day [Galaxy](https://galaxyproject.org/) Traini
 </a>
 
 **When**
-:  March 14-18, 2022 (all time zones)
+:  March 14-18, 2022 (all time zones). <br> Add to your calendar: <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NG1tMjU5OGNrOWxqMG1la25mNGZ1ZTJrb2kgbG9oazY3YTlxZXJkbmY4NjZkbGo1cHY3MWtAZw&amp;tmsrc=lohk67a9qerdnf866dlj5pv71k%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 **Who**
 :  Open for everybody
