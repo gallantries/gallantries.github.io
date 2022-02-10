@@ -12,6 +12,9 @@ Following the [overwhelming success of the GTN Smörgåsbord]({% link _posts/202
 <a class="btn btn-primary" href="https://forms.gle/ncFNjKXYHi7AbwnP8">
 	Register Now for the Course!
 </a>
+<a class="btn btn-warning" href="https://gallantries.github.io/video-library/events/smorgasbord2/smorg2-tapas.html">
+	Check out the Schedule
+</a>
 
 <img srcset="/assets/images/smorgasbord2/banner-500.png 0.5x,
              /assets/images/smorgasbord2/banner-1kx.png 1x,
@@ -34,6 +37,9 @@ As before, it will be a global 5-day [Galaxy](https://galaxyproject.org/) Traini
 
 <a class="btn btn-primary" href="https://forms.gle/ncFNjKXYHi7AbwnP8">
 	Register Now for the Course!
+</a>
+<a class="btn btn-warning" href="https://gallantries.github.io/video-library/events/smorgasbord2/smorg2-tapas.html">
+	Check out the Schedule
 </a>
 
 **When**
