@@ -35,3 +35,5 @@ Beyond the curriculum, Gallantries aims to address the scalability and ecologica
 ![Graphic depicting training streamed to remote locations](assets/images/handbook/hybrid_training.png)
 
 With these models, we aim to bring training events to the students while reducing the environmental impact of instructor travels.
+
+Follow us on <a rel="me" href="https://mstdn.science/@gallantries">Mastodon</a>
