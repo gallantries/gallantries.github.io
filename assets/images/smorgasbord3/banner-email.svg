@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="35.124999"
-     inkscape:cy="80.124998"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="423.73373"
+     inkscape:cy="80.433394"
      inkscape:document-units="mm"
-     inkscape:current-layer="text2346-6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1912"
      inkscape:window-height="1032"
@@ -186,7 +186,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3839-3"
-       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:15.33333352px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,35.211258,191.08161)"><flowRegion
          id="flowRegion3841-6"><rect
            id="rect3843-7"
@@ -194,8 +194,8 @@
            height="48.974464"
            x="36.36549"
            y="351.34702" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1"
-         id="flowPara4308-6">SARS-CoV-2, RNA-Seq, Single Cell, Proteomics, Machine Learning, Annotation, Climate, Ecology &amp; More!</flowPara></flowRoot>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ffffff;fill-opacity:1;font-size:15.33333352px"
+         id="flowPara4308-6">SARS-CoV-2, RNA-Seq, Single Cell, Proteomics, Cancer, Machine Learning, Annotation, Climate, Ecology, Crates &amp; More!</flowPara></flowRoot>
     <g
        aria-label="GTN Tapas"
        style="font-style:normal;font-weight:normal;font-size:15.63177776px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26052961"
